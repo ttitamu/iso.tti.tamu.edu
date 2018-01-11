@@ -1,0 +1,39 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "SC-39-727", 
+        "Category": {
+            "Item": "System and Communications Protection"
+        }, 
+        "Procedure_Name": "Process Isolation", 
+        "Functional_Areas": {
+            "Item": "Protect"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": "System Communications Protection"
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "LOW", 
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P1"
+        }, 
+        "Risk_Statement": "Insufficient segregation of communications and interfaces between the system processes, may expose sensitive information resources to unauthorized access.", 
+        "Description": "The information system maintains a separate execution domain for each executing process.", 
+        "Example": "The information system automatically enables a separate execution domain.", 
+        "First_Published": "2016-01-14T16:21:17.003Z", 
+        "Last_Updated": "2017-01-19T13:56:59.943Z", 
+        "State_Implementation": "The organization uses operating systems that support process isolation.", 
+        "State_Implementation_Date": "2016-02-01T00:00:00Z", 
+        "State_Implementation_Required": {
+            "Item": "Yes"
+        }, 
+        "Agency_Implementation": null, 
+        "Organization_Implementation_Date": null, 
+        "Testing_Procedures": "Obtain procedures addressing process isolation and ascertain if:\n(i) Information systems maintain separate execution domains for each executing process\n(ii) Each information system process has a distinct address space to securely control the communications and interfaces between the two processes (such that one process cannot modify the executing code of another process)"
+    }
+}

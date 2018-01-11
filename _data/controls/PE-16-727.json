@@ -1,0 +1,39 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "PE-16-727", 
+        "Category": {
+            "Item": "Physical and Environmental Protection"
+        }, 
+        "Procedure_Name": "Delivery and Removal", 
+        "Functional_Areas": {
+            "Item": "Protect"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": "Physical and Environmental Protection"
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "LOW", 
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P2"
+        }, 
+        "Risk_Statement": "Unauthorized parties gain physical access to critical or sensitive information processing facilities due to inadequate physical security policies and standards.", 
+        "Description": "The organization authorizes, monitors, and controls [Assignment: organization-defined types of information system components] entering and exiting the facility and maintains records of those items.", 
+        "Example": "The organization has assessed whether physical security to sensitive areas (e.g., data center, server room, student or patient records room, etc.) can be circumvented.", 
+        "First_Published": "2016-01-14T16:19:47.053Z", 
+        "Last_Updated": "2017-01-19T13:56:48.49Z", 
+        "State_Implementation": "The state organization authorizes, monitors, and controls system components entering and exiting data processing facilities and maintains records of those items.", 
+        "State_Implementation_Date": "2017-02-01T00:00:00Z", 
+        "State_Implementation_Required": {
+            "Item": "Yes"
+        }, 
+        "Agency_Implementation": null, 
+        "Organization_Implementation_Date": null, 
+        "Testing_Procedures": "Obtain physical and environmental protection policy; procedures addressing delivery and removal of information system components from the facility; facility housing the information system; records of items entering and exiting the facility; other relevant documents or records and ascertain if:\n(I)the organization authorizes and controls information system-related items (i.e., hardware, firmware, software) entering and exiting the facility.\n(ii)the organization maintains appropriate records of items entering and exiting the facility."
+    }
+}

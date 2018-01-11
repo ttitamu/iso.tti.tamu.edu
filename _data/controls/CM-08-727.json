@@ -1,0 +1,42 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "CM-08-727", 
+        "Category": {
+            "Item": "Configuration Management"
+        }, 
+        "Procedure_Name": "Information System Component Inventory", 
+        "Functional_Areas": {
+            "Item": "Identify"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": [
+                "Critical Information Asset Inventory", 
+                "Data Classification"
+            ]
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "LOW", 
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P1"
+        }, 
+        "Risk_Statement": "Information and assets associated with information processing facilities are not owned by a designated part of the organization.", 
+        "Description": "The organization:\na. Develops and documents an inventory of information system components that:\n1. Accurately reflects the current information system;\n2. Includes all components within the authorization boundary of the information system;\n3. Is at the level of granularity deemed necessary for tracking and reporting; and\n4. Includes [Assignment: organization-defined information deemed necessary to achieve effective information system component accountability]; and\nb. Reviews and updates the information system component inventory [Assignment: organization-defined frequency].", 
+        "Example": "The organization has an inventory of information system components and a process to keep the information current.", 
+        "First_Published": "2016-01-14T16:20:27.49Z", 
+        "Last_Updated": "2017-01-19T13:56:27.583Z", 
+        "State_Implementation": "The state organization develops, documents, and maintains a current inventory of the components of the information system and relevant ownership information.", 
+        "State_Implementation_Date": "2016-02-01T00:00:00Z", 
+        "State_Implementation_Required": {
+            "Item": "Yes"
+        }, 
+        "Agency_Implementation": "<p>The information resource owner shall develop and document an inventory of all components for an Agency-owned information resource, which accurately reflects the current inforamtion resource and all components within the authorization boundary of the information resource.  The information resource owner shall review and update the component inventory at least annually.</p>", 
+        "Organization_Implementation_Date": "2016-08-24T00:00:00Z", 
+        "Testing_Procedures": "Obtain configuration management policy; procedures addressing information system component inventory; information system inventory records;  security plan; component installation records; other relevant documents or records and ascertain if :\n(I)the organization develops and documents an inventory of the components of the information system:\n-that is at the level of granularity deemed appropriate by the organization for the components included in the inventory that are subject to tracking and reporting.\n-that includes any information determined to be necessary by the organization to achieve effective property accountability.\n-that is consistent with the accreditation boundary of the system.\n(ii)the organization maintains the inventory of the components of the information system to reflect the current state of the system.\n(iii)the organization updates the inventory of information system components as an integral part of component installations."
+    }
+}

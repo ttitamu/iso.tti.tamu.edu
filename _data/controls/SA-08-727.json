@@ -1,0 +1,38 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "SA-08-727", 
+        "Category": {
+            "Item": "Security Assessment and Authorization"
+        }, 
+        "Procedure_Name": "Security Engineering Principles", 
+        "Functional_Areas": {
+            "Item": "Protect"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": "Secure System Services, Acquisition and Development"
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P1"
+        }, 
+        "Risk_Statement": "Programming errors or misconfiguration leads to vulnerabilities that can be exploited.", 
+        "Description": "The organization applies information system security engineering principles in the specification, design, development, implementation, and modification of the information system.", 
+        "Example": "Code updates are reviewed for security gaps/concerns.", 
+        "First_Published": "2016-01-14T16:21:38.037Z", 
+        "Last_Updated": "2017-01-19T13:56:39.753Z", 
+        "State_Implementation": "No statewide control", 
+        "State_Implementation_Date": null, 
+        "State_Implementation_Required": {
+            "Item": "No"
+        }, 
+        "Agency_Implementation": null, 
+        "Organization_Implementation_Date": null, 
+        "Testing_Procedures": "Obtain system and services acquisition policy; procedures addressing security engineering principles used in the development and implementation of the information system; NIST Special Publication 800-27; information system design documentation; security requirements and security specifications for the information system; other relevant documents or records and ascertain if :\n(I)the organization designs and implements the information system using security engineering principles.\n(ii)the organization considers the security design principles in NIST Special Publication 800-27 in the design, development, and implementation of the information system."
+    }
+}

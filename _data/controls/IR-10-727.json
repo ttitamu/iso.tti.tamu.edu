@@ -1,0 +1,31 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "IR-10-727", 
+        "Category": {
+            "Item": "Incident Response"
+        }, 
+        "Procedure_Name": "Integrated Information Security Analysis Team", 
+        "Functional_Areas": null, 
+        "Functional_SubArea_1": null, 
+        "NIST_Baseline_Level": {
+            "Item": "NOT SELECTED"
+        }, 
+        "NIST_Priority": {
+            "Item": "P0"
+        }, 
+        "Risk_Statement": "NA", 
+        "Description": "The organization establishes an integrated team of forensic/malicious code analysts, tool developers, and real-time operations personnel.", 
+        "Example": "NA", 
+        "First_Published": "2016-01-14T16:20:32.647Z", 
+        "Last_Updated": "2016-02-11T19:03:10.173Z", 
+        "State_Implementation": "No statewide control", 
+        "State_Implementation_Date": null, 
+        "State_Implementation_Required": {
+            "Item": "No"
+        }, 
+        "Agency_Implementation": null, 
+        "Organization_Implementation_Date": null, 
+        "Testing_Procedures": null
+    }
+}

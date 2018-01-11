@@ -1,0 +1,35 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "IR-07-727", 
+        "Category": {
+            "Item": "Incident Response"
+        }, 
+        "Procedure_Name": "Incident Response Assistance", 
+        "Functional_Areas": null, 
+        "Functional_SubArea_1": null, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "LOW", 
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P2"
+        }, 
+        "Risk_Statement": "Lack of a Security Incident Response Program may result in improper identification and handling of security events.", 
+        "Description": "The organization provides an incident response support resource, integral to the organizational incident response capability that offers advice and assistance to users of the information system for the handling and reporting of security incidents.", 
+        "Example": "The organization has defined a resource and a back-up resource to provide guidance for the incident management response process.", 
+        "First_Published": "2016-01-14T16:20:11.943Z", 
+        "Last_Updated": "2016-02-11T19:03:09.983Z", 
+        "State_Implementation": "The state organization provides an incident response support resource that offers advice and assistance to users of the information system for the handling and reporting of security incidents. The support resource is an integral part of the organization\u2019s incident response capability.", 
+        "State_Implementation_Date": "2017-02-01T00:00:00Z", 
+        "State_Implementation_Required": {
+            "Item": "Yes"
+        }, 
+        "Agency_Implementation": null, 
+        "Organization_Implementation_Date": null, 
+        "Testing_Procedures": "Obtain Incident response policy; procedures addressing incident response assistance; automated mechanisms supporting incident response support and assistance; other relevant documents or records and ascertain  if :\n(I)the organization provides an incident response support resource that offers advice and assistance to users of the information system for the handling and reporting of security incidents.\n(ii)the incident response support resource is an integral part of the organization\u2019s incident response capability.\n(iii)the organization employs automated mechanisms to increase the availability of incident response-related information and support for incident response support."
+    }
+}

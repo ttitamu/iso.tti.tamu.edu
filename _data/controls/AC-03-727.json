@@ -1,0 +1,39 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "AC-03-727", 
+        "Category": {
+            "Item": "Access Control"
+        }, 
+        "Procedure_Name": "Access Enforcement", 
+        "Functional_Areas": {
+            "Item": "Protect"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": "Access Control"
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "LOW", 
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P1"
+        }, 
+        "Risk_Statement": "Misconfigured access controls provide unauthorized access to information held in application systems.", 
+        "Description": "The information system enforces approved authorizations for logical access to information and system resources in accordance with applicable access control policies.", 
+        "Example": "The organization has Implemented role-based access control to determine how users may have access strictly to those functions that are described in job responsibilities.", 
+        "First_Published": "2016-01-14T16:19:05.067Z", 
+        "Last_Updated": "2017-01-19T13:56:52.503Z", 
+        "State_Implementation": "1. Access to state information resources shall be appropriately managed. \n2. Each user of information resources shall be assigned a unique identifier except for situations where risk analysis demonstrates no need for individual accountability of users. User identification shall be authenticated before the information resources system may grant that user access.", 
+        "State_Implementation_Date": "2015-02-01T00:00:00Z", 
+        "State_Implementation_Required": {
+            "Item": "Yes"
+        }, 
+        "Agency_Implementation": "<p>Each user of Agency-owned information resources is assigned a unique identifier that may not be shared with anyone else.  The unique identifier is required for access to all workstations and enterprise applications.  Role-based access control limits the user's ability to access information resources to only those systems for which the user is authorized.</p>", 
+        "Organization_Implementation_Date": "2016-08-17T00:00:00Z", 
+        "Testing_Procedures": "Obtain access control policy; procedures addressing access enforcement; information system configuration settings and associated documentation; list of assigned authorizations (user privileges); information system audit records; other relevant documents or records and ascertain if \n(I) the information system enforces assigned authorizations for controlling access to the system in accordance with applicable policy; and\n(ii) user privileges on the information system are consistent with the documented user authorizations."
+    }
+}

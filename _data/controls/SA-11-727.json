@@ -1,0 +1,38 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "SA-11-727", 
+        "Category": {
+            "Item": "Security Assessment and Authorization"
+        }, 
+        "Procedure_Name": "Developer Security Testing and Evaluation", 
+        "Functional_Areas": {
+            "Item": "Protect"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": "Secure System Services, Acquisition and Development"
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P1"
+        }, 
+        "Risk_Statement": "Systems are implemented which are not developed according to internal security standards.", 
+        "Description": "The organization requires the developer of the information system, system component, or information system service to:\na. Create and implement a security assessment plan;\nb. Perform [Selection (one or more): unit; integration; system; regression] testing/evaluation at [Assignment: organization-defined depth and coverage];\nc. Produce evidence of the execution of the security assessment plan and the results of the security testing/evaluation;\nd. Implement a verifiable flaw remediation process; and\ne. Correct flaws identified during security testing/evaluation.", 
+        "Example": "Security assessment planning and analysis are a part of the routine code development process.", 
+        "First_Published": "2016-01-14T16:19:52.223Z", 
+        "Last_Updated": "2017-01-19T13:56:39.753Z", 
+        "State_Implementation": "No statewide control", 
+        "State_Implementation_Date": null, 
+        "State_Implementation_Required": {
+            "Item": "No"
+        }, 
+        "Agency_Implementation": null, 
+        "Organization_Implementation_Date": null, 
+        "Testing_Procedures": "Obtain system and services acquisition policy; procedures addressing information system developer/integrator security testing; acquisition contracts and service level agreements; information system developer/integrator security test plans; records of developer/integrator security testing results for the information system; other relevant documents or records and ascertain if :\n(I)the organization requires that information system developers (and systems integrators) create a security test and evaluation plan, implement the plan, and document the results."
+    }
+}

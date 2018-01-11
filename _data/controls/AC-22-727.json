@@ -1,0 +1,39 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "AC-22-727", 
+        "Category": {
+            "Item": "Access Control"
+        }, 
+        "Procedure_Name": "Publicly Accessible Content", 
+        "Functional_Areas": {
+            "Item": "Identify"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": "Privacy and Confidentiality"
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "LOW", 
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P3"
+        }, 
+        "Risk_Statement": "Laws and regulations are violated due to inappropriate disclosure of personal information.", 
+        "Description": "The organization:\na. Designates individuals authorized to post information onto a publicly accessible information system;\nb. Trains authorized individuals to ensure that publicly accessible information does not contain nonpublic information;\nc. Reviews the proposed content of information prior to posting onto the publicly accessible information system to ensure that nonpublic information is not included; and\nd. Reviews the content on the publicly accessible information system for nonpublic information [Assignment: organization-defined frequency] and removes such information, if discovered.", 
+        "Example": "Only select state organization personnel have access to publicly post content.", 
+        "First_Published": "2016-01-14T16:21:19.957Z", 
+        "Last_Updated": "2017-03-21T20:11:36.873Z", 
+        "State_Implementation": "State organizations shall develop policies governing the procedures to post information on publicly accessible information systems.", 
+        "State_Implementation_Date": "2017-02-01T00:00:00Z", 
+        "State_Implementation_Required": {
+            "Item": "Yes"
+        }, 
+        "Agency_Implementation": null, 
+        "Organization_Implementation_Date": null, 
+        "Testing_Procedures": "Obtain access control policy; procedures addressing publicly accessible content; list of users authorized to post publicly accessible content on organizational information systems; training materials and/or records; records of publicly accessible information reviews; records of response to nonpublic information on public Web sites; system audit logs; security awareness training records; other relevant documents or records and ascertain if :\n(I) the organization designates individuals authorized to post information onto an organizational information system that is publicly accessible; \n(ii) the organization trains authorized individuals to ensure that publicly accessible information does not contain nonpublic information; \n(iii) the organization reviews the proposed content of publicly accessible information for nonpublic information prior to posting onto the organizational information system; \n(iv) the organization defines the frequency of reviews of the content on the publicly accessible organizational information system for nonpublic information; \n(v) the organization reviews the content on the publicly accessible organizational information system for nonpublic information in accordance with the organization-defined frequency; and \n(vi) the organization removes nonpublic information from the publicly accessible organizational information system, if discovered."
+    }
+}

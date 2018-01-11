@@ -1,0 +1,35 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "PM-13-727", 
+        "Category": {
+            "Item": "Program Management"
+        }, 
+        "Procedure_Name": "Information Security Workforce", 
+        "Functional_Areas": {
+            "Item": "Identify"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": "Enterprise Security Policy, Standards and Guidelines"
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": "NOT SELECTED"
+        }, 
+        "NIST_Priority": {
+            "Item": "P1"
+        }, 
+        "Risk_Statement": "Lack of establishing focused security workforce development and improvement programs, may result in unclear expectations on safeguarding organizational operations and assets.", 
+        "Description": "The organization establishes an information security workforce development and improvement program.", 
+        "Example": "The organization makes information security training opportunities available to personnel on a continuous basis.", 
+        "First_Published": "2016-01-14T16:20:23.77Z", 
+        "Last_Updated": "2017-03-21T20:11:36.873Z", 
+        "State_Implementation": "State implementation of this standard is incorporated into TAC 202.", 
+        "State_Implementation_Date": null, 
+        "State_Implementation_Required": {
+            "Item": "No"
+        }, 
+        "Agency_Implementation": null, 
+        "Organization_Implementation_Date": null, 
+        "Testing_Procedures": "Obtain policies and procedures addressing information security workforce development and improvement programs and ascertain if:\n(i) the programs focus on developing and institutionalizing core information security capabilities of selected personnel needed to protect organizational operations, assets, and individuals"
+    }
+}

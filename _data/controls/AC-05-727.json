@@ -1,0 +1,38 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "AC-05-727", 
+        "Category": {
+            "Item": "Access Control"
+        }, 
+        "Procedure_Name": "Separation of Duties", 
+        "Functional_Areas": {
+            "Item": "Protect"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": "Account Management"
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P1"
+        }, 
+        "Risk_Statement": "The lack of user segregation of duties may result in unauthorized or unintentional modification or misuse of the organization's information assets.", 
+        "Description": "The organization:\na. Separates [Assignment: organization-defined duties of individuals];\nb. Documents separation of duties of individuals; and\nc. Defines information system access authorizations to support separation of duties.", 
+        "Example": "a. Programmers are not the same individuals as approvers when a change is made to an application system. \nb. Programming controls ensure that the person who enters a financial transaction is not the same as the person who authorizes a payment be made from that transaction.", 
+        "First_Published": "2016-01-14T16:21:43.723Z", 
+        "Last_Updated": "2017-01-19T13:56:53.317Z", 
+        "State_Implementation": "State organizations shall ensure adequate controls and separation of duties for tasks that are susceptible to fraudulent or other unauthorized activity.", 
+        "State_Implementation_Date": "2015-02-01T00:00:00Z", 
+        "State_Implementation_Required": {
+            "Item": "Yes"
+        }, 
+        "Agency_Implementation": "<p>All source code developed within the Agency shall be committed to an Agency-approved code repository service, and be reviewed and approved by an authorized individual designated by the information resource owner prior to release into a production environment.  A developer may not release their own code for mission-critical information resources or those resources with a high risk of fraud.  Financial systems developed by the Agency shall ensure that a person who enters a financial transaction is not the same person who authorized payment to be made from that transaction.</p>", 
+        "Organization_Implementation_Date": "2016-08-17T00:00:00Z", 
+        "Testing_Procedures": "Obtain access control policy; procedures addressing divisions of responsibility and separation of duties; information system configuration settings and associated documentation; list of divisions of responsibility and separation of duties; information system audit records; other relevant documents or records and ascertain if \n(I) the organization establishes appropriate divisions of responsibility and separates duties as needed to eliminate conflicts of interest in the responsibilities and duties of individuals; and\n(ii) the information system enforces separation of duties through assigned access authorizations."
+    }
+}

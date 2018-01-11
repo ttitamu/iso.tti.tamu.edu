@@ -1,0 +1,38 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "DM-01-727", 
+        "Category": {
+            "Item": "Data Minimization and Retention"
+        }, 
+        "Procedure_Name": "Minimization of Personally Identifiable Information", 
+        "Functional_Areas": {
+            "Item": "Identify"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": [
+                "Control Oversight and Safeguard Assurance", 
+                "Privacy and Confidentiality"
+            ]
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": "NOT SELECTED"
+        }, 
+        "NIST_Priority": {
+            "Item": "NA"
+        }, 
+        "Risk_Statement": "Laws and regulations are violated as a result of lack of controls over collection of personally identifiable information (PII)", 
+        "Description": "The organization:\na. Identifies the minimum personally identifiable information (PII) elements that are relevant and necessary to accomplish the legally authorized purpose of collection;\nb. Limits the collection and retention of PII to the minimum elements identified for the purposes described in the notice and for which the individual has provided consent; and\nc. Conducts an initial evaluation of PII holdings and establishes and follows a schedule for regularly reviewing those holdings [Assignment: organization-defined frequency, at least annually] to ensure that only PII identified in the notice is collected and retained, and that the PII continues to be necessary to accomplish the legally authorized purpose.\n(1) MINIMIZATION OF PERSONALLY IDENTIFIABLE INFORMATION | LOCATE / REMOVE / REDACT / ANONYMIZE PII\nThe organization, where feasible and within the limits of technology, locates and removes/redacts specified PII and/or uses anonymization and de-identification techniques to permit use of the retained information while reducing its sensitivity and reducing the risk resulting from disclosure.", 
+        "Example": "A privacy impact assessment determines the extent and nature of PII in the organization, and appropriate handling mechanisms are defined.", 
+        "First_Published": "2016-01-14T16:20:45.927Z", 
+        "Last_Updated": "2017-01-19T13:56:30.583Z", 
+        "State_Implementation": "No statewide control", 
+        "State_Implementation_Date": null, 
+        "State_Implementation_Required": {
+            "Item": "No"
+        }, 
+        "Agency_Implementation": null, 
+        "Organization_Implementation_Date": null, 
+        "Testing_Procedures": "Obtain data privacy policy and procedures; other relevant documents or records and ascertain if:\n(I) the organization identifies the minimum personally identifiable information (PII) elements that are relevant and necessary to accomplish the legally authorized purpose of collection;\n(ii) the organization limits the collection and retention of PII to the minimum elements identified for the purposes described in the notice and for which the individual has provided consent;\n(iii) the organization conducts an initial evaluation of PII holdings and establishes and follows a schedule for regularly reviewing those holdings at least on an annual basis to ensure that only PII identified in the notice is collected and retained, and that the PII continues to be necessary to accomplish the legally authorized purpose; and\n(iv) the organization, where feasible and within the limits of technology, locates and removes/redacts specified PII and/or uses anonymization and de-identification techniques to permit use of the retained information while reducing its sensitivity and reducing the risk resulting from disclosure."
+    }
+}

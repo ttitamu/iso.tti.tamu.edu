@@ -1,0 +1,39 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "PE-02-727", 
+        "Category": {
+            "Item": "Physical and Environmental Protection"
+        }, 
+        "Procedure_Name": "Physical Access Authorizations", 
+        "Functional_Areas": {
+            "Item": "Protect"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": "Physical and Environmental Protection"
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "LOW", 
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P1"
+        }, 
+        "Risk_Statement": "Unauthorized parties gain physical access to facilities due to insufficient physical entry controls.", 
+        "Description": "The organization:\na. Develops, approves, and maintains a list of individuals with authorized access to the facility where the information system resides;\nb. Issues authorization credentials for facility access;\nc. Reviews the access list detailing authorized facility access by individuals [Assignment: organization-defined frequency]; and\nd. Removes individuals from the facility access list when access is no longer required.", 
+        "Example": "Only accepted personnel may enter secured areas.", 
+        "First_Published": "2016-01-14T16:21:02.647Z", 
+        "Last_Updated": "2017-01-19T13:56:48.49Z", 
+        "State_Implementation": "The state organization develops and keeps current a list of personnel with authorized access to the facility where the information system resides (except for those areas within the facility officially designated as publicly accessible) and issues appropriate authorization credentials.", 
+        "State_Implementation_Date": "2016-02-01T00:00:00Z", 
+        "State_Implementation_Required": {
+            "Item": "Yes"
+        }, 
+        "Agency_Implementation": "<p>Information resource owners with responsibility over infrastructure equipment shall: a. Establish a policy identifying positions or roles with authorized access to the facility where the information resource resides; b. Develop, approve, and maintain, in a system of record as determined by the information security officer, a list of individuals based on the identified positions or roles with authorized access to the facility where the information resource resides; c. Issue authorization credentials for facility access; d. Review the access list detailing authorized facility access by individuals at least annually; e. Remove individuals from the facility access list when access is no longer required; and f. Restrict unescorted access to the facility where the information resource resides to personnel with a formal access authorization for all information contained within the resources in the facility.</p>", 
+        "Organization_Implementation_Date": "2016-01-29T00:00:00Z", 
+        "Testing_Procedures": "Obtain physical and environmental protection policy; procedures addressing physical access authorizations; authorized personnel access list; authorization credentials; other relevant documents or records and ascertain if :\n(I)the organization identifies areas within the facility that are publicly accessible.\n(ii)the organization defines in the security plan, explicitly or by reference, the frequency of review and approval for the physical access list and authorization credentials for the facility and the frequency is at least annually.\n(iii)the organization develops and keeps current lists of personnel with authorized access to the facility where the information system resides (except for those areas within the facility officially designated as publicly accessible)\n(iv)the organization issues appropriate authorization credentials (e.g., badges, identification cards, smart cards).\n(v)designated officials within the organization review and approve the access list and authorization credentials in accordance with organization-defined frequency."
+    }
+}

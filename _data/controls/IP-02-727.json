@@ -1,0 +1,41 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "IP-02-727", 
+        "Category": {
+            "Item": "Individual Participation and Redress"
+        }, 
+        "Procedure_Name": "Individual Access", 
+        "Functional_Areas": {
+            "Item": [
+                "Identify", 
+                "Protect"
+            ]
+        }, 
+        "Functional_SubArea_1": {
+            "Item": [
+                "Access Control", 
+                "Privacy and Confidentiality"
+            ]
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": "NOT SELECTED"
+        }, 
+        "NIST_Priority": {
+            "Item": "NA"
+        }, 
+        "Risk_Statement": "Laws and regulations are violated as a result of individuals not having the ability to access their personal information as stored by the company.", 
+        "Description": "The organization:\na. Provides individuals the ability to have access to their personally identifiable information (PII) maintained in its system(s) of records;\nb. Publishes rules and regulations governing how individuals may request access to records maintained in a Privacy Act system of records;\nc. Publishes access procedures in System of Records Notices (SORNs); and\nd. Adheres to Privacy Act requirements and OMB policies and guidance for the proper processing of Privacy Act requests.", 
+        "Example": "Users signoff on acceptable usage guidelines for PII, and have access to relevant information.", 
+        "First_Published": "2016-01-14T16:20:15.38Z", 
+        "Last_Updated": "2017-01-19T13:56:52.503Z", 
+        "State_Implementation": "No statewide control", 
+        "State_Implementation_Date": null, 
+        "State_Implementation_Required": {
+            "Item": "No"
+        }, 
+        "Agency_Implementation": null, 
+        "Organization_Implementation_Date": null, 
+        "Testing_Procedures": "Obtain data privacy policy and procedures; other relevant documents or records and ascertain if:\n(I) the organization provides individuals the ability to have access to their personally identifiable information (PII) maintained in its system(s) of records;\n(ii) the organization publishes rules and regulations governing how individuals may request access to records maintained in a Privacy Act system of records;\n(iii) the organization publishes access procedures in System of Records Notices (SORNs); and\n(iv) the organization adheres to Privacy Act requirements and OMB policies and guidance for the proper processing of Privacy Act requests."
+    }
+}
