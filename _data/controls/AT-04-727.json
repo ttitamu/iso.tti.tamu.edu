@@ -1,0 +1,45 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "AT-04-727", 
+        "Category": {
+            "Item": "Awareness and Training"
+        }, 
+        "Procedure_Name": "Security Training Records", 
+        "Functional_Areas": {
+            "Item": [
+                "Identify", 
+                "Protect"
+            ]
+        }, 
+        "Functional_SubArea_1": {
+            "Item": [
+                "Control Oversight and Safeguard Assurance", 
+                "Security Awareness and Training"
+            ]
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "LOW", 
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P3"
+        }, 
+        "Risk_Statement": "Service Management objectives are not achieved since personnel performing work within service management have inappropriate education, training, skills, and experience.", 
+        "Description": "The organization:\na. Documents and monitors individual information system security training activities including basic security awareness training and specific information system security training; and\nb. Retains individual training records for [Assignment: organization-defined time period].", 
+        "Example": "The organization maintains records of information security training and monitored them for compliance.", 
+        "First_Published": "2016-01-14T16:21:41.677Z", 
+        "Last_Updated": "2017-01-19T13:56:40.77Z", 
+        "State_Implementation": "State organizations shall maintain information security awareness and training records.", 
+        "State_Implementation_Date": "2017-02-01T00:00:00Z", 
+        "State_Implementation_Required": {
+            "Item": "Yes"
+        }, 
+        "Agency_Implementation": "<p>TAMUS TrainTraq is the system of record for information security awareness training.  These records are maintained in accordance with the TAMUS records retention schedule.</p>", 
+        "Organization_Implementation_Date": "2016-08-17T00:00:00Z", 
+        "Testing_Procedures": "Obtain Security awareness and training policy; procedures addressing security training records; security awareness and training records; other relevant documents or records and ascertain if the organization monitors and documents basic security awareness training and specific information system security training."
+    }
+}

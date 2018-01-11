@@ -1,0 +1,31 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "AC-10-727", 
+        "Category": {
+            "Item": "Access Control"
+        }, 
+        "Procedure_Name": "Concurrent Session Control", 
+        "Functional_Areas": null, 
+        "Functional_SubArea_1": null, 
+        "NIST_Baseline_Level": {
+            "Item": "HIGH"
+        }, 
+        "NIST_Priority": {
+            "Item": "P3"
+        }, 
+        "Risk_Statement": "Multiple sessions could be run under the same user account, allowing an attacker to launch a concurrent session without the user\u2019s knowledge.", 
+        "Description": "The information system limits the number of concurrent sessions for each [Assignment: organization-defined account and/or account type] to [Assignment: organization-defined number].", 
+        "Example": "NA", 
+        "First_Published": "2016-01-14T16:19:28.77Z", 
+        "Last_Updated": "2016-02-11T19:03:02.313Z", 
+        "State_Implementation": "No statewide control", 
+        "State_Implementation_Date": null, 
+        "State_Implementation_Required": {
+            "Item": "No"
+        }, 
+        "Agency_Implementation": null, 
+        "Organization_Implementation_Date": null, 
+        "Testing_Procedures": null
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "IA-07-727", 
+        "Category": {
+            "Item": "Identification and Authentication"
+        }, 
+        "Procedure_Name": "Cryptographic Module Authentication", 
+        "Functional_Areas": {
+            "Item": [
+                "Identify", 
+                "Protect"
+            ]
+        }, 
+        "Functional_SubArea_1": {
+            "Item": [
+                "Identification and Authentication", 
+                "Security Compliance and Regulatory Requirements"
+            ]
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "LOW", 
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P1"
+        }, 
+        "Risk_Statement": "Laws and regulations are inadvertently violated due to illegal use of cryptographic controls.", 
+        "Description": "The information system implements mechanisms for authentication to a cryptographic module that meet the requirements of applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance for such authentication.", 
+        "Example": "Encryption mechanisms used on information systems that must comply with federal standards use FIPS 140-2 approved algorithms.", 
+        "First_Published": "2016-01-14T16:19:42.1Z", 
+        "Last_Updated": "2017-03-21T20:11:36.873Z", 
+        "State_Implementation": "Encryption used by the state organization meets the requirements of applicable laws, Executive Orders, directives, policies, regulations, standards, and guidance for authentication to a cryptographic module.", 
+        "State_Implementation_Date": "2016-02-01T00:00:00Z", 
+        "State_Implementation_Required": {
+            "Item": "Yes"
+        }, 
+        "Agency_Implementation": "<p>All cryptographic modules shall use FIPS 140-2 approved algorithms and authenticate to a trusted authority where public key infrastructure is employed.</p>", 
+        "Organization_Implementation_Date": "2016-08-17T00:00:00Z", 
+        "Testing_Procedures": "Obtain Identification and authentication policy; FIPS 140-2 (as amended); procedures addressing cryptographic module authentication; information system design documentation; information system configuration settings and associated documentation; other relevant documents or records and ascertain if the information system employs authentication methods that meet the requirements of applicable laws, Executive Orders, directives, policies, regulations, standards, and guidance for authentication to a cryptographic module (for non-national security systems, the cryptographic requirements are defined by FIPS 140-2, as amended)."
+    }
+}

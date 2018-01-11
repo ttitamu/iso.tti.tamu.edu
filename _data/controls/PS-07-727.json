@@ -1,0 +1,39 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "PS-07-727", 
+        "Category": {
+            "Item": "Personnel Security"
+        }, 
+        "Procedure_Name": "Third-Party Personnel Security", 
+        "Functional_Areas": {
+            "Item": "Protect"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": "Personnel Security"
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "LOW", 
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P1"
+        }, 
+        "Risk_Statement": "Security is breached by employees, contractors or third party users that leverage access given after termination or change of their employment, contract or agreement.", 
+        "Description": "The organization:\na. Establishes personnel security requirements including security roles and responsibilities for third-party providers;\nb. Requires third-party providers to comply with personnel security policies and procedures established by the organization;\nc. Documents personnel security requirements;\nd. Requires third-party providers to notify [Assignment: organization-defined personnel or roles] of any personnel transfers or terminations of third-party personnel who possess organizational credentials and/or badges, or who have information system privileges within [Assignment: organization-defined time period]; and\ne. Monitors provider compliance.", 
+        "Example": "Service level agreements (SLA\u2019s) are be used to define the role of third parties specific to applicable information security policies and procedures.", 
+        "First_Published": "2016-01-14T16:22:05.253Z", 
+        "Last_Updated": "2017-03-21T20:11:36.873Z", 
+        "State_Implementation": "The state organization establishes personnel security requirements including security roles and responsibilities for third-party providers and monitors provider compliance.", 
+        "State_Implementation_Date": "2016-02-01T00:00:00Z", 
+        "State_Implementation_Required": {
+            "Item": "Yes"
+        }, 
+        "Agency_Implementation": null, 
+        "Organization_Implementation_Date": null, 
+        "Testing_Procedures": "Obtain personnel security policy; procedures addressing third-party personnel security; list of personnel security requirements; acquisition documents; compliance monitoring process; other relevant documents or records and ascertain if :\n(I)the organization establishes personnel security requirements, including security roles and responsibilities, for third-party providers (e.g., service bureaus, contractors, and other organizations providing information system development, information technology services, outsourced applications, network and security management).\n(ii)the organization explicitly includes personnel security requirements in acquisition-related documents in accordance with NIST Special Publication 800-35.\n(iii)the organization monitors third-party provider compliance with personnel security requirements."
+    }
+}

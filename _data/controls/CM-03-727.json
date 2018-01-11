@@ -1,0 +1,41 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "CM-03-727", 
+        "Category": {
+            "Item": "Configuration Management"
+        }, 
+        "Procedure_Name": "Configuration Change Control", 
+        "Functional_Areas": {
+            "Item": "Protect"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": [
+                "Change Management", 
+                "Secure Configuration Management"
+            ]
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P1"
+        }, 
+        "Risk_Statement": "Changes to the production environment that are inadequately tested disrupt production environment. Management does not approve changes to the operating environment prior to implementation into production.", 
+        "Description": "The organization:\na. Determines the types of changes to the information system that are configuration-controlled;\nb. Reviews proposed configuration-controlled changes to the information system and approves or disapproves such changes with explicit consideration for security impact analyses;\nc. Documents configuration change decisions associated with the information system;\nd. Implements approved configuration-controlled changes to the information system;\ne. Retains records of configuration-controlled changes to the information system for [Assignment: organization-defined time period];\nf. Audits and reviews activities associated with configuration-controlled changes to the information system; and\ng. Coordinates and provides oversight for configuration change control activities through [Assignment: organization-defined configuration change control element (e.g., committee, board] that convenes [Selection (one or more): [Assignment: organization-defined frequency]; [Assignment: organization-defined configuration change conditions]].", 
+        "Example": "Configuration changes are accepted prior to implementation.", 
+        "First_Published": "2016-01-14T16:19:29.457Z", 
+        "Last_Updated": "2017-01-19T13:56:44.503Z", 
+        "State_Implementation": "No statewide control", 
+        "State_Implementation_Date": null, 
+        "State_Implementation_Required": {
+            "Item": "No"
+        }, 
+        "Agency_Implementation": null, 
+        "Organization_Implementation_Date": null, 
+        "Testing_Procedures": "Obtain configuration management policy; procedures addressing information system configuration change control; configuration management plan; information system design documentation; information system architecture and configuration documentation; change control records; information system audit records; other relevant documents or records and ascertain if :\n(I)the organization employs automated mechanisms to document proposed changes to the information system;\n(ii)the organization employs automated mechanisms to notify appropriate approval authorities;\n(iii)the organization employs automated mechanisms to highlight approvals that have not been received in a timely manner;\n(iv)the organization employs automated mechanisms to inhibit change until necessary approvals are received; and\n(v)the organization employs automated mechanisms to document completed changes to the information system.\n(vi)if the organization tests, validates, and documents changes to the information system before implementing the changes on the operational system"
+    }
+}

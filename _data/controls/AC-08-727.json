@@ -1,0 +1,39 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "AC-08-727", 
+        "Category": {
+            "Item": "Access Control"
+        }, 
+        "Procedure_Name": "System Use Notification", 
+        "Functional_Areas": {
+            "Item": "Protect"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": "Identification and Authentication"
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "LOW", 
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P1"
+        }, 
+        "Risk_Statement": "Unauthorized users log on to information systems.", 
+        "Description": "The information system:\na. Displays to users [Assignment: organization-defined system use notification message or banner] before granting access to the system that provides privacy and security notices consistent with applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance and states that:\n1. Users are accessing a U.S. Government information system;\n2. Information system usage may be monitored, recorded, and subject to audit;\n3. Unauthorized use of the information system is prohibited and subject to criminal and civil penalties; and\n4. Use of the information system indicates consent to monitoring and recording;\nb. Retains the notification message or banner on the screen until users acknowledge the usage conditions and take explicit actions to log on to or further access the information system; and\nc. For publicly accessible systems:\n1. Displays system use information [Assignment: organization-defined conditions], before granting further access;\n2. Displays references, if any, to monitoring, recording, or auditing that are consistent with privacy accommodations for such systems that generally prohibit those activities; and\n3. Includes a description of the authorized uses of the system.", 
+        "Example": "Organizational information systems should display an accepted system use notification message or banner before granting access to the information system.", 
+        "First_Published": "2016-01-14T16:22:00.067Z", 
+        "Last_Updated": "2017-12-19T21:23:38.907Z", 
+        "State_Implementation": "System Identification/Logon Banner. System identification/logon banners shall have warning statements that include the following topics: \n- Unauthorized use is prohibited; \n- Usage may be subject to security testing and monitoring; \n- Misuse is subject to criminal prosecution; and \n- Users have no expectation of privacy except as otherwise provided by applicable privacy laws.", 
+        "State_Implementation_Date": "2015-02-01T00:00:00Z", 
+        "State_Implementation_Required": {
+            "Item": "Yes"
+        }, 
+        "Agency_Implementation": "<p>The mandated system notification message (banner) for all Agency-owned information resources as of April 1, 2017 shall read as shown below:</p>\n<p style=\"padding-left: 30px;\">TITLE: STATE OF TEXAS SYSTEM USE NOTIFICATION</p>\n<p style=\"padding-left: 30px;\">This is a State of Texas information system. Unauthorized use is prohibited and subject to criminal and civil penalties. Use indicates no expectation of privacy except as provided by law and consent to security monitoring, recording, auditing, and testing.</p>", 
+        "Organization_Implementation_Date": "2016-08-05T00:00:00Z", 
+        "Testing_Procedures": "Obtain access control policy; privacy and security policies; procedures addressing system use notification; information system notification messages; information system configuration settings and associated documentation; other relevant documents or records and ascertain if \n(I) the information system displays a system use notification message before granting system access informing potential users:\n- that the user is accessing a U.S. Government information system;\n- that system usage may be monitored, recorded, and subject to audit;\n- that unauthorized use of the system is prohibited and subject to criminal and\ncivil penalties; and\n- that use of the system indicates consent to monitoring and recording;\n(ii) the system use notification message provides appropriate privacy and security notices (based on associated privacy and security policies or summaries);\n(iii) the organization approves the information system use notification message before its use; and\n(iv) the system use notification message remains on the screen until the user takes explicit actions to log on to the information system."
+    }
+}

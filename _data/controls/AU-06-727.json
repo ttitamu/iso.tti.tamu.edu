@@ -1,0 +1,42 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "AU-06-727", 
+        "Category": {
+            "Item": "Audit and Accountability"
+        }, 
+        "Procedure_Name": "Audit Review, Analysis, and Reporting", 
+        "Functional_Areas": {
+            "Item": "Protect"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": [
+                "Media", 
+                "Security Monitoring and Event Analysis"
+            ]
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "LOW", 
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P1"
+        }, 
+        "Risk_Statement": "Audit findings are not effectively communicated or resolved by management.", 
+        "Description": "The organization:\na. Reviews and analyzes information system audit records [Assignment: organization-defined frequency] for indications of [Assignment: organization-defined inappropriate or unusual activity]; and\nb. Reports findings to [Assignment: organization-defined personnel or roles].", 
+        "Example": "A reporting structure is defined and records are periodically promoted to specific management personnel for review, as applicable.", 
+        "First_Published": "2016-01-14T16:19:19.41Z", 
+        "Last_Updated": "2017-01-19T13:57:03.693Z", 
+        "State_Implementation": "The state organization regularly reviews/analyzes information system audit records for indications of inappropriate or unusual activity, investigates suspicious activity or suspected violations, reports findings to appropriate officials, and takes necessary actions.", 
+        "State_Implementation_Date": "2016-02-01T00:00:00Z", 
+        "State_Implementation_Required": {
+            "Item": "Yes"
+        }, 
+        "Agency_Implementation": null, 
+        "Organization_Implementation_Date": null, 
+        "Testing_Procedures": "Obtain audit and accountability policy; procedures addressing audit monitoring, analysis, and reporting; threat information documentation from law enforcement, intelligence community, or other sources; information system configuration settings and associated documentation; information system audit records; reports of audit findings; records of actions taken in response to reviews/analyses of audit records; other relevant documents or records and ascertain if : \n(I)the organization regularly reviews/analyzes audit records for indications of inappropriate or unusual activity;\n(ii)the organization investigates suspicious activity or suspected violations;\n(iii)the organization reports findings of inappropriate/unusual activities, suspicious behavior, or suspected violations to appropriate officials; and\n(iv)the organization takes necessary actions in response to the reviews/analyses of audit records"
+    }
+}
