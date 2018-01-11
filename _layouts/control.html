@@ -1,0 +1,87 @@
+---
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: page
+---
+{% assign control_ID = page.path | remove: 'controls/' | remove: '.html' %}
+{% assign control_record = site.data.controls[control_ID] %}
+{% assign control = control_record.Item %}
+<h1>{{ control.Procedure_Name }}</h1>
+
+<div id="control_id" class="control_row">
+  <label>Control ID</label>
+  <section>{{ control.Procedure_ID }}</section>
+</div>
+
+<div id="control_name" class="control_row">
+	<label>Control Name</label>
+	<section>{{ control.Procedure_Name }}</section>
+</div>
+
+<div id="control_category" class="control_row">
+	<label>Control Category</label>
+	<section>{{ control.Category.Item }}</section>
+</div>
+
+<div id="control_functional_areas" class="control_row">
+	<label>Functional Areas</label>
+	<section>{{ control.Functional_Areas.Item }}</section>
+</div>
+
+<div id="control_functional_subareas" class="control_row">
+	<label>Sub-Areas</label>
+	<section>{{ control.Functional_SubArea_1.Item }}</section>
+</div>
+
+<div id="control_nist_baseline_level" class="control_row">
+	<label>NIST Baseline Level(s)</label>
+	<section>{{ control.NIST_Baseline_Level.Item | join: ', ' }}</section>
+</div>
+
+<div id="control_nist_priority" class="control_row">
+	<label>NIST Priority</label>
+	<section>{{ control.NIST_Priority.Item }}</section>
+</div>
+
+<div id="control_state_impl_required" class="control_row">
+	<label>State Implementation Required</label>
+	<section>{{ control.State_Implementation_Required.Item }}</section>
+</div>
+
+<div id="control_org_impl_date" class="control_row">
+	<label>Agency Last Implemented Date</label>
+	<section>{{ control.Organization_Implementation_Date | date: "%B %-d, %Y" }}</section>
+</div>
+
+<div class="clearfix"></div>
+
+<div id="control_risk_statement" class="control_block">
+	<label>Risk Statement</label>
+	<section>{{ control.Risk_Statement }}</section>
+</div>
+
+<div id="control_description" class="control_block">
+  <label>Control Description</label>
+  <section>{{ control.Description }}</section>
+</div>
+
+<div id="control_example" class="control_block">
+  <label>Control Example</label>
+  <section>{{ control.Example }}</section>
+</div>
+
+<div id="control_state_impl" class="control_block">
+  <label>State Implementation</label>
+  <section>{{ control.State_Implementation }}</section>
+</div>
+
+<div id="control_agency_impl" class="control_block">
+  <label>Agency Implementation</label>
+  <section>{{ control.Agency_Implementation }}</section>
+</div>
+
+<div id="control_testing_procedures" class="control_block">
+  <label>Testing Procedures</label>
+  <section>{{ control.Testing_Procedures }}</section>
+</div>

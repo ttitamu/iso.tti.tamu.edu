@@ -1,0 +1,60 @@
+#header_left {
+  line-height: 110px;
+}
+
+#header_left img {
+  height: 60px;
+  width: auto;
+  border-right: 2px solid #ffffff;
+  padding: 0 15px 0 20px;
+}
+
+#header_title {
+  float: right;
+  font-family: "News Cycle", Arial, sans-serif;
+  font-weight: normal;
+  font-size: 28px;
+  color: #ffffff;
+  padding: 0px 0 0 15px;
+}
+
+.catalog th {
+  text-align: left;
+}
+
+.catalog_family_heading {
+  padding-top: 10px;
+}
+
+.catalog_control_entry {
+  line-height: 1.6em;
+}
+
+.control_row {
+  clear: both;
+}
+
+.control_row label {
+  float: left;
+  width: 230px;
+  padding-right: 20px;
+  text-align: right;
+  font-weight: bold;
+}
+
+.control_block label {
+  padding-top: 20px;
+  font-weight: bold;
+  font-size: 1.2em;
+}
+
+#control_agency_impl {
+  background-color: #ffffe0;
+  border: 1px solid #d6d611;
+  margin-top: 20px;
+  padding: 0px 10px;
+}
+
+#control_agency_impl label {
+  padding-top: 10px;
+}

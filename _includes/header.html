@@ -1,0 +1,52 @@
+<div id="page" class="container page">
+	<div id="header">
+		<div id="header_left">
+			<!-- Make sure to change this image and update the link's location -->
+			<a href="{{ site.data.org.url }}"><img src="{{ site.data.header.img }}" /></a>
+			<a href="/"><p id="header_title">{{ site.data.header.title }}</p></a>
+		</div>
+	</div>
+
+
+<div id="secondary">
+	<div class="navbar">
+		<div class="navbar-inner">
+			<div class="container">
+				<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</a>
+
+				<form class="navbar-search hidden-desktop" style="padding-left:15px">
+						<strong>Search: </strong><input type="text" class="search-query" id="mobilesearch">
+				</form>
+
+				<!-- These are navigation links in the banner, make sure the format is followed correctly -->
+				<div class="nav-collapse collapse" style="">
+					<ul class="nav">
+						{% for item in site.data.links %}
+						{% if item.links %}
+						<li class="dropdown"><a id="drop1" href="{{ item.url }}" role="button" data-toggle="dropdown" class="dropdown-toggle">{{ item.title }}</b></a>
+						<ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
+							{% for subitem in item.links %}
+							<li><a href="{{ subitem.url }}" title="{{ subitem.title }}">{{ subitem.title }}</a></li>
+							{% endfor %}
+						</ul>
+						</li>
+						{% else %}
+						<li><a href="{{ item.url }}" title="{{ item.title }}" {% if page.url == item.url %}class="active"{% endif %}>{{ item.title }}</a></li>
+						{% endif %}
+						{% endfor %}
+					</ul>
+
+					<!-- This is the search field, you'll need to connect the necessary elements before it works though -->
+					<!--
+					<form class="navbar-search pull-right visible-desktop">
+						<strong>Search: </strong><input type="text" class="search-query" id="mobilesearch">
+					</form>
+				-->
+				</div>
+			</div>
+		</div>
+	</div>

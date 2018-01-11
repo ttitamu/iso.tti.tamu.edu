@@ -1,0 +1,89 @@
+---
+layout: page
+title: Security Control Catalog
+quick_links:
+- url: \#AC
+  title: Access Control
+- url: \#AP
+  title: Authority and Purpose
+- url: \#AR
+  title: Accountability, Audit and Risk Management
+- url: \#AT
+  title: Awareness and Training
+- url: \#AU
+  title: Audit and Accountability
+- url: \#CA
+  title: Security Assessment and Authorization
+- url: \#CM
+  title: Configuration Management
+- url: \#CP
+  title: Contingency Planning
+- url: \#DI
+  title: Data Quality and Integrity
+- url: \#DM
+  title: Data Minimization and Retention
+- url: \#IA
+  title: Identification and Authentication
+- url: \#IP
+  title: Individual Participation and Redress
+- url: \#IR
+  title: Incident Response
+- url: \#MA
+  title: Maintenance
+- url: \#MP
+  title: Media Protection
+- url: \#PE
+  title: Physical and Environmental Protection
+- url: \#PL
+  title: Planning
+- url: \#PM
+  title: Program Management
+- url: \#PS
+  title: Personnel Security
+- url: \#RA
+  title: Risk Assessment
+- url: \#SA
+  title: System and Services Acquisition
+- url: \#SC
+  title: System and Communications Protection
+- url: \#SE
+  title: Security
+- url: \#SI
+  title: System and Information Integrity
+- url: \#TR
+  title: Transparency
+- url: \#UL
+  title: Use Limitation
+---
+
+<p>The Texas A&amp;M Transportation Institute Security Control Standards Catalog
+  (“Controls Catalog”) establishes the minimum standards and controls for agency
+  information security in accordance with the state’s Information Security Standards
+  for Institutions of Higher Education found in Title 1, Chapter 202, Texas
+  Administrative Code (TAC 202). For more information, visit the
+  <a href="/policies.html">Policy and Standards</a> page.</p>
+
+<hr />
+
+<table id="catalog">
+  <tr>
+    <th>Procedure ID</th>
+    <th>Procedure Name</th>
+    <th>NIST Priority</th>
+  </tr>
+{% assign controls = site.data.controls | sort %}
+{% for control_record in controls %}
+{% assign control = control_record[1].Item %}
+{% if family != control.Category.Item %}
+  <tr>
+    <td colspan="3" class="catalog_family_heading"><strong><a name="{{ control.Procedure_ID | slice: 0, 2 }}">{{ control.Category.Item }}</a></strong></td>
+  </tr>
+{% assign family = control.Category.Item %}
+{% endif %}
+  <tr class="catalog_control_entry">
+    <td><a href="controls/{{ control.Procedure_ID }}.html">{{ control.Procedure_ID }}</a></td>
+    <td>{{ control.Procedure_Name }}</td>
+    <td>{{ control.NIST_Priority.Item }}</td>
+  </tr>
+{% endfor %}
+</table>
