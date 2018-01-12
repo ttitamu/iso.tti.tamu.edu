@@ -1,6 +1,6 @@
 # TTI ISO Website
 
-This is the public website of the TTI Information Security Office, which includes the TTI security control catalog.
+This is the public website of the Texas A&M Transportation Institute Information Security Office, which includes the TTI agency security control catalog.
 
 To update the controls in the catalog:
 
