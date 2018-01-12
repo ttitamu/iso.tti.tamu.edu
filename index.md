@@ -2,6 +2,8 @@
 layout: page
 ---
 
+# About the Information Security Office
+
 The information security office supports the Network & Information Systems Division, and the agency as a whole, by collaborating with agency leadership, and agency and university system audit, compliance, and legal units, to provide advice and policy and technical guidance for securely operating and maintaining the agency’s information resources.
 
 ## Policy and Standards
