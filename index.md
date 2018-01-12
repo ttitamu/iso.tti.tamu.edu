@@ -29,3 +29,5 @@ The ISO manages incident response, investigation, and reporting. This includes p
 ## Mission
 
 The mission of the Information Security Office (ISO), as required by state law, is to assure the security of the agency’s information resources and the existence of a safe computing environment in which the agency community may conduct research and teach in support of the Texas A&M University land-grant mission.
+
+{{ page.url }}
