@@ -26,12 +26,12 @@ layout: page
 
 <div id="control_functional_areas" class="control_row">
 	<label>Functional Areas</label>
-	<section>{{ control.Functional_Areas.Item }}</section>
+	<section>{{ control.Functional_Areas.Item | join: ', ' }}</section>
 </div>
 
 <div id="control_functional_subareas" class="control_row">
 	<label>Sub-Areas</label>
-	<section>{{ control.Functional_SubArea_1.Item }}</section>
+	<section>{{ control.Functional_SubArea_1.Item | join: ', ' }}</section>
 </div>
 
 <div id="control_nist_baseline_level" class="control_row">
