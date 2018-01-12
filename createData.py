@@ -5,7 +5,11 @@ import xmltodict
 import xml.etree
 import xml.etree.ElementTree as ET
 
-filelist = glob.glob(os.path.join("_data/controls", "*.json"))
+filelist = glob.glob(os.path.join("_data/controls", "*"))
+for f in filelist:
+	os.remove(f)
+
+filelist = glob.glob(os.path.join("controls", "*"))
 for f in filelist:
 	os.remove(f)
 
