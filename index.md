@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Home
 ---
 
 # About the Information Security Office
