@@ -25,13 +25,13 @@
         "Description": "The information system enforces approved authorizations for controlling the flow of information within the system and between interconnected systems based on [Assignment: organization-defined information flow control policies].", 
         "Example": "The organization issues individual, separate user IDs between access control systems.", 
         "First_Published": "2016-01-14T16:20:15.99Z", 
-        "Last_Updated": "2018-01-20T05:54:37.457Z", 
+        "Last_Updated": "2018-01-20T07:57:28.85Z", 
         "State_Implementation": "No statewide control", 
         "State_Implementation_Date": null, 
         "State_Implementation_Required": {
             "Item": "No"
         }, 
-        "Agency_Implementation": "Agency-issued unique identifiers are administered from a centralized access control system (Microsoft Active Directory) to ensure that levels of authorization between interconnected systems are consistently applied for each authorized user.", 
+        "Agency_Implementation": "<p>Agency-issued unique identifiers are administered from a centralized access control system (Microsoft Active Directory) to ensure that levels of authorization between interconnected systems are consistently applied for each authorized user.</p>", 
         "Organization_Implementation_Date": "2018-01-19T00:00:00Z", 
         "Testing_Procedures": "Obtain access control policy; procedures addressing information flow enforcement; information system design documentation; information system configuration settings and associated documentation; information system baseline configuration; list of information flow authorizations; information system audit records; other relevant documents or records and ascertain if the information system enforces assigned authorizations for controlling the flow of information within the system and between interconnected systems in accordance with applicable policy."
     }
