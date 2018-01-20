@@ -76,10 +76,12 @@ layout: page
   <section>{{ control.State_Implementation }}</section>
 </div>
 
+{% if control.Agency_Implementation %}
 <div id="control_agency_impl" class="control_block">
   <label>Agency Implementation</label>
   <section>{{ control.Agency_Implementation }}</section>
 </div>
+{% endif %}
 
 <div id="control_testing_procedures" class="control_block">
   <label>Testing Procedures</label>
