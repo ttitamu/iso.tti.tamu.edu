@@ -29,13 +29,13 @@
         "Description": "The information system:\na. Provides audit record generation capability for the auditable events defined in AU-2 a. at [Assignment: organization-defined information system components];\nb. Allows [Assignment: organization-defined personnel or roles] to select which auditable events are to be audited by specific components of the information system; and\nc. Generates audit records for the events defined in AU-2 d. with the content defined in AU-3.", 
         "Example": "The organization defines auditable events per application/operating system.", 
         "First_Published": "2016-01-14T16:19:17.567Z", 
-        "Last_Updated": "2017-03-21T20:11:36.873Z", 
+        "Last_Updated": "2018-01-20T06:49:46.04Z", 
         "State_Implementation": "State organizations shall configure information systems to generate audit records to support AU-2 and AU-3.", 
         "State_Implementation_Date": "2016-02-01T00:00:00Z", 
         "State_Implementation_Required": {
             "Item": "Yes"
         }, 
-        "Agency_Implementation": "<p>All Agency-owned information resources shall adopt Center for Internet Security (CIS) Benchmarks Level I standards for audit generation policies where possible.  In the event a benchmark is not available, each information resource shall generate audit records for all process-related and user-related security events, as a minimum.</p>", 
+        "Agency_Implementation": "<p>All mission-critical and sensitive Agency information resources shall adopt Center for Internet Security (CIS) Benchmarks Level I standards for audit generation policies where possible.  In the event a benchmark is not available, each information resource shall generate audit records for all process-related and user-related security events, as a minimum.</p>", 
         "Organization_Implementation_Date": "2016-08-18T00:00:00Z", 
         "Testing_Procedures": "Obtain audit and accountability policy; procedures addressing audit record generation; security plan; information system design documentation; information system configuration settings and associated documentation; information system audit records; other relevant documents or records and ascertain if :\n(I) the organization defines the information system components that provide audit record generation capability for the list of auditable events defined in AU-2; \n(ii) the information system provides audit record generation capability, at organization-defined information system components, for the list of auditable events defined in AU-2; \n(iii) the information system allows designated organizational personnel to select which auditable events are to be audited by specific components of the system; and \n(iv) the information system generates audit records for the list of audited events defined in AU-2 with the content as defined in AU-3."
     }

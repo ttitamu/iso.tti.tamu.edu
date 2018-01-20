@@ -18,14 +18,14 @@
         "Description": "The organization monitors [Assignment: organization-defined open source information and/or information sites] [Assignment: organization-defined frequency] for evidence of unauthorized disclosure of organizational information.", 
         "Example": "The organization monitors public sources for evidence of unauthorized disclosure of organizational information.", 
         "First_Published": "2016-01-14T16:20:48.833Z", 
-        "Last_Updated": "2016-02-11T19:03:05.687Z", 
+        "Last_Updated": "2018-01-20T06:52:54.573Z", 
         "State_Implementation": "No statewide control", 
         "State_Implementation_Date": null, 
         "State_Implementation_Required": {
             "Item": "No"
         }, 
-        "Agency_Implementation": null, 
-        "Organization_Implementation_Date": null, 
+        "Agency_Implementation": "<p>The information security officer shall participate in information sharing and analysis center organizations and subscribe to services that provide monitoring for unauthorized disclosure of organizational information.</p>", 
+        "Organization_Implementation_Date": "2018-01-20T00:00:00Z", 
         "Testing_Procedures": null
     }
 }

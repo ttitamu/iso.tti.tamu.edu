@@ -29,13 +29,13 @@
         "Description": "The organization analyzes changes to the information system to determine potential security impacts prior to change implementation.", 
         "Example": "The organization considers and documents consideration of the potential impact to information security prior to the completion of a change.", 
         "First_Published": "2016-01-14T16:21:40.537Z", 
-        "Last_Updated": "2017-01-19T13:56:44.503Z", 
+        "Last_Updated": "2018-01-20T07:14:49.943Z", 
         "State_Implementation": "\u2022 All security-related information resources changes shall be approved by the information owner through a change control process. \n\u2022 Approval shall occur prior to implementation by the state organization or independent contractors.", 
         "State_Implementation_Date": "2015-02-01T00:00:00Z", 
         "State_Implementation_Required": {
             "Item": "Yes"
         }, 
-        "Agency_Implementation": "<p>All security-related information resources changes shall be approved by the information resource owner through a formal change control process.  In cases where changes will effect mission-critical, confidential, or enterprise-wide information resources, the information security officer shall review and approve proposed changes before routing to the information resource owner.</p>", 
+        "Agency_Implementation": "<p>All security-related information resources changes shall be approved by the information resource owner through a formal change management process.  In cases where changes will effect mission-critical, confidential, or enterprise-wide information resources, the information security officer shall review and approve proposed changes as part of the change advisory board review.</p>", 
         "Organization_Implementation_Date": "2016-08-24T00:00:00Z", 
         "Testing_Procedures": "Obtain configuration management policy; procedures addressing the monitoring of configuration changes to the information system; information system architecture and configuration documentation; change control records; information system audit records; other relevant documents or records and ascertain if :\n(I)the organization monitors changes to the information system by verifying that the organization:\n-prior to change implementation and as part of the change approval process, conducts security impact analyses to assess the effects of the system changes;\n-after the system is changed (including upgrades and modifications), checks the security features to confirm that the features are still functioning properly; and\n-audits activities associated with configuration changes to the information system."
     }

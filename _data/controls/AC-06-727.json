@@ -25,14 +25,14 @@
         "Description": "The organization employs the principle of least privilege, allowing only authorized accesses for users (or processes acting on behalf of users) which are necessary to accomplish assigned tasks in accordance with organizational missions and business functions.", 
         "Example": "Only authorized users have authorized accounts to establish system accounts, configure access authorizations, filter firewall rules, manage cryptographic keys, and access control lists.", 
         "First_Published": "2016-01-14T16:20:36.27Z", 
-        "Last_Updated": "2017-01-19T13:56:53.317Z", 
+        "Last_Updated": "2018-01-20T06:04:41.233Z", 
         "State_Implementation": "No statewide control", 
         "State_Implementation_Date": null, 
         "State_Implementation_Required": {
             "Item": "No"
         }, 
-        "Agency_Implementation": null, 
-        "Organization_Implementation_Date": null, 
+        "Agency_Implementation": "<p>Access accounts shall be created with a baseline appropriate for the category of account (Domain Users receive a minimum level of access to common-good information resources approved for all employees; Affiliate Users receive workstaiton login access; Guest Users receive no access).  All subsequent granting of access is afforded to the minimum degree necessary, as determined by the information resource owner, for the user to accomplish assigned tasks.</p>\n<p>Administrator accounts for IT professional users shall be authorized to perform limited privileged access tasks, such as login to servers and network devices for the purposes of system maintenance and administration.  Sensitive tasks such as account management and access control list administration shall be restricted to members of specific privileged security groups created for that purpose.</p>", 
+        "Organization_Implementation_Date": "2018-01-19T00:00:00Z", 
         "Testing_Procedures": "Obtain access control policy; procedures addressing least privilege; list of assigned access authorizations (user privileges); information system configuration settings and associated documentation; information system audit records; other relevant documents or records and ascertain if \n(I) the organization assigns the most restrictive set of rights/privileges or accesses needed by users for the performance of specified tasks; and\n(ii) the information system enforces the most restrictive set of rights/privileges or accesses needed by users."
     }
 }

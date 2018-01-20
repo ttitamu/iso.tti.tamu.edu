@@ -26,14 +26,14 @@
         "Description": "The organization:\na. Establishes [Assignment: organization-defined policies] governing the installation of software by users;\nb. Enforces software installation policies through [Assignment: organization-defined methods]; and\nc. Monitors policy compliance at [Assignment: organization-defined frequency].", 
         "Example": "Unauthorized software installation is either not allowed, or limited based on access privileges.", 
         "First_Published": "2016-01-14T16:22:13.863Z", 
-        "Last_Updated": "2017-01-19T13:56:43.287Z", 
+        "Last_Updated": "2018-01-20T07:23:41.357Z", 
         "State_Implementation": "The state organization establishes and enforces a policy governing the installation of software by users.", 
         "State_Implementation_Date": "2015-02-01T00:00:00Z", 
         "State_Implementation_Required": {
             "Item": "Yes"
         }, 
-        "Agency_Implementation": null, 
-        "Organization_Implementation_Date": null, 
+        "Agency_Implementation": "<p>Standard users may install user-level applications that are approved by the information resource owner and required to perform official Agency business, and applications published in the workstation's Software Center.</p>\n<p>Privileged access users may additionally install system-level applications <span style=\"color: #000000; font-family: 'Open Sans', Calibri, Arial, Helvetica, 'sans serif'; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">that are approved by the information resource owner and required to perform official Agency business.</span></p>", 
+        "Organization_Implementation_Date": "2018-01-20T00:00:00Z", 
         "Testing_Procedures": "Obtain procedures addressing software installation requirements and ascertain if:\n(i) the policies are enforced through relevant methods; and \n(ii) policy compliance is monitored at an appropriate frequency."
     }
 }

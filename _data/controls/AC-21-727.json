@@ -25,14 +25,14 @@
         "Description": "The organization:\na. Facilitates information sharing by enabling authorized users to determine whether access authorizations assigned to the sharing partner match the access restrictions on the information for [Assignment: organization-defined information sharing circumstances where user discretion is required]; and\nb. Employs [Assignment: organization-defined automated mechanisms or manual processes] to assist users in making information sharing/collaboration decisions.", 
         "Example": "User login credentials are provided based on job responsibilities and periodically reviewed for appropriateness.", 
         "First_Published": "2016-01-14T16:20:24.287Z", 
-        "Last_Updated": "2017-01-19T13:56:54.083Z", 
+        "Last_Updated": "2018-01-20T06:23:10.907Z", 
         "State_Implementation": "No statewide control", 
         "State_Implementation_Date": null, 
         "State_Implementation_Required": {
             "Item": "No"
         }, 
-        "Agency_Implementation": null, 
-        "Organization_Implementation_Date": null, 
+        "Agency_Implementation": "<p>Information owners which permit sharing of information under their control are responsible for ensuring all authorized users understand the information owner's sharing policy, and for reviewing levels of access, to include sharing to external partners, at least every 6 months.</p>", 
+        "Organization_Implementation_Date": "2018-01-20T00:00:00Z", 
         "Testing_Procedures": "Obtain documentation relating to access authorizations and information sharing mechanisms and ascertain if\n(i) information sharing is enabled after ensuring that access authorization matches the information's access restrictions\n(ii) the information sharing mechanisms are enabled to assist personnel in making sharing / collaboration decisions."
     }
 }
