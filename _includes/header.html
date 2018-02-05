@@ -32,7 +32,7 @@
 						<li class="dropdown"><a id="drop1" href="{{ item.url }}" role="button" data-toggle="dropdown" class="dropdown-toggle">{{ item.title }}</b></a>
 						<ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
 							{% for subitem in item.links %}
-							<li><a href="{{ subitem.url | prepend:site.baseurl }}" title="{{ subitem.title }}">{{ subitem.title }}</a></li>
+							<li><a href="{{ subitem.url }}" title="{{ subitem.title }}">{{ subitem.title }}</a></li>
 							{% endfor %}
 						</ul>
 						</li>
