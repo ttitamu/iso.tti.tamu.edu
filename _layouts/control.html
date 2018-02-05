@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
 ---
-{% assign control_ID = page.path | remove: 'controls/' | remove: '.html' %}
+{% assign control_ID = page.path | remove: 'controls/' | remove: '/index.html' %}
 {% assign control_record = site.data.controls[control_ID] %}
 {% assign control = control_record.Item %}
 <h1>{{ control.Procedure_Name }}</h1>
