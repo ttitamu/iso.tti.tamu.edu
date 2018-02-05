@@ -30,6 +30,7 @@ for event, elem in context:
 		with open(filename, 'wb') as f:
 			f.write(jsonString)
 
-		filename = format("controls/" + procedure_ID.text + ".html")
+		filename = format("controls/" + procedure_ID.text + "/index.html")
+		os.makedirs(os.path.dirname(filename))
 		with open(filename, 'wb') as f:
 			f.write(htmlString)
