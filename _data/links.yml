@@ -1,9 +1,9 @@
 - title: Services
-  url: /
+  url: {{ site.baseurl }}/
   links:
   - title: Policy and Standards
-    url: /policies
+    url: {{ site.baseurl }}/policies
 - title: Security Control Catalog
-  url: /catalog
+  url: {{ site.baseurl }}/catalog
 - title: Contact
-  url: /contact
+  url: {{ site.baseurl }}/contact
