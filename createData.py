@@ -17,7 +17,9 @@ context = ET.iterparse('SearchResults.xml', events=('end', ))
 ns = {'ns0': 'http://archertech.com/Print/Export'}
 htmlString = "---\nlayout: control\ntitle: Security Control Details\n---"
 
-shutil.rmtree("controls")
+if os.direxists("controls"):
+	shutil.rmtree("controls")
+
 os.makedirs("controls")
 for event, elem in context:
 	procedure_ID = elem.find('ns0:Procedure_ID', ns)
