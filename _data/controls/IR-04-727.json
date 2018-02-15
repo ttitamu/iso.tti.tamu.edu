@@ -1,0 +1,39 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "IR-04-727", 
+        "Category": {
+            "Item": "Incident Response"
+        }, 
+        "Procedure_Name": "Incident Handling", 
+        "Functional_Areas": {
+            "Item": "Respond"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": "Cyber-Security Incident Response"
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "LOW", 
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P1"
+        }, 
+        "Risk_Statement": "Security incidents continue to occur due to lack of learning from past security incidents.", 
+        "Description": "The organization:\na. Implements an incident handling capability for security incidents that includes preparation, detection and analysis, containment, eradication, and recovery;\nb. Coordinates incident handling activities with contingency planning activities; and\nc. Incorporates lessons learned from ongoing incident handling activities into incident response procedures, training, and testing/exercises, and implements the resulting changes accordingly.", 
+        "Example": "The incident management process evolves based on testing, usage, and feedback.", 
+        "First_Published": "2016-01-14T16:20:09.863Z", 
+        "Last_Updated": "2018-02-13T16:52:59.367Z", 
+        "State_Implementation": "The state organization implements an incident handling capability for security incidents that includes preparation, detection and analysis, containment, eradication, and recovery.", 
+        "State_Implementation_Date": "2016-02-01T00:00:00Z", 
+        "State_Implementation_Required": {
+            "Item": "Yes"
+        }, 
+        "Agency_Implementation": "<p> The information security officer shall coordinate the information security incident handling capability for the Agency, to include: (a) the integration of automated systems to facilitate the detection, analysis, containment, and eradication of, and the recovery from, information security incidents, and (b) the use of internal and external incident response providers to support information security incident handling.  All information security incidents shall be concluded with an after-action review which includes recommendations for remediating the incident's root cause to prevent future similar occurrences.</p>", 
+        "Organization_Implementation_Date": "2018-02-13T00:00:00Z", 
+        "Testing_Procedures": "Obtain incident response policy; procedures addressing incident handling; NIST Special Publication 800-61;automated mechanisms supporting incident handling; other relevant documents or records and ascertain if :\n(I)the organization implements an incident handling capability for security incidents that includes preparation, detection and analysis, containment, eradication, and recovery.\n(ii)the organization incorporates the lessons learned from ongoing incident handling activities into the incident response procedures and implements the procedures accordingly.\n(iii)the organization employs automated mechanisms to support the incident handling process."
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "IP-03-727", 
+        "Category": {
+            "Item": "Individual Participation and Redress"
+        }, 
+        "Procedure_Name": "Redress", 
+        "Functional_Areas": {
+            "Item": "Identify"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": "Privacy and Confidentiality"
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": "NOT SELECTED"
+        }, 
+        "NIST_Priority": {
+            "Item": "NA"
+        }, 
+        "Risk_Statement": "Violations to privacy laws, and regulations cannot be enforced due to ill-defined policy.", 
+        "Description": "The organization:\na. Provides a process for individuals to have inaccurate personally identifiable information (PII) maintained by the organization corrected or amended, as appropriate; and\nb. Establishes a process for disseminating corrections or amendments of the PII to other authorized users of the PII, such as external information-sharing partners and, where feasible and appropriate, notifies affected individuals that their information has been corrected or amended.", 
+        "Example": "Users may access applicable information through the concept of least privilege.", 
+        "First_Published": "2016-01-14T16:21:21.693Z", 
+        "Last_Updated": "2017-01-19T13:56:22.85Z", 
+        "State_Implementation": "No statewide control", 
+        "State_Implementation_Date": null, 
+        "State_Implementation_Required": {
+            "Item": "No"
+        }, 
+        "Agency_Implementation": null, 
+        "Organization_Implementation_Date": null, 
+        "Testing_Procedures": "Obtain data privacy policy and procedures; other relevant documents or records and ascertain if:\n(I) the organization provides a process for individuals to have inaccurate personally identifiable information (PII) maintained by the organization corrected or amended, as appropriate; and\n(ii) the organization establishes a process for disseminating corrections or amendments of the PII to other authorized users of the PII, such as external information-sharing partners and, where feasible and appropriate, notifies affected individuals that their information has been corrected or amended."
+    }
+}

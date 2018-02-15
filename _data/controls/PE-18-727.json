@@ -1,0 +1,31 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "PE-18-727", 
+        "Category": {
+            "Item": "Physical and Environmental Protection"
+        }, 
+        "Procedure_Name": "Location of Information System Components", 
+        "Functional_Areas": null, 
+        "Functional_SubArea_1": null, 
+        "NIST_Baseline_Level": {
+            "Item": "HIGH"
+        }, 
+        "NIST_Priority": {
+            "Item": "P3"
+        }, 
+        "Risk_Statement": "Unauthorized parties gain physical access to critical or sensitive information resources due to resources being located in proximity to public areas.", 
+        "Description": "The organization positions information system components within the facility to minimize potential damage from [Assignment: organization-defined physical and environmental hazards] and to minimize the opportunity for unauthorized access.", 
+        "Example": "NA", 
+        "First_Published": "2016-01-14T16:20:37.287Z", 
+        "Last_Updated": "2016-02-11T19:03:12.297Z", 
+        "State_Implementation": "No statewide control", 
+        "State_Implementation_Date": null, 
+        "State_Implementation_Required": {
+            "Item": "No"
+        }, 
+        "Agency_Implementation": null, 
+        "Organization_Implementation_Date": null, 
+        "Testing_Procedures": null
+    }
+}

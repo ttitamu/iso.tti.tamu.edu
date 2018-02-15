@@ -1,0 +1,31 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "CP-12-727", 
+        "Category": {
+            "Item": "Contingency Planning"
+        }, 
+        "Procedure_Name": "Safe Mode", 
+        "Functional_Areas": null, 
+        "Functional_SubArea_1": null, 
+        "NIST_Baseline_Level": {
+            "Item": "NOT SELECTED"
+        }, 
+        "NIST_Priority": {
+            "Item": "P0"
+        }, 
+        "Risk_Statement": "Systems may be overloaded if unnecessary functionality is allowed during emergencies.", 
+        "Description": "The information system, when [Assignment: organization-defined conditions] are detected, enters a safe mode of operation with [Assignment: organization-defined restrictions of safe mode of operation].", 
+        "Example": "Allowing only certain functions that could be carried out under limited power or with reduced communications bandwidth.", 
+        "First_Published": "2016-01-14T16:21:29.707Z", 
+        "Last_Updated": "2016-02-11T19:03:07.86Z", 
+        "State_Implementation": "No statewide control", 
+        "State_Implementation_Date": null, 
+        "State_Implementation_Required": {
+            "Item": "No"
+        }, 
+        "Agency_Implementation": null, 
+        "Organization_Implementation_Date": null, 
+        "Testing_Procedures": null
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "SA-09-727", 
+        "Category": {
+            "Item": "Security Assessment and Authorization"
+        }, 
+        "Procedure_Name": "External Information System Services", 
+        "Functional_Areas": {
+            "Item": "Identify"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": [
+                "Cloud Usage and Security", 
+                "External Vendors and Third Party Providers"
+            ]
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "LOW", 
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P1"
+        }, 
+        "Risk_Statement": "Services, reports and records provided by a third party are not consistently monitored and reviewed by management.", 
+        "Description": "The organization:\na. Requires that providers of external information system services comply with organizational information security requirements and employ [Assignment: organization-defined security controls] in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance;\nb. Defines and documents government oversight and user roles and responsibilities with regard to external information system services; and\nc. Employs [Assignment: organization-defined processes, methods, and techniques] to monitor security control compliance by external service providers on an ongoing basis.", 
+        "Example": "The organization explicitly defines usage of external systems.", 
+        "First_Published": "2016-01-14T16:20:00.88Z", 
+        "Last_Updated": "2017-03-21T20:11:36.873Z", 
+        "State_Implementation": "The state organization requires that providers of external information system services employ adequate security controls in accordance with these standards and monitors security control compliance.", 
+        "State_Implementation_Date": "2016-02-01T00:00:00Z", 
+        "State_Implementation_Required": {
+            "Item": "Yes"
+        }, 
+        "Agency_Implementation": null, 
+        "Organization_Implementation_Date": null, 
+        "Testing_Procedures": "Obtain system and services acquisition policy; procedures addressing external information system services; acquisition contracts and service level agreements; organizational security requirements and security specifications for external provider services; security control assessment evidence from external providers of information system services; other relevant documents or records and ascertain if:\n(I)the organization requires that providers of external information system services employ adequate security controls in accordance with applicable laws, Executive Orders, directives, policies, regulations, standards, guidance, and established service-level agreements.\n(ii)the organization monitors security control compliance."
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "SI-02-727", 
+        "Category": {
+            "Item": "System and Information Integrity"
+        }, 
+        "Procedure_Name": "Flaw Remediation", 
+        "Functional_Areas": null, 
+        "Functional_SubArea_1": null, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "LOW", 
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P1"
+        }, 
+        "Risk_Statement": "Security vulnerabilities may not be identified timely.", 
+        "Description": "The organization:\na. Identifies, reports, and corrects information system flaws;\nb. Tests software and firmware updates related to flaw remediation for effectiveness and potential side effects before installation;\nc. Installs security-relevant software and firmware updates within [Assignment: organization-defined time period] of the release of the updates; and\nd. Incorporates flaw remediation into the organizational configuration management process.", 
+        "Example": "System flaws are tracked in a central repository for anticipated corrective actions.", 
+        "First_Published": "2016-01-14T16:20:03.787Z", 
+        "Last_Updated": "2016-02-11T19:03:19.64Z", 
+        "State_Implementation": "The state organization identifies, reports, and corrects information system flaws.", 
+        "State_Implementation_Date": "2016-02-01T00:00:00Z", 
+        "State_Implementation_Required": {
+            "Item": "Yes"
+        }, 
+        "Agency_Implementation": null, 
+        "Organization_Implementation_Date": null, 
+        "Testing_Procedures": "Obtain system and information integrity policy; procedures addressing flaw remediation; NIST Special Publication 800-40; list of flaws and vulnerabilities potentially affecting the information system; list of recent security flaw remediation actions performed on the information system (e.g., list of installed patches, service packs, hot fixes, and other software updates to correct information system flaws); test results from the installation of software to correct information system flaws; automated mechanisms supporting flaw remediation; information system design documentation; information system configuration settings and associated documentation; list of information system flaws; information system audit records; other relevant documents or records and ascertain if: \n(I)the organization identifies, reports, and corrects information system flaws.\n(ii)the organization installs newly released security patches, service packs, and hot fixes on the information system in a reasonable timeframe in accordance with organizational policy and procedures.\n(iii)the organization addresses flaws discovered during security assessments, continuous monitoring, or incident response activities in an expeditious manner in accordance with organizational policy and procedures.\n(iv)the organization tests information system patches, service packs, and hot fixes for effectiveness and potential side effects before installation.\n(v)the organization captures all appropriate information pertaining to the discovered flaws in the information system, including the cause of the flaws, mitigation activities, and lessons learned.\n(vi)the organization employs automated mechanisms to periodically and upon demand determine the state of information system components with regard to flaw remediation."
+    }
+}

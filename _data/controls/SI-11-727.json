@@ -1,0 +1,38 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "SI-11-727", 
+        "Category": {
+            "Item": "System and Information Integrity"
+        }, 
+        "Procedure_Name": "Error Handling", 
+        "Functional_Areas": {
+            "Item": "Detect"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": "Security Monitoring and Event Analysis"
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P2"
+        }, 
+        "Risk_Statement": "System failure is not detected in a timely fashion due to inadequate fault logging and monitoring capabilities.", 
+        "Description": "The information system:\na. Generates error messages that provide information necessary for corrective actions without revealing information that could be exploited by adversaries; and\nb. Reveals error messages only to [Assignment: organization-defined personnel or roles].", 
+        "Example": "System failure notifications are provided to employee personnel as needed, automatically.", 
+        "First_Published": "2016-01-14T16:20:00.147Z", 
+        "Last_Updated": "2017-01-19T13:57:03.693Z", 
+        "State_Implementation": "No statewide control", 
+        "State_Implementation_Date": null, 
+        "State_Implementation_Required": {
+            "Item": "No"
+        }, 
+        "Agency_Implementation": null, 
+        "Organization_Implementation_Date": null, 
+        "Testing_Procedures": "Obtain system and information integrity policy; procedures addressing information system error handling; information system design documentation; information system configuration settings and associated documentation; other relevant documents or records and ascertain if :\n(I)the information system identifies and handles error conditions in an expeditious manner without providing information that could be exploited by adversaries.\n(ii)the information system reveals error messages only to authorized individuals.\n(iii)the information system does not include sensitive information in error logs or associated administrative messages."
+    }
+}

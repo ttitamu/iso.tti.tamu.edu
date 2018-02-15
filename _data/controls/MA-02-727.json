@@ -1,0 +1,39 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "MA-02-727", 
+        "Category": {
+            "Item": "Maintenance"
+        }, 
+        "Procedure_Name": "Controlled Maintenance", 
+        "Functional_Areas": {
+            "Item": "Protect"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": "Physical and Environmental Protection"
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "LOW", 
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P2"
+        }, 
+        "Risk_Statement": "Unforeseen hardware failures occur due to lack of up to date maintenance records.", 
+        "Description": "The organization:\na. Schedules, performs, documents, and reviews records of maintenance and repairs on information system components in accordance with manufacturer or vendor specifications and/or organizational requirements;\nb. Approves and monitors all maintenance activities, whether performed on site or remotely and whether the equipment is serviced on site or removed to another location;\nc. Requires that [Assignment: organization-defined personnel or roles] explicitly approve the removal of the information system or system components from organizational facilities for off-site maintenance or repairs;\nd. Sanitizes equipment to remove all information from associated media prior to removal from organizational facilities for off-site maintenance or repairs;\ne. Checks all potentially impacted security controls to verify that the controls are still functioning properly following maintenance or repair actions; and\nf. Includes [Assignment: organization-defined maintenance-related information] in organizational maintenance records.", 
+        "Example": "The organization maintains, updates and accepts maintenance records according to vendor specifications.", 
+        "First_Published": "2016-01-14T16:19:37.99Z", 
+        "Last_Updated": "2017-01-19T13:56:48.49Z", 
+        "State_Implementation": "The state organization schedules, performs, documents, and reviews records of routine preventative and regular maintenance (including repairs) on the components of the information system in accordance with manufacturer or vendor specifications and/or organizational requirements.", 
+        "State_Implementation_Date": "2017-02-01T00:00:00Z", 
+        "State_Implementation_Required": {
+            "Item": "Yes"
+        }, 
+        "Agency_Implementation": "<p>The IT operations manager shall ensure information resources are maintained in accordance with manufacturer or vendor specifications.  Any non-routine maintenance shall be approved by the IT operations manager and documented in the support incident record.  All storage media shall be removed from the information resource before it is sent to off-site maintenance.</p>", 
+        "Organization_Implementation_Date": "2016-12-08T00:00:00Z", 
+        "Testing_Procedures": "Obtain information system maintenance policy; procedures addressing controlled maintenance for the information system; maintenance records; manufacturer/vendor maintenance specifications; other relevant documents or records and ascertain if: \n(I)the organization schedules, performs, documents, and reviews records of routine preventative and regular maintenance (including repairs) on the components of the information system in accordance with manufacturer or vendor specifications and/or organizational requirements.\n(ii)the organization maintains maintenance records for the information system that include: (I) the date and time of maintenance; (ii) name of the individual performing the maintenance; (iii) name of escort, if necessary; (iv) a description of the maintenance performed; and (v) a list of equipment removed or replaced (including identification numbers, if applicable)."
+    }
+}

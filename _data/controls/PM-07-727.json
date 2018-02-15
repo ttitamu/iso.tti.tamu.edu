@@ -1,0 +1,35 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "PM-07-727", 
+        "Category": {
+            "Item": "Program Management"
+        }, 
+        "Procedure_Name": "Enterprise Architecture", 
+        "Functional_Areas": {
+            "Item": "Protect"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": "Enterprise Architecture, Roadmap and Emerging Technology"
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": "NOT SELECTED"
+        }, 
+        "NIST_Priority": {
+            "Item": "P1"
+        }, 
+        "Risk_Statement": "Management does not review new or modifications of existing technology infrastructure to ensure implementations are in line with strategic goals.", 
+        "Description": "The organization develops an enterprise architecture with consideration for information security and the resulting risk to organizational operations, organizational assets, individuals, other organizations, and the Nation.", 
+        "Example": "If an organization follows the requirements in TAC 202 and the Control Catalog such as inventories and risk based decision making, it will lead the organization to an enterprise architecture approach.", 
+        "First_Published": "2016-01-14T16:19:59.443Z", 
+        "Last_Updated": "2018-02-15T15:03:07.233Z", 
+        "State_Implementation": "State implementation of this standard isan outcome of TAC 202 implementation.", 
+        "State_Implementation_Date": "2016-02-01T00:00:00Z", 
+        "State_Implementation_Required": {
+            "Item": "Yes"
+        }, 
+        "Agency_Implementation": "<p>The Agency takes information security imperatives, including TAC 202 and this control catalog, into consideration when designing and implementing the enterprise architecture. </p>", 
+        "Organization_Implementation_Date": "2018-02-15T00:00:00Z", 
+        "Testing_Procedures": "Obtain Information security program policy; enterprise architecture policy; procedures addressing information security-related aspects of enterprise architecture development; system development life cycle documentation; enterprise architecture documentation; enterprise security architecture documentation; other relevant documents or records and ascertain if:\n(I) the organization develops an enterprise architecture with consideration for information security and the resulting risk to organizational operations, organizational assets, individuals, other organizations, and the Nation"
+    }
+}

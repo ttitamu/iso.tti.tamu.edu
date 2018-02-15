@@ -1,0 +1,35 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "DI-01-727", 
+        "Category": {
+            "Item": "Data Quality and Integrity"
+        }, 
+        "Procedure_Name": "Data Quality", 
+        "Functional_Areas": {
+            "Item": "Identify"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": "Privacy and Confidentiality"
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": "NOT SELECTED"
+        }, 
+        "NIST_Priority": {
+            "Item": "NA"
+        }, 
+        "Risk_Statement": "Security exploits and errors exist in systems that are implemented due to a lack of information security practices.", 
+        "Description": "The organization:\na. Confirms to the greatest extent practicable upon collection or creation of personally identifiable information (PII), the accuracy, relevance, timeliness, and completeness of that information;\nb. Collects PII directly from the individual to the greatest extent practicable;\nc. Checks for, and corrects as necessary, any inaccurate or outdated PII used by its programs or systems [Assignment: organization-defined frequency]; and\nd. Issues guidelines ensuring and maximizing the quality, utility, objectivity, and integrity of disseminated information.\n(1) DATA QUALITY | VALIDATE PII\nThe organization requests that the individual or individual\u2019s authorized representative validate PII during the collection process.\n(2) DATA QUALITY | RE-VALIDATE PII\nThe organization requests that the individual or individual\u2019s authorized representative revalidate that PII collected is still accurate [Assignment: organization-defined frequency].", 
+        "Example": "PII data is automatically sourced for information security repositories, and if not is analyzed for appropriateness as applicable.", 
+        "First_Published": "2016-01-14T16:19:45.613Z", 
+        "Last_Updated": "2017-01-19T13:56:22.85Z", 
+        "State_Implementation": "No statewide control", 
+        "State_Implementation_Date": null, 
+        "State_Implementation_Required": {
+            "Item": "No"
+        }, 
+        "Agency_Implementation": null, 
+        "Organization_Implementation_Date": null, 
+        "Testing_Procedures": "Obtain data privacy policy and procedures; other relevant documents or records and ascertain if:\n(I) the organization has implemented mechanisms to ensure the  accuracy, relevance, timeliness, and completeness of PII;\n(ii) the organization collects PII directly from the individual to the greatest extent practicable;\n(iii) the organization checks for, and corrects as necessary, any inaccurate or outdated PII used by its programs or systems on a periodic basis;\n(iv) the organization issues guidelines ensuring and maximizing the quality, utility, objectivity, and integrity of disseminated information;\n(v) the organization requests that the individual or individual\u2019s authorized representative validate PII during the collection process and revalidate that PII collected is still accurate on a periodic basis."
+    }
+}

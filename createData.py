@@ -5,22 +5,18 @@ import xmltodict
 import xml.etree
 import xml.etree.ElementTree as ET
 
-filelist = glob.glob(os.path.join("_data/controls", "*"))
-for f in filelist:
-	os.remove(f)
-
-filelist = glob.glob(os.path.join("controls", "*"))
-for f in filelist:
-	os.remove(f)
-
 context = ET.iterparse('SearchResults.xml', events=('end', ))
 ns = {'ns0': 'http://archertech.com/Print/Export'}
 htmlString = "---\nlayout: control\ntitle: Security Control Details\n---"
 
-if os.direxists("controls"):
+if os.path.exists("controls"):
 	shutil.rmtree("controls")
 
+if os.path.exists("_data/controls"):
+	shutil.rmtree("_data/controls")
+
 os.makedirs("controls")
+os.makedirs("_data/controls")
 for event, elem in context:
 	procedure_ID = elem.find('ns0:Procedure_ID', ns)
 	if procedure_ID != None:

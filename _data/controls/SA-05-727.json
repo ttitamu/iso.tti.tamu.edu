@@ -1,0 +1,35 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "SA-05-727", 
+        "Category": {
+            "Item": "Security Assessment and Authorization"
+        }, 
+        "Procedure_Name": "Information System Documentation", 
+        "Functional_Areas": null, 
+        "Functional_SubArea_1": null, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "LOW", 
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P2"
+        }, 
+        "Risk_Statement": "Sensitive system configuration information is accessed by unauthorized parties due to inadequate security of system documentation.", 
+        "Description": "The organization:\na. Obtains administrator documentation for the information system, system component, or information system service that describes:\n1. Secure configuration, installation, and operation of the system, component, or service;\n2. Effective use and maintenance of security functions/mechanisms; and\n3. Known vulnerabilities regarding configuration and use of administrative (i.e., privileged) functions;\nb. Obtains user documentation for the information system, system component, or information system service that describes:\n1. User-accessible security functions/mechanisms and how to effectively use those security functions/mechanisms;\n2. Methods for user interaction, which enables individuals to use the system, component, or service in a more secure manner; and\n3. User responsibilities in maintaining the security of the system, component, or service;\nc. Documents attempts to obtain information system, system component, or information system service documentation when such documentation is either unavailable or nonexistent and [Assignment: organization-defined actions] in response;\nd. Protects documentation as required, in accordance with the risk management strategy; and\ne. Distributes documentation to [Assignment: organization-defined personnel or roles].", 
+        "Example": "The organization effectively secures system security documentation and configuration settings.", 
+        "First_Published": "2016-01-14T16:20:28.363Z", 
+        "Last_Updated": "2016-02-11T19:03:15.017Z", 
+        "State_Implementation": "The state organization obtains, protects as required, and makes available to authorized personnel, adequate documentation for the information system.", 
+        "State_Implementation_Date": "2017-02-01T00:00:00Z", 
+        "State_Implementation_Required": {
+            "Item": "Yes"
+        }, 
+        "Agency_Implementation": null, 
+        "Organization_Implementation_Date": null, 
+        "Testing_Procedures": "Obtain system and services acquisition policy; procedures addressing information system documentation; information system documentation including administrator and user guides; other relevant documents or records and ascertain if :\n(I)the organization obtains, protects as required, and makes available to authorized personnel, information system administrator and user guidance with information on:\n-configuring, installing, and operating the information system.\n-effectively using the system\u2019s security features.\n(ii)the organization, when this information is either unavailable or non existent (e.g., due to the age of the system or lack of support from the vendor/manufacturer), the organization documents attempts to obtain such documentation and provides compensating security controls, if needed.\n(iii)the organization includes, in addition to administrator and user guides, documentation, if available from the vendor/manufacturer, describing the functional properties of the security controls employed within the information system with sufficient detail to permit analysis and testing of the controls.\n(iv) the organization obtains, protects as required, and makes available to authorized personnel, vendor/manufacturer documentation that describes the high-level design of the information system in terms of subsystems and implementation details of the security controls employed within the system with sufficient detail to permit analysis and testing"
+    }
+}

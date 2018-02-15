@@ -1,0 +1,31 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "SC-36-727", 
+        "Category": {
+            "Item": "System and Communications Protection"
+        }, 
+        "Procedure_Name": "Distributed Processing and Storage", 
+        "Functional_Areas": null, 
+        "Functional_SubArea_1": null, 
+        "NIST_Baseline_Level": {
+            "Item": "NOT SELECTED"
+        }, 
+        "NIST_Priority": {
+            "Item": "P0"
+        }, 
+        "Risk_Statement": "NA", 
+        "Description": "The organization distributes [Assignment: organization-defined processing and storage] across multiple physical locations.", 
+        "Example": "NA", 
+        "First_Published": "2016-01-14T16:19:55.957Z", 
+        "Last_Updated": "2016-02-11T19:03:18.733Z", 
+        "State_Implementation": "No statewide control", 
+        "State_Implementation_Date": null, 
+        "State_Implementation_Required": {
+            "Item": "No"
+        }, 
+        "Agency_Implementation": null, 
+        "Organization_Implementation_Date": null, 
+        "Testing_Procedures": null
+    }
+}

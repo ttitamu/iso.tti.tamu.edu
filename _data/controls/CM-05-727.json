@@ -1,0 +1,34 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "CM-05-727", 
+        "Category": {
+            "Item": "Configuration Management"
+        }, 
+        "Procedure_Name": "Access Restrictions for Change", 
+        "Functional_Areas": null, 
+        "Functional_SubArea_1": null, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P1"
+        }, 
+        "Risk_Statement": "Operations handle emergency situations that require a change to the production environment consistently.", 
+        "Description": "The organization defines, documents, approves, and enforces physical and logical access restrictions associated with changes to the information system.", 
+        "Example": "Access control restrictions for the purposes of change are defined.", 
+        "First_Published": "2016-01-14T16:19:05.647Z", 
+        "Last_Updated": "2016-02-11T19:03:06.703Z", 
+        "State_Implementation": "No statewide control", 
+        "State_Implementation_Date": null, 
+        "State_Implementation_Required": {
+            "Item": "No"
+        }, 
+        "Agency_Implementation": null, 
+        "Organization_Implementation_Date": null, 
+        "Testing_Procedures": "Obtain configuration management policy; procedures addressing access restrictions for changes to the information system; information system architecture and configuration documentation; change control records; information system audit records; other relevant documents or records and ascertain if :\n(I)the organization approves individual access privileges and enforces physical and logical access restrictions associated with changes to the information system, including upgrades, and modifications.\n(ii)the organization generates, retains, and reviews records reflecting all such changes to the information system."
+    }
+}

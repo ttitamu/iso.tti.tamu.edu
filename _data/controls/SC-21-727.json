@@ -1,0 +1,39 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "SC-21-727", 
+        "Category": {
+            "Item": "System and Communications Protection"
+        }, 
+        "Procedure_Name": "Secure Name/Address Resolution Service (Recursive or Caching Resolver)", 
+        "Functional_Areas": {
+            "Item": "Protect"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": "System Communications Protection"
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "LOW", 
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P1"
+        }, 
+        "Risk_Statement": "Lack of procedures to verify the authenticity and data integrity of the name/address resolution responses might result in potential breaks to the chain of trust in the DNS infrastructure.", 
+        "Description": "The information system requests and performs data origin authentication and data integrity verification on the name/address resolution responses the system receives from authoritative sources.", 
+        "Example": "An automated mechanism considers the authenticity and data integrity of the DNS trust levels.", 
+        "First_Published": "2016-01-14T16:21:31.037Z", 
+        "Last_Updated": "2017-03-21T20:11:36.873Z", 
+        "State_Implementation": "The information system that provides name/address resolution service for local clients performs data origin authentication and data integrity verification on the resolution responses it receives from authoritative sources when requested by client systems.", 
+        "State_Implementation_Date": "2016-02-01T00:00:00Z", 
+        "State_Implementation_Required": {
+            "Item": "Yes"
+        }, 
+        "Agency_Implementation": null, 
+        "Organization_Implementation_Date": null, 
+        "Testing_Procedures": "Obtain procedures addressing secure addressing practices and ascertain if the organization performs data origin authentication and data integrity verification on the name/address resolution responses (such as recursive resolving or caching domain name system (DNS) servers)"
+    }
+}
