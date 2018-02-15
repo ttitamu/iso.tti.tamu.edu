@@ -22,14 +22,14 @@
         "Description": "The organization:\na. Ensures that all capital planning and investment requests include the resources needed to implement the information security program and documents all exceptions to this requirement;\nb. Employs a business case/Exhibit 300/Exhibit 53 to record the resources required; and\nc. Ensures that information security resources are available for expenditure as planned.", 
         "Example": "The organization has long-term and short-term budgeting and capital planning initiatives in place.", 
         "First_Published": "2016-01-14T16:20:23.223Z", 
-        "Last_Updated": "2017-03-21T20:11:36.873Z", 
+        "Last_Updated": "2018-02-15T14:57:21.997Z", 
         "State_Implementation": "State implementation of this standard is incorporated into TAC 202.", 
         "State_Implementation_Date": "2015-02-01T00:00:00Z", 
         "State_Implementation_Required": {
             "Item": "Yes"
         }, 
-        "Agency_Implementation": null, 
-        "Organization_Implementation_Date": null, 
+        "Agency_Implementation": "<p>Information security budgeting and planning initiatives are integrated into the overall agency information resources budgeting strategy. </p>", 
+        "Organization_Implementation_Date": "2018-02-15T00:00:00Z", 
         "Testing_Procedures": "Obtain Information security program policy; capital planning and investment policy; procedures addressing management and oversight for information security-related aspects of the capital planning and investment control process; capital planning and investment documentation; documentation of exceptions supporting capital planning and investment requests; business cases; Exhibit 300; Exhibit 53; other relevant documents or records and ascertain if: \n(I) the organization includes in its capital planning and investment requests the resources needed to implement the information security program; \n(ii) the organization documents all exceptions to the requirement that all capital planning and investment requests include the resources needed to implement the information security program; \n(iii) the organization employs a business case/Exhibit 300/Exhibit 53 to record the resources required; and \n(iv) the organization makes the required information security resources available for expenditure as planned."
     }
 }

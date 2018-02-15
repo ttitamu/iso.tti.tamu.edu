@@ -26,14 +26,14 @@
         "Description": "The organization restricts access to [Assignment: organization-defined types of digital and/or non-digital media] to [Assignment: organization-defined personnel or roles].", 
         "Example": "Users are limited access to media based on roles and/or responsibilities.", 
         "First_Published": "2016-01-14T16:20:40.567Z", 
-        "Last_Updated": "2017-01-19T13:56:46.74Z", 
+        "Last_Updated": "2018-02-13T17:42:49.54Z", 
         "State_Implementation": "The state organization restricts access to information system media to authorized individuals.", 
         "State_Implementation_Date": "2016-02-01T00:00:00Z", 
         "State_Implementation_Required": {
             "Item": "Yes"
         }, 
-        "Agency_Implementation": null, 
-        "Organization_Implementation_Date": null, 
+        "Agency_Implementation": "<p>Information resource owners are responsible for controlling access to, and maintaining appropriate handling and storage procedures for, storage media entrusted to their care.</p>", 
+        "Organization_Implementation_Date": "2018-02-13T00:00:00Z", 
         "Testing_Procedures": "Obtain Information system media protection policy; procedures addressing media access; access control policy and procedures; physical and environmental protection policy and procedures; media storage facilities; access control records; access control records; audit records; other relevant documents or records and ascertain  if :\n(I)the organization restricts access to information system media to authorized users.\n(ii)the organization employs automated mechanisms to restrict access to media storage areas.\n(iii)the organization employs automated mechanisms to audit access attempts and access granted."
     }
 }

@@ -26,14 +26,14 @@
         "Description": "The organization:\na. Screens individuals prior to authorizing access to the information system; and\nb. Rescreens individuals according to [Assignment: organization-defined conditions requiring rescreening and, where rescreening is so indicated, the frequency of such rescreening].", 
         "Example": "The organization uses background checks prior to hiring new employees.", 
         "First_Published": "2016-01-14T16:20:59.63Z", 
-        "Last_Updated": "2017-03-21T20:11:36.873Z", 
+        "Last_Updated": "2018-02-15T15:49:11.393Z", 
         "State_Implementation": "The state organization screens individuals requiring access to organizational information and information systems before authorizing access.", 
         "State_Implementation_Date": "2016-02-01T00:00:00Z", 
         "State_Implementation_Required": {
             "Item": "Yes"
         }, 
-        "Agency_Implementation": null, 
-        "Organization_Implementation_Date": null, 
+        "Agency_Implementation": "<p>The Agency's Human Resources department performs background checks for new employees.  The information security officer performs additional personnel screening for users with access to mission-critical information resources based on a risk determination of the proposed access.</p>", 
+        "Organization_Implementation_Date": "2018-02-15T00:00:00Z", 
         "Testing_Procedures": "Obtain personnel security policy; procedures addressing personnel screening; records of screened personnel; FIPS 201; NIST Special Publications 800-73, 800-76, and 800-78; other relevant documents or records and ascertain if :\n(I)the organization screens individuals requiring access to organizational information and information systems prior to authorizing access.\n(ii)the personnel screening is consistent with 5 CFR 731.106, OPM policy, regulations, and guidance, FIPS 201 and NIST Special Publications 800-73, 800-76, and 800-78, and the criteria established for the risk designation for the assigned position."
     }
 }

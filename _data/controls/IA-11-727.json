@@ -18,14 +18,14 @@
         "Description": "The organization requires users and devices to re-authenticate when [Assignment: organization-defined circumstances or situations requiring re-authentication].", 
         "Example": "Organization may require re-authentication of individuals and/or devices: \na.  when authenticators change; \nb. when roles change; \nc. when security categories of information systems change; \nd. when the execution of privileged functions occurs; \ne. after a fixed period of time; or \nf. periodically.", 
         "First_Published": "2016-01-14T16:21:21.147Z", 
-        "Last_Updated": "2016-02-11T19:03:09.157Z", 
+        "Last_Updated": "2018-02-13T16:03:07.717Z", 
         "State_Implementation": "No statewide control", 
         "State_Implementation_Date": null, 
         "State_Implementation_Required": {
             "Item": "No"
         }, 
-        "Agency_Implementation": null, 
-        "Organization_Implementation_Date": null, 
+        "Agency_Implementation": "<p>Individuals and devices accessing Agency-owned enterprise information resources over an active session shall re-authenticate the primary authenticator against the enterprise directory at least daily.  Workstations not connected to a domain controller shall require the user to re-authenticate every 14 days.  The second factor of a two-factor authenticator shall be re-authenticated at least every 30 days.</p>", 
+        "Organization_Implementation_Date": "2018-02-13T00:00:00Z", 
         "Testing_Procedures": null
     }
 }

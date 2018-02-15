@@ -26,14 +26,14 @@
         "Description": "The organization:\na. Assigns a risk designation to all organizational positions;\nb. Establishes screening criteria for individuals filling those positions; and\nc. Reviews and updates position risk designations [Assignment: organization-defined frequency].", 
         "Example": "The organization identifies and classifies personnel positions based on risk category. In other words - the context for classifying positions by risk level is to identify and enforce background checks and other controls due to the higher risk position, e.g., a security administrator with \u201ckeys to the kingdom\u201d has a higher risk profile and may require higher analysis than a groundskeeper for instance.", 
         "First_Published": "2016-01-14T16:21:08.567Z", 
-        "Last_Updated": "2017-03-21T20:11:36.873Z", 
+        "Last_Updated": "2018-02-15T15:46:05.873Z", 
         "State_Implementation": "All authorized users (including, but not limited to, state organization personnel, temporary employees, and employees of independent contractors) of the state organization\u2019s information resources, shall formally acknowledge that they will comply with the security policies and procedures of the state organization or they shall not be granted access to information resources. The state organization head or his or her designated representative will determine the method of acknowledgement and how often this acknowledgement must be re-executed by the user to maintain access to state organization information resources.", 
         "State_Implementation_Date": "2015-02-01T00:00:00Z", 
         "State_Implementation_Required": {
             "Item": "Yes"
         }, 
-        "Agency_Implementation": null, 
-        "Organization_Implementation_Date": null, 
+        "Agency_Implementation": "<p>All authorized users are required to acknowledge their compliance with the TTI Rules of Behavior for Use of Agency Information Resources document as part of their annual information security awareness training.  This acknowledgement is required to maintain an active enterprise user account.</p>", 
+        "Organization_Implementation_Date": "2018-02-15T00:00:00Z", 
         "Testing_Procedures": "Obtain personnel security policy; procedures addressing position categorization; appropriate codes of federal regulations; OPM policy and guidance; list of risk designations for organizational positions; security plan; records of risk designation reviews and updates; other relevant documents or records and ascertain if :\n(I)the organization assigns a risk designations to all positions within the organization.\n(ii)the organization establishes a screening criteria for individuals filling organizational positions.\n(iii)the risk designations for the organizational positions are consistent with 5 CFR 731.106(a) and OPM policy and guidance.\n(iv)the organization defines in the security plan, explicitly or by reference, the frequency of risk designation reviews and updates for organizational positions.\n(v)the organization reviews and revises position risk designations in accordance with the organization-defined frequency."
     }
 }

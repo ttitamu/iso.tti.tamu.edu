@@ -22,14 +22,14 @@
         "Description": "The organization provides an incident response support resource, integral to the organizational incident response capability that offers advice and assistance to users of the information system for the handling and reporting of security incidents.", 
         "Example": "The organization has defined a resource and a back-up resource to provide guidance for the incident management response process.", 
         "First_Published": "2016-01-14T16:20:11.943Z", 
-        "Last_Updated": "2016-02-11T19:03:09.983Z", 
+        "Last_Updated": "2018-02-13T17:14:27.207Z", 
         "State_Implementation": "The state organization provides an incident response support resource that offers advice and assistance to users of the information system for the handling and reporting of security incidents. The support resource is an integral part of the organization\u2019s incident response capability.", 
         "State_Implementation_Date": "2017-02-01T00:00:00Z", 
         "State_Implementation_Required": {
             "Item": "Yes"
         }, 
-        "Agency_Implementation": null, 
-        "Organization_Implementation_Date": null, 
+        "Agency_Implementation": "<p>The information security officer shall be the primary resource for manging the information security incident response process.  The information security officer will utilize Texas A&M University Engineering IT Security and the Texas A&M University System Security Operations Center as back-up resources as needed to facilitate an effective response to a suspected or confirmed information security incident.</p>", 
+        "Organization_Implementation_Date": "2018-02-13T00:00:00Z", 
         "Testing_Procedures": "Obtain Incident response policy; procedures addressing incident response assistance; automated mechanisms supporting incident response support and assistance; other relevant documents or records and ascertain  if :\n(I)the organization provides an incident response support resource that offers advice and assistance to users of the information system for the handling and reporting of security incidents.\n(ii)the incident response support resource is an integral part of the organization\u2019s incident response capability.\n(iii)the organization employs automated mechanisms to increase the availability of incident response-related information and support for incident response support."
     }
 }
