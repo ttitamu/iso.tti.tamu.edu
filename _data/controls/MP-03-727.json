@@ -1,0 +1,38 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "MP-03-727", 
+        "Category": {
+            "Item": "Media Protection"
+        }, 
+        "Procedure_Name": "Media Marking", 
+        "Functional_Areas": {
+            "Item": "Identify"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": "Data Classification"
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P2"
+        }, 
+        "Risk_Statement": "Information is disclosed due to mislabeled, unlabeled or mishandled physical or electronic media.", 
+        "Description": "The organization:\na. Marks information system media indicating the distribution limitations, handling caveats, and applicable security markings (if any) of the information; and\nb. Exempts [Assignment: organization-defined types of information system media] from marking as long as the media remain within [Assignment: organization-defined controlled areas].", 
+        "Example": "Media is labeled for handling with detail as appropriate.", 
+        "First_Published": "2016-01-14T16:20:41.303Z", 
+        "Last_Updated": "2017-01-19T13:56:26.223Z", 
+        "State_Implementation": "No statewide control", 
+        "State_Implementation_Date": null, 
+        "State_Implementation_Required": {
+            "Item": "No"
+        }, 
+        "Agency_Implementation": null, 
+        "Organization_Implementation_Date": null, 
+        "Testing_Procedures": "Obtain information system media protection policy; procedures addressing media labeling; physical and environmental protection policy and procedures; security plan; removable storage media and information system output; other relevant documents or records and ascertain if :\n(I)the organization defines in the security plan, explicitly or by reference, its protected environment for media labeling requirements.\n(ii)the organization defines in the security plan, explicitly or by reference, media types and hardware components that are exempted from external labeling requirements.\n(iii)the organization affixes external labels to removable information storage media and information system output not otherwise exempted from this labeling requirement, indicating the distribution limitations, handling caveats, and applicable security markings (if any) of the information."
+    }
+}

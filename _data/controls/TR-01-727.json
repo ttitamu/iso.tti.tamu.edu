@@ -1,0 +1,35 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "TR-01-727", 
+        "Category": {
+            "Item": "Transparency"
+        }, 
+        "Procedure_Name": "Privacy Notice", 
+        "Functional_Areas": {
+            "Item": "Identify"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": "Privacy and Confidentiality"
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": "NOT SELECTED"
+        }, 
+        "NIST_Priority": {
+            "Item": "NA"
+        }, 
+        "Risk_Statement": "Laws and regulations are violated due to an organization failing to provide notices on usage of customer data.", 
+        "Description": "The organization:\na. Provides effective notice to the public and to individuals regarding: (i) its activities that impact privacy, including its collection, use, sharing, safeguarding, maintenance, and disposal of personally identifiable information (PII); (ii) authority for collecting PII; (iii) the choices, if any, individuals may have regarding how the organization uses PII and the consequences of exercising or not exercising those choices; and (iv) the ability to access and have PII amended or corrected if necessary;\nb. Describes: (i) the PII the organization collects and the purpose(s) for which it collects that information; (ii) how the organization uses PII internally; (iii) whether the organization shares PII with external entities, the categories of those entities, and the purposes for such sharing; (iv) whether individuals have the ability to consent to specific uses or sharing of PII and how to exercise any such consent; (v) how individuals may obtain access to PII; and (vi) how the PII will be protected; and\nc. Revises its public notices to reflect changes in practice or policy that affect PII or changes in its activities that impact privacy, before or as soon as practicable after the change.\n(1) PRIVACY NOTICE | REAL-TIME OR LAYERED NOTICE\nThe organization provides real-time and/or layered notice when it collects PII.\nSupplemental Guidance: Real-time notice is defined as notice at the point of collection. A layered notice approach involves providing individuals with a summary of key points in the organization\u2019s privacy policy. A second notice provides more detailed/specific information.", 
+        "Example": "System banners (internal) and/or website notification (public) are in place to address the notification and usage of PII, where applicable.", 
+        "First_Published": "2016-01-14T16:21:14.083Z", 
+        "Last_Updated": "2017-01-19T13:56:22.85Z", 
+        "State_Implementation": "No statewide control", 
+        "State_Implementation_Date": null, 
+        "State_Implementation_Required": {
+            "Item": "No"
+        }, 
+        "Agency_Implementation": null, 
+        "Organization_Implementation_Date": null, 
+        "Testing_Procedures": "Obtain data privacy policy and procedures; other relevant documents or records and ascertain if:\n(I) the organization provides effective notice to the public and to individuals regarding: \n(a) its activities that impact privacy, including its collection, use, sharing, safeguarding, maintenance, and disposal of personally identifiable information (PII); \n(b) authority for collecting PII; \n(c) the choices, if any, individuals may have regarding how the organization uses PII and the consequences of exercising or not exercising those choices; and \n(d) the ability to access and have PII amended or corrected if necessary;\n(ii) the organization describes: \n(a) the PII the organization collects and the purpose(s) for which it collects that information; \n(b) how the organization uses PII internally; \n(c) whether the organization shares PII with external entities, the categories of those entities, and the purposes for such sharing;\n(d) whether individuals have the ability to consent to specific uses or sharing of PII and how to exercise any such consent; \n(e) how individuals may obtain access to PII; and (vi) how the PII will be protected; and\n(iii) the organization revises its public notices to reflect changes in practice or policy that affect PII or changes in its activities that impact privacy, before or as soon as practicable after the change.\n(iv) the organization provides real-time and/or layered notice when it collects PII."
+    }
+}

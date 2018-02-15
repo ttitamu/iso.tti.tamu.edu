@@ -1,0 +1,35 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "PE-08-727", 
+        "Category": {
+            "Item": "Physical and Environmental Protection"
+        }, 
+        "Procedure_Name": "Visitor Access Records", 
+        "Functional_Areas": null, 
+        "Functional_SubArea_1": null, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "LOW", 
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P3"
+        }, 
+        "Risk_Statement": "Failure to protect facilities through sufficient physical entry controls may result in unauthorized parties accessing the organization's facilities.", 
+        "Description": "The organization:\na. Maintains visitor access records to the facility where the information system resides for [Assignment: organization-defined time period]; and\nb. Reviews visitor access records [Assignment: organization-defined frequency].", 
+        "Example": "Visitors are escorted at specific times and a log of entry/exit is maintained.", 
+        "First_Published": "2016-01-14T16:22:14.553Z", 
+        "Last_Updated": "2016-02-11T19:03:11.47Z", 
+        "State_Implementation": "The state organization maintains visitor access records to the facility where the information system resides (except for those areas within the facility officially designated as publicly accessible).", 
+        "State_Implementation_Date": "2017-02-01T00:00:00Z", 
+        "State_Implementation_Required": {
+            "Item": "Yes"
+        }, 
+        "Agency_Implementation": "<p>Information resource owners with responsibility over infrastructure equipment shall: a. Maintain visitor access records to the facility where the information resource resides for one year; and b. Review visitor access records at least monthly.</p>", 
+        "Organization_Implementation_Date": "2016-01-29T00:00:00Z", 
+        "Testing_Procedures": "Obtain physical and environmental protection policy; procedures addressing facility access records; security plan; facility access control records; other relevant documents or records and ascertain if :\n(I)the organization defines in the security plan, explicitly or by reference, the frequency of review for visitor access records;\n(ii)the organization maintains visitor access records to the facility where the information system resides (except for those areas within the facility officially designated as publicly accessible) that includes:\n-name and organization of the person visiting.\n-signature of the visitor.\n-form of identification.\n-date of access.\n-time of entry and departure.\n-purpose of visit.\n-name and organization of person visited .\n(iii)designated officials within the organization review the visitor access logs in accordance with organization-defined frequency."
+    }
+}

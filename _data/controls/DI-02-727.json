@@ -1,0 +1,35 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "DI-02-727", 
+        "Category": {
+            "Item": "Data Quality and Integrity"
+        }, 
+        "Procedure_Name": "Data Integrity and Data Integrity Board", 
+        "Functional_Areas": {
+            "Item": "Identify"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": "Privacy and Confidentiality"
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": "NOT SELECTED"
+        }, 
+        "NIST_Priority": {
+            "Item": "NA"
+        }, 
+        "Risk_Statement": "Laws and regulations are violated as a result of customers' data being modified.", 
+        "Description": "The organization:\na. Documents processes to ensure the integrity of personally identifiable information (PII) through existing security controls; and\nEstablishes a Data Integrity Board when appropriate to oversee organizational Computer Matching Agreements and to ensure that those agreements comply with the computer matching provisions of the Privacy Act.\n(1) DATA INTEGRITY AND DATA INTEGRITY BOARD | PUBLISH AGREEMENTS ON WEBSITE\nThe organization publishes Computer Matching Agreements on its public website.", 
+        "Example": "A committee is in place (legal) to disseminate and discern the computer matching agreements.", 
+        "First_Published": "2016-01-14T16:19:44.113Z", 
+        "Last_Updated": "2017-01-19T13:56:22.85Z", 
+        "State_Implementation": "No statewide control", 
+        "State_Implementation_Date": null, 
+        "State_Implementation_Required": {
+            "Item": "No"
+        }, 
+        "Agency_Implementation": null, 
+        "Organization_Implementation_Date": null, 
+        "Testing_Procedures": "Obtain data privacy policy and procedures; other relevant documents or records and ascertain if:\n(I) the organization documents processes to ensure the integrity of personally identifiable information (PII) through existing security controls; \n(ii) the organization establishes a Data Integrity Board when appropriate to oversee organizational Computer Matching Agreements and to ensure that those agreements comply with the computer matching provisions of the Privacy Act; and\n(iii) the organization publishes Computer Matching Agreements on its public website."
+    }
+}

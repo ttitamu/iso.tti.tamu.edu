@@ -1,0 +1,39 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "SA-04-727", 
+        "Category": {
+            "Item": "Security Assessment and Authorization"
+        }, 
+        "Procedure_Name": "Acquisition Process", 
+        "Functional_Areas": {
+            "Item": "Protect"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": "Secure System Services, Acquisition and Development"
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "LOW", 
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P1"
+        }, 
+        "Risk_Statement": "The organization's interests are not protected in IT acquisition contractual agreements.", 
+        "Description": "The organization includes the following requirements, descriptions, and criteria, explicitly or by reference, in the acquisition contract for the information system, system component, or information system service in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, standards, guidelines, and organizational mission/business needs:\na. Security functional requirements;\nb. Security strength requirements;\nc. Security assurance requirements;\nd. Security-related documentation requirements;\ne. Requirements for protecting security-related documentation;\nf. Description of the information system development environment and environment in which the system is intended to operate; and\ng. Acceptance criteria.", 
+        "Example": "The organization includes security requirements in contracts for acquisition of information systems.", 
+        "First_Published": "2016-01-14T16:19:07.537Z", 
+        "Last_Updated": "2017-03-21T20:11:36.873Z", 
+        "State_Implementation": "The state organization includes security requirements and/or security specifications, either explicitly or by reference, in information system acquisition contracts based on an assessment of risk and in accordance with applicable laws and standards.", 
+        "State_Implementation_Date": "2015-02-01T00:00:00Z", 
+        "State_Implementation_Required": {
+            "Item": "Yes"
+        }, 
+        "Agency_Implementation": null, 
+        "Organization_Implementation_Date": null, 
+        "Testing_Procedures": "Obtain system and services acquisition policy; procedures addressing the integration of information security requirements and/or security specifications into the acquisition process; NIST Special Publications 800-23 and 800-70; acquisition documentation; acquisition contracts for information systems or services; solicitation documents; other relevant documents or records and  ascertain  if : \n(I)the organization includes in acquisition contracts for information systems, either explicitly or by reference, security requirements and/or security specifications based on an assessment of risk and in accordance with applicable laws, Executive Orders, directives, policies, regulations, and standards that describe required:\n-security capabilities.\n-design and development processes.\n-test and evaluation procedures.\n-documentation.\n(ii)the organization includes in acquisition contracts, requirements for information system documentation addressing user and systems administrator guidance and information regarding the implementation of the security controls in the system and at a level of detail based on the FIPS 199 security category for the system.\n(iii)the organization includes in acquisition contracts requirements for information system documentation that includes security configuration settings and security implementation guidance.\n(iv)the organization requires in solicitation documents that appropriate documentation be provided describing the functional properties of the security controls employed within the information system with sufficient detail to permit analysis and testing of the controls.\n(v) the organization explicitly assigns each acquired information system component to an information system.\n(Vi) the owner of the system acknowledges each assignment of information system components to the information system."
+    }
+}

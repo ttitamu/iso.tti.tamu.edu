@@ -1,0 +1,39 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "IR-06-727", 
+        "Category": {
+            "Item": "Incident Response"
+        }, 
+        "Procedure_Name": "Incident Reporting", 
+        "Functional_Areas": {
+            "Item": "Respond"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": "Cyber-Security Incident Response"
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "LOW", 
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P1"
+        }, 
+        "Risk_Statement": "Security events and weaknesses are not detected and corrected due to lack of users reporting the events or weaknesses.", 
+        "Description": "The organization:\na. Requires personnel to report suspected security incidents to the organizational incident response capability within [Assignment: organization-defined time period]; and\nb. Reports security incident information to [Assignment: organization-defined authorities].", 
+        "Example": "The organization has a defined hierarchy for reporting security incidents.", 
+        "First_Published": "2016-01-14T16:20:11.41Z", 
+        "Last_Updated": "2018-02-13T17:11:25.857Z", 
+        "State_Implementation": "a. Security incidents shall be promptly reported to immediate supervisors and the state organization Information Security Officer. Security incidents that require timely reporting to the department include those events that are assessed to:\n1.  Propagate to other state systems;\n2.  Result in criminal violations that shall be reported to law enforcement; or\n3.  Involve the unauthorized disclosure or modification of confidential information, e.g., sensitive personal information as defined in \u00a7521.002(a)(2), Business and Commerce Code, and other applicable laws that may require public notification.\nb.  If the security incident is assessed to involve suspected criminal activity (e.g., violations of Chapters 33, Penal Code (Computer Crimes) or Chapter 33A, Penal Code (Telecommunications Crimes)), the security incident shall be investigated, reported, and documented in a manner that restores operation promptly while meeting the legal requirements for handling of evidence.\nc.  Depending on the criticality of the incident, it will not always be feasible to gather all the information prior to reporting. In such cases, incident response teams should continue to report information to the department as it is collected. The department shall instruct state organizations as to the manner in which they shall report such information to the department. Supporting vendors or other third parties that report security incident information to a state organization shall submit such reports to the state organization in the form and manner specified by the department, unless otherwise directed by the state organization.\nd.  Summary reports of security-related events shall be sent to the department on a monthly basis no later than nine (9) calendar days after the end of the month. Organizations shall submit summary security incident reports in the form and manner specified by the department. Supporting vendors or other third parties that report security incident information to a state organization shall submit such reports to the state organization in the form and manner specified by the department, unless otherwise directed by the state organization.", 
+        "State_Implementation_Date": "2015-02-01T00:00:00Z", 
+        "State_Implementation_Required": {
+            "Item": "Yes"
+        }, 
+        "Agency_Implementation": "<p>Any user of Agency-owned information resources may report illegal, disruptive, or suspicious activity to the information security officer at emailing iso@tti.tamu.edu or calling (979) 862-1417.  Suspected information security incidents shall be reported immediately upon detection.</p>\n<p>The information security officer shall ensure all required reporting to the Texas Department of Information Resources is accomplished in accordance with their prescribed schedule.</p>", 
+        "Organization_Implementation_Date": "2018-02-13T00:00:00Z", 
+        "Testing_Procedures": "Obtain Incident response policy; procedures addressing incident reporting; NIST Special Publication 800-61; automated mechanisms supporting incident reporting; incident reporting records and documentation; other relevant documents or records and ascertain if :\n(I)the organization promptly reports incident information to appropriate authorities.\n(ii)Incident reporting is consistent with NIST Special Publication 800-61;\n(iii)weaknesses and vulnerabilities in the information system are reported to appropriate organizational officials in a timely manner to prevent security incidents."
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "RA-05-727", 
+        "Category": {
+            "Item": "Risk Assessment"
+        }, 
+        "Procedure_Name": "Vulnerability Scanning", 
+        "Functional_Areas": {
+            "Item": "Detect"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": "Vulnerability Assessment"
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "LOW", 
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P1"
+        }, 
+        "Risk_Statement": "Technical vulnerabilities are exploited to gain inappropriate or unauthorized access to information systems due to lack of controls for those vulnerabilities.", 
+        "Description": "The organization:\na. Scans for vulnerabilities in the information system and hosted applications [Assignment: organization-defined frequency and/or randomly in accordance with organization-defined process] and when new vulnerabilities potentially affecting the system/applications are identified and reported;\nb. Employs vulnerability scanning tools and techniques that facilitate interoperability among tools and automate parts of the vulnerability management process by using standards for:\n1. Enumerating platforms, software flaws, and improper configurations;\n2. Formatting checklists and test procedures; and\n3. Measuring vulnerability impact;\nc. Analyzes vulnerability scan reports and results from security control assessments;\nd. Remediates legitimate vulnerabilities [Assignment: organization-defined response times] in accordance with an organizational assessment of risk; and\ne. Shares information obtained from the vulnerability scanning process and security control assessments with [Assignment: organization-defined personnel or roles] to help eliminate similar vulnerabilities in other information systems (i.e., systemic weaknesses or deficiencies).", 
+        "Example": "The organization has periodic vulnerability scanning processes in place and operational.", 
+        "First_Published": "2016-01-14T16:22:16.223Z", 
+        "Last_Updated": "2018-02-15T16:12:20.8Z", 
+        "State_Implementation": "The state organization scans for vulnerabilities in the information system at least annually or when significant new vulnerabilities potentially affecting the system are identified and reported.", 
+        "State_Implementation_Date": "2016-02-01T00:00:00Z", 
+        "State_Implementation_Required": {
+            "Item": "Yes"
+        }, 
+        "Agency_Implementation": "<p>The information security officer performs weekly vulnerability scanning and reports findings  from those scans to information resource custodians.  Information resource custodians are allowed thirty (30) days for remediation before the vulnerabilities are reported to the information resource owner and chief information officer for risk determination.</p>", 
+        "Organization_Implementation_Date": "2018-02-15T00:00:00Z", 
+        "Testing_Procedures": "Obtain risk assessment policy; procedures addressing vulnerability scanning; risk assessment; security plan; vulnerability scanning results; patch and vulnerability management records; vulnerability scanning tools and techniques documentation; other relevant documents or records and ascertain if :\n(I)the organization defines in the security plan, explicitly or by reference, the frequency of vulnerability scans within the information system.\n(ii)the organization scans for vulnerabilities in the information system in accordance with the organization-defined frequency and/or random in accordance with organizational policy and assessment of risk, or when significant new vulnerabilities potentially affecting the system are identified and reported.\n(iii)the organization uses appropriate scanning tools and techniques to conduct the vulnerability scans.\n(iv)the organization trains selected personnel in the use and maintenance of vulnerability scanning tools and techniques.\n(v)the organization freely shares the information obtained from the vulnerability scanning process with appropriate personnel throughout the organization to help eliminate similar vulnerabilities in other information systems.\n(vi) the organization uses vulnerability scanning tools that have the capability to readily update the list of information system vulnerabilities scanned."
+    }
+}

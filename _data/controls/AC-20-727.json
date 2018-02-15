@@ -1,0 +1,42 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "AC-20-727", 
+        "Category": {
+            "Item": "Access Control"
+        }, 
+        "Procedure_Name": "Use of External Information Systems", 
+        "Functional_Areas": {
+            "Item": "Identify"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": [
+                "Cloud Usage and Security", 
+                "Third-Party Personnel Security"
+            ]
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "LOW", 
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P1"
+        }, 
+        "Risk_Statement": "The security of the organizations information processing facilities is compromised by external parties.", 
+        "Description": "The organization establishes terms and conditions, consistent with any trust relationships established with other organizations owning, operating, and/or maintaining external information systems, allowing authorized individuals to:\na. Access the information system from external information systems; and\nb. Process, store, or transmit organization-controlled information using external information systems.", 
+        "Example": "External information systems are not permitted to the internal network without appropriate monitoring and/or approval.", 
+        "First_Published": "2016-01-14T16:22:12.677Z", 
+        "Last_Updated": "2018-01-20T06:19:25.96Z", 
+        "State_Implementation": "1. State organizations shall develop policies governing the use of external information systems and resources including the type and classification of data that can be stored outside of the state organization. \n2. State organizations shall establish terms and conditions for contracting with external information resources providers.", 
+        "State_Implementation_Date": "2016-02-01T00:00:00Z", 
+        "State_Implementation_Required": {
+            "Item": "Yes"
+        }, 
+        "Agency_Implementation": "<p>The chief information officer shall approve all external information resources prior to their use within the Agency.  Information owners shall individually conduct a risk assessment for any information under their control before allowing the use of an external information resource to process, store, or transmit such information.  The use of an external information resource for the processing, storage, or transmission of mission-critical or confidential information must be approved in advance by the information security officer.</p>\n<p>The information security officer shall maintain a list of currently approved external information resources.</p>", 
+        "Organization_Implementation_Date": "2016-08-18T00:00:00Z", 
+        "Testing_Procedures": "Obtain access control policy; procedures addressing the use of external information systems; external information systems terms and conditions; list of types of applications accessible from external information systems; maximum FIPS 199 impact level for information processed, stored, or transmitted on external information systems; information system configuration settings and associated documentation; other relevant documents or records and ascertain if the organization establishes terms and conditions for authorized individuals to access the information system from an external information system that include the types of applications that can be accessed on the organizational information system from the external information system and the maximum FIPS 199 security category of information that can be processed, stored, and transmitted on the external information system.\n(I) Determine if the organization prohibits authorized individuals from using an external information system to access the information system or to process, store, or transmit organization-controlled information except in situations where the organization:\n- verifies, for authorized exceptions, the employment of required security controls on the external system as specified in the organization\u2019s information security policy and system security plan when allowing connections to the external information system; or\n- approves, for authorized exceptions, information system connection or processing agreements with the organizational entity hosting the external information system."
+    }
+}

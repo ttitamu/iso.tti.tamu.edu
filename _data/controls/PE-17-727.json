@@ -1,0 +1,34 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "PE-17-727", 
+        "Category": {
+            "Item": "Physical and Environmental Protection"
+        }, 
+        "Procedure_Name": "Alternate Work Site", 
+        "Functional_Areas": null, 
+        "Functional_SubArea_1": null, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P2"
+        }, 
+        "Risk_Statement": "Unauthorized parties gain physical access to critical or sensitive information processing facilities due to inadequate physical security policies and standards.", 
+        "Description": "The organization:\na. Employs [Assignment: organization-defined security controls] at alternate work sites;\nb. Assesses as feasible, the effectiveness of security controls at alternate work sites; and\nc. Provides a means for employees to communicate with information security personnel in case of security incidents or problems.", 
+        "Example": "An alternative, offsite work site is available in the event of a natural disaster in the primary processing location.", 
+        "First_Published": "2016-01-14T16:19:13.067Z", 
+        "Last_Updated": "2016-02-11T19:03:12.203Z", 
+        "State_Implementation": "No statewide control", 
+        "State_Implementation_Date": null, 
+        "State_Implementation_Required": {
+            "Item": "No"
+        }, 
+        "Agency_Implementation": null, 
+        "Organization_Implementation_Date": null, 
+        "Testing_Procedures": "Obtain physical and environmental protection policy; procedures addressing alternate work sites for organizational personnel; list of management, operational, and technical security controls required for alternate work sites; other relevant documents or records and ascertain if the organization employs appropriate management, operational, and technical information system security controls at alternate work sites."
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "PE-09-727", 
+        "Category": {
+            "Item": "Physical and Environmental Protection"
+        }, 
+        "Procedure_Name": "Power Equipment and Cabling", 
+        "Functional_Areas": {
+            "Item": "Protect"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": [
+                "Network Access and Perimeter Controls", 
+                "Physical and Environmental Protection"
+            ]
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P1"
+        }, 
+        "Risk_Statement": "Unauthorized access to information resources is obtained through tapping into inappropriately exposed cabling infrastructure.", 
+        "Description": "The organization protects power equipment and power cabling for the information system from damage and destruction.", 
+        "Example": "Cabling infrastructure is not readily accessible to employees, and/or protected by physical access mechanisms.", 
+        "First_Published": "2016-01-14T16:21:09.207Z", 
+        "Last_Updated": "2017-01-19T13:56:54.897Z", 
+        "State_Implementation": "No statewide control", 
+        "State_Implementation_Date": null, 
+        "State_Implementation_Required": {
+            "Item": "No"
+        }, 
+        "Agency_Implementation": null, 
+        "Organization_Implementation_Date": null, 
+        "Testing_Procedures": "Obtain physical and environmental protection policy; procedures addressing power equipment and cabling protection; facility housing power equipment and cabling; other relevant documents or records and ascertain if  the organization protects power equipment and power cabling for the information system from damage and destruction."
+    }
+}

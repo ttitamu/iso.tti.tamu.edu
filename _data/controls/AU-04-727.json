@@ -1,0 +1,42 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "AU-04-727", 
+        "Category": {
+            "Item": "Audit and Accountability"
+        }, 
+        "Procedure_Name": "Audit Storage Capacity", 
+        "Functional_Areas": {
+            "Item": "Protect"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": [
+                "Media", 
+                "Security Monitoring and Event Analysis"
+            ]
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "LOW", 
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P1"
+        }, 
+        "Risk_Statement": "Logging facilities and log information is compromised and tampered with due to inadequate data protection mechanisms.", 
+        "Description": "The organization allocates audit record storage capacity in accordance with [Assignment: organization-defined audit record storage requirements].", 
+        "Example": "Data storage space is available to accommodate audit records.", 
+        "First_Published": "2016-01-14T16:19:20.253Z", 
+        "Last_Updated": "2017-01-19T13:57:03.693Z", 
+        "State_Implementation": "The state organization allocates sufficient audit record storage capacity and configures auditing to reduce the likelihood of such capacity being exceeded.", 
+        "State_Implementation_Date": "2016-02-01T00:00:00Z", 
+        "State_Implementation_Required": {
+            "Item": "Yes"
+        }, 
+        "Agency_Implementation": "<p>Information resource custodians shall ensure sufficient storage space is allocated to maintain audit records for the required duration.</p>", 
+        "Organization_Implementation_Date": "2016-08-18T00:00:00Z", 
+        "Testing_Procedures": "Obtain audit and accountability policy; procedures addressing audit storage capacity; information system design documentation; organization-defined audit record storage capacity for information system components that store audit records; list of organization-defined auditable events; information system configuration settings and associated documentation; information system audit records; other relevant documents or records and ascertain if\n(I)the organization allocates sufficient audit record storage capacity; and\n(ii)the organization configures auditing to reduce the likelihood of audit record storage capacity being exceeded."
+    }
+}
