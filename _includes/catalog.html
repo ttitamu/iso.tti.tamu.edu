@@ -1,0 +1,33 @@
+<p>The Texas A&amp;M Transportation Institute Security Control Standards Catalog
+  (“Controls Catalog”) establishes the minimum standards and controls for agency
+  information security in accordance with the state’s Information Security Standards
+  for Institutions of Higher Education found in Title 1, Chapter 202, Texas
+  Administrative Code (TAC 202). For more information, visit the
+  <a href="/policies.html">Policy and Standards</a> page.</p>
+
+<hr />
+
+<table id="catalog">
+  <tr>
+    <th>Procedure ID</th>
+    <th>Procedure Name</th>
+    <th>NIST Priority</th>
+  </tr>
+{% assign controls = site.data.controls | sort %}
+{% for control_record in controls %}
+{% if page.controls == nil or page.controls and page.controls contains control_record[1].Item.Procedure_ID %}
+{% assign control = control_record[1].Item %}
+{% if family != control.Category.Item %}
+  <tr>
+    <td colspan="3" class="catalog_family_heading"><strong><a name="{{ control.Procedure_ID | slice: 0, 2 }}">{{ control.Category.Item }}</a></strong></td>
+  </tr>
+{% assign family = control.Category.Item %}
+{% endif %}
+  <tr class="catalog_control_entry">
+    <td><a href="controls/{{ control.Procedure_ID }}.html">{{ control.Procedure_ID }}</a></td>
+    <td>{{ control.Procedure_Name }}</td>
+    <td>{{ control.NIST_Priority.Item }}</td>
+  </tr>
+{% endif %}
+{% endfor %}
+</table>
