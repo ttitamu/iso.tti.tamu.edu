@@ -26,14 +26,14 @@
         "Description": "The information system requests and performs data origin authentication and data integrity verification on the name/address resolution responses the system receives from authoritative sources.", 
         "Example": "An automated mechanism considers the authenticity and data integrity of the DNS trust levels.", 
         "First_Published": "2016-01-14T16:21:31.037Z", 
-        "Last_Updated": "2017-03-21T20:11:36.873Z", 
+        "Last_Updated": "2018-02-23T21:14:31.613Z", 
         "State_Implementation": "The information system that provides name/address resolution service for local clients performs data origin authentication and data integrity verification on the resolution responses it receives from authoritative sources when requested by client systems.", 
         "State_Implementation_Date": "2016-02-01T00:00:00Z", 
         "State_Implementation_Required": {
             "Item": "Yes"
         }, 
-        "Agency_Implementation": null, 
-        "Organization_Implementation_Date": null, 
+        "Agency_Implementation": "<p>All Agency controlled information resources shall use an approved authoritative source for all domain name service queries, and block access to all other name services. </p>", 
+        "Organization_Implementation_Date": "2016-05-20T00:00:00Z", 
         "Testing_Procedures": "Obtain procedures addressing secure addressing practices and ascertain if the organization performs data origin authentication and data integrity verification on the name/address resolution responses (such as recursive resolving or caching domain name system (DNS) servers)"
     }
 }

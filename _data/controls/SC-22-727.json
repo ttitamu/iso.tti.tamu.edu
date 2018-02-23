@@ -29,14 +29,14 @@
         "Description": "The information systems that collectively provide name/address resolution service for an organization are fault-tolerant and implement internal/external role separation.", 
         "Example": "A fault-tolerant network infrastructure is in place.", 
         "First_Published": "2016-01-14T16:19:15.083Z", 
-        "Last_Updated": "2017-01-19T13:56:59.943Z", 
+        "Last_Updated": "2018-02-23T21:37:37.49Z", 
         "State_Implementation": "The information systems that collectively provide name/address resolution service for an organization are fault tolerant and implement role separation.", 
         "State_Implementation_Date": "2016-02-01T00:00:00Z", 
         "State_Implementation_Required": {
             "Item": "Yes"
         }, 
-        "Agency_Implementation": null, 
-        "Organization_Implementation_Date": null, 
+        "Agency_Implementation": "<p>All components of the Agency's domain name provisioning and resolution services have redundancy in place.</p>", 
+        "Organization_Implementation_Date": "2016-05-20T00:00:00Z", 
         "Testing_Procedures": "Obtain system and communications protection policy; procedures addressing architecture and provisioning for name/address resolution service; access control policy and procedures; NIST Special Publication 800-81; information system design documentation; assessment results from independent, testing organizations; information system configuration settings and associated documentation; other relevant documents or records and ascertain if: \n(I)the information systems that collectively provide name/address resolution service for an organization are fault tolerant and implement role separation."
     }
 }

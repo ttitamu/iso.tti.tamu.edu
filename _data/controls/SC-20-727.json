@@ -26,14 +26,14 @@
         "Description": "The information system:\na. Provides additional data origin and integrity artifacts along with the authoritative name resolution data the system returns in response to external name/address resolution queries; and\nb. Provides the means to indicate the security status of child zones and (if the child supports secure resolution services) to enable verification of a chain of trust among parent and child domains, when operating as part of a distributed, hierarchical namespace.", 
         "Example": "The network has established parent and client zones to maintain the appropriate level of isolation.", 
         "First_Published": "2016-01-14T16:21:30.38Z", 
-        "Last_Updated": "2017-01-19T13:56:59.943Z", 
+        "Last_Updated": "2018-02-23T21:14:08.277Z", 
         "State_Implementation": "The information system that provides name/address resolution service provides additional data origin and integrity artifacts along with the authoritative data it returns in response to resolution queries.", 
         "State_Implementation_Date": "2016-02-01T00:00:00Z", 
         "State_Implementation_Required": {
             "Item": "Yes"
         }, 
-        "Agency_Implementation": null, 
-        "Organization_Implementation_Date": null, 
+        "Agency_Implementation": "<p>The Agency shall use one designated authoritative source for all domains under the Agency's control (e.g., TAMU Infoblox for the tti.tamu.edu domain and AWS Route 53 for all commercial domains), and reject responses from any other source.</p>", 
+        "Organization_Implementation_Date": "2016-05-20T00:00:00Z", 
         "Testing_Procedures": "Obtain system and communications protection policy; procedures addressing secure name/address resolution service (authoritative source); NIST Special Publication 800-81; information system design documentation; information system configuration settings and associated documentation; other relevant documents or records and ascertain if :\n(I)the information system, (if the system provides a name/address resolution service), provides artifacts for additional data origin authentication and data integrity artifacts along with the authoritative data it returns in response to resolution queries.\n(ii)the information system, when operating as part of a distributed, hierarchical namespace, provides the means to indicate the security status of child subspaces and (if the child supports secure resolution services) enable verification of a chain of trust among parent and child domains."
     }
 }

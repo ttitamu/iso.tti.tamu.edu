@@ -29,14 +29,14 @@
         "Description": "The organization:\na. Requires that providers of external information system services comply with organizational information security requirements and employ [Assignment: organization-defined security controls] in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance;\nb. Defines and documents government oversight and user roles and responsibilities with regard to external information system services; and\nc. Employs [Assignment: organization-defined processes, methods, and techniques] to monitor security control compliance by external service providers on an ongoing basis.", 
         "Example": "The organization explicitly defines usage of external systems.", 
         "First_Published": "2016-01-14T16:20:00.88Z", 
-        "Last_Updated": "2017-03-21T20:11:36.873Z", 
+        "Last_Updated": "2018-02-23T21:36:11.573Z", 
         "State_Implementation": "The state organization requires that providers of external information system services employ adequate security controls in accordance with these standards and monitors security control compliance.", 
         "State_Implementation_Date": "2016-02-01T00:00:00Z", 
         "State_Implementation_Required": {
             "Item": "Yes"
         }, 
-        "Agency_Implementation": null, 
-        "Organization_Implementation_Date": null, 
+        "Agency_Implementation": "<p>Information resource owners procuring third-party information services (e.g., cloud service providers) shall ensure the provider adheres to industry accepted security baselines, such as Cloud Security Alliance's Cloud Controls Matrix, and demonstrated adherence to standards through auditing such as SSAE 16 SOC II.  In cases where additional compliance requirements exist, additional security baselines such as FedRAMP accrediation may be used to determine the provider's suitability to operate information resources on behalf of the Agency.</p>", 
+        "Organization_Implementation_Date": "2016-05-20T00:00:00Z", 
         "Testing_Procedures": "Obtain system and services acquisition policy; procedures addressing external information system services; acquisition contracts and service level agreements; organizational security requirements and security specifications for external provider services; security control assessment evidence from external providers of information system services; other relevant documents or records and ascertain if:\n(I)the organization requires that providers of external information system services employ adequate security controls in accordance with applicable laws, Executive Orders, directives, policies, regulations, standards, guidance, and established service-level agreements.\n(ii)the organization monitors security control compliance."
     }
 }
