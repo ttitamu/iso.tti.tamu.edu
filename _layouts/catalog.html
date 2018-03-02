@@ -28,19 +28,11 @@
             <div class="clearfix">
 							<div class="block-inner">
 								<h2 class="block-title">Search Control Catalog</h2>
-								<div class="content" >
-                  <script>
-                    (function() {
-                      var cx = '008949092255637062974:v4emhgv403a';
-                      var gcse = document.createElement('script');
-                      gcse.type = 'text/javascript';
-                      gcse.async = true;
-                      gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-                      var s = document.getElementsByTagName('script')[0];
-                      s.parentNode.insertBefore(gcse, s);
-                    })();
-                  </script>
-                  <gcse:searchbox-only></gcse:searchbox-only>
+								<div class="content">
+                  <form action="/catalog-search.html" method="get" style="input {vertical-align: bottom;}">
+                    <input type="text" placeholder="Search" name="q" style="height: 2em; width: 60%;" />&nbsp;
+                    <input type="submit" value="&#x1F50D;" />
+                  </form>
 								</div>
 							</div>
 						</div> <!-- /block-inner /block -->
