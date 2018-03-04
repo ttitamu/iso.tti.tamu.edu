@@ -1,4 +1,6 @@
 audiences:
+- url: /catalog-cui.html
+  title: CUI Programs Required Controls
 #- url: /catalog-itpro.html
 #  title: IT Professionals
 #- url: /catalog-researcher.html
