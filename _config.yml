@@ -19,4 +19,4 @@ exclude:
    - vendor/ruby/
 
 plugins:
- - jekyll-sitemap
+ #- jekyll-sitemap
