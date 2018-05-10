@@ -1,0 +1,42 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "SC-13-727", 
+        "Category": {
+            "Item": "System and Communications Protection"
+        }, 
+        "Procedure_Name": "Cryptographic Protection", 
+        "Functional_Areas": {
+            "Item": "Protect"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": [
+                "Cryptography", 
+                "System Communications Protection"
+            ]
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "LOW", 
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P1"
+        }, 
+        "Risk_Statement": "Encryption and other cryptographic controls are inconsistently used to protect information assets and deviate with policy.", 
+        "Description": "The information system implements [Assignment: organization-defined cryptographic uses and type of cryptography required for each use] in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, and standards.", 
+        "Example": "The organization uses public and private keys, along with other cryptographic mechanisms according to applicable federal laws, Executive Orders, directives, policies, regulations, and standards.", 
+        "First_Published": "2016-01-14T16:19:42.753Z", 
+        "Last_Updated": "2018-02-23T21:00:42.773Z", 
+        "State_Implementation": "Encryption requirements for information storage devices and data transmissions, as well as specific requirements for portable devices, removable media, and encryption key standards and management shall be based on documented state organization risk management decisions. \nConfidential information that is transmitted over a public network (e.g., the Internet) must be encrypted. \nConfidential information stored in a public location that is directly accessible without compensating controls in place (e.g., FTP without access control) must be encrypted.) \nStoring confidential information on portable devices is discouraged. Confidential information must be encrypted if copied to, or stored on, a portable computing device, removable media, or a non-state organization owned computing device. \nThe minimum algorithm strength for protecting confidential information is a 128-bit encryption algorithm, subject to state organization risk management decisions justified and documented in accordance with TAC 202.21/71(c) and TAC 202.25/75. \nA state organization may also choose to implement additional protections, which may include encryption, for other data classifications.", 
+        "State_Implementation_Date": "2015-02-01T00:00:00Z", 
+        "State_Implementation_Required": {
+            "Item": "Yes"
+        }, 
+        "Agency_Implementation": "<p>All traffic egressing from the Agency's protected network, or information residing on information systems outside the control of the Agency, that contains sensitive or confidential information shall be natively encrypted or traverse an Agency controlled encrypted point-to-point tunnel to its destination.  Confidential information may not be stored on portable devices (including portable/laptop workstations) without information security officer approval.</p>\n<p>All encryption methods shall utilize a FIPS 140-2 approved algorithm with a minimum cipher key size of 128 bits.</p>", 
+        "Organization_Implementation_Date": "2015-10-27T00:00:00Z", 
+        "Testing_Procedures": "Obtain system and communications protection policy; procedures addressing use of cryptography; FIPS 140-2 (as amended); NIST Special Publications 800-56 and 800-57; information system design documentation; information system configuration settings and associated documentation; cryptographic module validation certificates; other relevant documents or records and ascertain if ,for information requiring cryptographic protection, the information system implements cryptographic mechanisms that comply with applicable laws, Executive Orders, directives, policies, regulations, standards, and guidance."
+    }
+}

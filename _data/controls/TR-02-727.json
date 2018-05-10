@@ -1,0 +1,35 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "TR-02-727", 
+        "Category": {
+            "Item": "Transparency"
+        }, 
+        "Procedure_Name": "System of Records Notices and Privacy Act Statements", 
+        "Functional_Areas": {
+            "Item": "Identify"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": "Privacy and Confidentiality"
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": "NOT SELECTED"
+        }, 
+        "NIST_Priority": {
+            "Item": "NA"
+        }, 
+        "Risk_Statement": "Laws and regulations are violated due to an organization failing to provide notices and privacy statements on usage of customer data.", 
+        "Description": "The organization:\na. Publishes System of Records Notices (SORNs) in the Federal Register, subject to required oversight processes, for systems containing personally identifiable information (PII);\nb. Keeps SORNs current; and\nc. Includes Privacy Act Statements on its forms that collect PII, or on separate forms that can be retained by individuals, to provide additional formal notice to individuals from whom the information is being collected.\n(1) SYSTEM OF RECORDS NOTICES AND PRIVACY ACT STATEMENTS | PUBLIC WEBSITE PUBLICATION\nThe organization publishes SORNs on its public website.", 
+        "Example": "For applicable federal system, compliance with System of Records Notices criteria is followed.", 
+        "First_Published": "2016-01-14T16:21:58.16Z", 
+        "Last_Updated": "2017-01-19T13:56:22.85Z", 
+        "State_Implementation": "No statewide control", 
+        "State_Implementation_Date": null, 
+        "State_Implementation_Required": {
+            "Item": "No"
+        }, 
+        "Agency_Implementation": null, 
+        "Organization_Implementation_Date": null, 
+        "Testing_Procedures": "Obtain data privacy policy and procedures; other relevant documents or records and ascertain if:\n(I) the organization publishes System of Records Notices (SORNs) in the Federal Register, subject to required oversight processes, for systems containing personally identifiable information (PII);\n(ii) the organization keeps SORNs current;\n(iii) the organization includes Privacy Act Statements on its forms that collect PII, or on separate forms that can be retained by individuals, to provide additional formal notice to individuals from whom the information is being collected; and\n(iv) the organization publishes SORNs on its public website."
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "AC-17-727", 
+        "Category": {
+            "Item": "Access Control"
+        }, 
+        "Procedure_Name": "Remote Access", 
+        "Functional_Areas": {
+            "Item": "Protect"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": [
+                "Internet Content Filtering", 
+                "Portable and Remote Computing"
+            ]
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "LOW", 
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P1"
+        }, 
+        "Risk_Statement": "Users of corporate information systems expose business information to exploitable vulnerabilities when using teleworking solutions.", 
+        "Description": "The organization:\na. Establishes and documents usage restrictions, configuration/connection requirements, and implementation guidance for each type of remote access allowed; and\nb. Authorizes remote access to the information system prior to allowing such connections.", 
+        "Example": "a. Remote access is not permitted without explicit approval. \nb. Access to corporate network is only provided when using VPN while working remotely.", 
+        "First_Published": "2016-01-14T16:21:23.037Z", 
+        "Last_Updated": "2017-01-19T13:56:58.99Z", 
+        "State_Implementation": "The state organization establishes, documents, and reviews usage restrictions, configuration/connection requirements, and implementation guidance for each type of remote access allowed.\n\nAll remote access connections must be authorizes prior to allowing such connections.", 
+        "State_Implementation_Date": "2016-02-01T00:00:00Z", 
+        "State_Implementation_Required": {
+            "Item": "Yes"
+        }, 
+        "Agency_Implementation": "<p>All remote access to Agency-owned information resources shall be conducted using the Microsoft Remote Desktop Protocol (RDP) or Secure Shell (SSH) service.  RDP and SSH shall be configured to enforce TLS connections; insecure connection requests shall be denied.  No public access to RDP or SSH shall be permitted; all connections must either initiate within the Agency's protected network or via a secure gateway.  Users must be explicitly authorized for remote access to a workstation with the approval of the information resource owner.</p>", 
+        "Organization_Implementation_Date": "2016-08-17T00:00:00Z", 
+        "Testing_Procedures": "Obtain access control policy; procedures addressing remote access to the information system; information system configuration settings and associated documentation; information system audit records; other relevant documents or records and ascertain if \n(I) the organization authorizes, monitors, and controls remote access to the information system for all allowed methods of remote access to include both establishment of the remote connection and subsequent user actions across that connection.\n(ii) the information system employs automated mechanisms to facilitate the monitoring and control of remote access methods.\n(iii) the information system employs cryptography to protect the confidentiality and integrity of remote access sessions."
+    }
+}

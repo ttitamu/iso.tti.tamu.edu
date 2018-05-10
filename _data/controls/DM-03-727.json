@@ -1,0 +1,35 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "DM-03-727", 
+        "Category": {
+            "Item": "Data Minimization and Retention"
+        }, 
+        "Procedure_Name": "Minimization of PII Used In Testing, Training, And Research", 
+        "Functional_Areas": {
+            "Item": "Identify"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": "Privacy and Confidentiality"
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": "NOT SELECTED"
+        }, 
+        "NIST_Priority": {
+            "Item": "NA"
+        }, 
+        "Risk_Statement": "Laws and regulations are violated as a result of lack of controls over use of personally identifiable information (PII) in testing, training and research", 
+        "Description": "The organization:\na. Develops policies and procedures that minimize the use of personally identifiable information (PII) for testing, training, and research; and\nb. Implements controls to protect PII used for testing, training, and research.", 
+        "Example": "A privacy impact assessment determines the extent and nature of PII in the organization, and appropriate handling mechanisms are defined.", 
+        "First_Published": "2016-01-14T16:20:46.677Z", 
+        "Last_Updated": "2017-01-19T13:56:22.85Z", 
+        "State_Implementation": "No statewide control", 
+        "State_Implementation_Date": null, 
+        "State_Implementation_Required": {
+            "Item": "No"
+        }, 
+        "Agency_Implementation": null, 
+        "Organization_Implementation_Date": null, 
+        "Testing_Procedures": "Obtain data privacy policy and procedures; other relevant documents or records and ascertain if:\n(I) the organization develops policies and procedures that minimize the use of personally identifiable information (PII) for testing, training, and research; and\n(ii) the organization implements controls to protect PII used for testing, training, and research."
+    }
+}

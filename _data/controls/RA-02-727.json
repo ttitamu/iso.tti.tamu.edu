@@ -1,0 +1,39 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "RA-02-727", 
+        "Category": {
+            "Item": "Risk Assessment"
+        }, 
+        "Procedure_Name": "Security Categorization", 
+        "Functional_Areas": {
+            "Item": "Identify"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": "Data Classification"
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "LOW", 
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P1"
+        }, 
+        "Risk_Statement": "Information is disclosed due to lack of protection based on the need, priorities and expected degree of protection.", 
+        "Description": "The organization:\na. Categorizes information and the information system in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance;\nb. Documents the security categorization results (including supporting rationale) in the security plan for the information system; and\nc. Ensures that the security categorization decision is reviewed and approved by the authorizing official or authorizing official designated representative.", 
+        "Example": "a.  The organization has a documented data classification policy or standard that guides data owners on data categorization, and associated security requirements of information systems where such information is maintained.\nb.  Information systems have security plans that aligned with the classification of the information system.", 
+        "First_Published": "2016-01-14T16:21:36.957Z", 
+        "Last_Updated": "2018-02-15T16:08:06.593Z", 
+        "State_Implementation": "State organizations are responsible for defining all information classification categories except the Confidential Information category, which is defined in Subchapter A of this chapter, and establishing the appropriate controls for each.", 
+        "State_Implementation_Date": "2015-02-01T00:00:00Z", 
+        "State_Implementation_Required": {
+            "Item": "Yes"
+        }, 
+        "Agency_Implementation": "<p>The Agency has adopted the Texas A&M University System data classification standard for all information.  Information resources are categorized as mission-critical, production, non-production/utility, test/staging, and development.</p>", 
+        "Organization_Implementation_Date": "2018-02-15T00:00:00Z", 
+        "Testing_Procedures": "Obtain risk assessment policy; procedures addressing security categorization of organizational information and information systems; security planning policy and procedures; FIPS 199; NIST Special Publication 800-60; security plan; other relevant documents or records and ascertain if :\n(i)the organization conducts the security categorization of the information system as an organization-wide exercise with the involvement of senior-level officials including, but not limited to, authorizing officials, information system owners, chief information officer, senior agency information security officer, and mission/information owners.\n(ii)the security categorization is consistent with FIPS 199 and considers the provisional impact levels and special factors in NIST Special Publication 800-60.\n(iii)the organization considers in the security categorization of the information system, potential impacts to other organizations and, in accordance with the USA PATRIOT Act of 2001 and Homeland Security Presidential Directives, potential national-level impacts.\n(iv)the organization includes supporting rationale for impact-level decisions as part of the security categorization.\n(v)designated, senior-level organizational officials review and approve the security categorizations."
+    }
+}

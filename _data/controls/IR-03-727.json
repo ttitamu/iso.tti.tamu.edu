@@ -1,0 +1,34 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "IR-03-727", 
+        "Category": {
+            "Item": "Incident Response"
+        }, 
+        "Procedure_Name": "Incident Response Testing", 
+        "Functional_Areas": null, 
+        "Functional_SubArea_1": null, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P2"
+        }, 
+        "Risk_Statement": "Incidents are mishandled due to lack of defined and tested incident management plans.", 
+        "Description": "The organization tests the incident response capability for the information system [Assignment: organization-defined frequency] using [Assignment: organization-defined tests] to determine the incident response effectiveness and documents the results.", 
+        "Example": "The agency conducted periodic testing of the incident reporting mechanisms.", 
+        "First_Published": "2016-01-14T16:20:13.973Z", 
+        "Last_Updated": "2016-02-11T19:03:09.673Z", 
+        "State_Implementation": "No statewide control", 
+        "State_Implementation_Date": null, 
+        "State_Implementation_Required": {
+            "Item": "No"
+        }, 
+        "Agency_Implementation": null, 
+        "Organization_Implementation_Date": null, 
+        "Testing_Procedures": "Obtain incident response policy; procedures addressing incident response testing and exercises; security plan; incident response testing material; incident response test results; other relevant documents or records and ascertain if :\n(I)the organization defines in the security plan, explicitly or by reference, incident response tests/exercises.\n(ii)the organization defines in the security plan, explicitly or by reference, the frequency of incident response tests/exercises and the frequency is at least annually.\n(iii)the organization tests/exercises the incident response capability for the information system using organization-defined tests/exercises in accordance with organization-defined frequency.\n(iv)the organization documents the results of incident response tests/exercises. \n(v)the organization determines the effectiveness of the incident response capability."
+    }
+}

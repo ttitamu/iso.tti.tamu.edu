@@ -1,0 +1,35 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "SE-02-727", 
+        "Category": {
+            "Item": "Security"
+        }, 
+        "Procedure_Name": "Privacy Incident Response", 
+        "Functional_Areas": {
+            "Item": "Respond"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": "Privacy Incident Response"
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": "NOT SELECTED"
+        }, 
+        "NIST_Priority": {
+            "Item": "NA"
+        }, 
+        "Risk_Statement": "Lack of a Privacy Incident Response program may result in improper identification and handling of privacy events.", 
+        "Description": "The organization:\na. Develops and implements a Privacy Incident Response Plan; and\nb. Provides an organized and effective response to privacy incidents in accordance with the organizational Privacy Incident Response Plan.", 
+        "Example": "A written, documented privacy incident response plan is in place.", 
+        "First_Published": "2016-01-14T16:21:12.49Z", 
+        "Last_Updated": "2017-01-19T13:57:06.223Z", 
+        "State_Implementation": "No statewide control", 
+        "State_Implementation_Date": null, 
+        "State_Implementation_Required": {
+            "Item": "No"
+        }, 
+        "Agency_Implementation": null, 
+        "Organization_Implementation_Date": null, 
+        "Testing_Procedures": "Obtain data privacy policy and procedures; other relevant documents or records and ascertain if:\n(I) the organization develops and implements a Privacy Incident Response Plan; and\n(ii) the organization provides an organized and effective response to privacy incidents in accordance with the organizational Privacy Incident Response Plan."
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "SA-02-727", 
+        "Category": {
+            "Item": "Security Assessment and Authorization"
+        }, 
+        "Procedure_Name": "Allocation of Resources", 
+        "Functional_Areas": {
+            "Item": "Protect"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": "Enterprise Architecture, Roadmap and Emerging Technology"
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "LOW", 
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P1"
+        }, 
+        "Risk_Statement": "Management has not aligned the information technology architecture with corporate strategy.", 
+        "Description": "The organization:\na. Determines information security requirements for the information system or information system service in mission/business process planning;\nb. Determines, documents, and allocates the resources required to protect the information system or information system service as part of its capital planning and investment control process; and\nc. Establishes a discrete line item for information security in organizational programming and budgeting documentation.", 
+        "Example": "Resource allocation is a part of the general budgeting strategy for the organization.", 
+        "First_Published": "2016-01-14T16:19:09.037Z", 
+        "Last_Updated": "2018-02-23T19:48:15.487Z", 
+        "State_Implementation": "The state organization determines, documents, and allocates as part of its capital planning and investment control process, the resources required to adequately protect the information system.", 
+        "State_Implementation_Date": "2016-02-01T00:00:00Z", 
+        "State_Implementation_Required": {
+            "Item": "Yes"
+        }, 
+        "Agency_Implementation": "The chief information officer and information resource owner shall determine information security requirements for an information resource as part of the planning process, as well as determine, document, and allocate resources required to protect the information resource as part of its capital planning and investment control process.", 
+        "Organization_Implementation_Date": "2016-05-20T00:00:00Z", 
+        "Testing_Procedures": "Obtain system and services acquisition policy; procedures addressing the integration of information security into the system development life cycle process; NIST Special Publication 800-64; information system development life cycle documentation; other relevant documents or records and ascertain if :\n(I)the organization determines, documents, and allocates as part of its capital planning and investment control process, the resources required to adequately protect the information system by verifying that the organization:\n-defines security requirements for the information system in mission/business planning.\n-establishes a discrete line item for information system security in the organization\u2019s programming and budgeting documentation.\n-integrates information system security into the capital planning and investment control process in accordance with the guidance in NIST Special Publication 800-65."
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "SC-07-727", 
+        "Category": {
+            "Item": "System and Communications Protection"
+        }, 
+        "Procedure_Name": "Boundary Protection", 
+        "Functional_Areas": null, 
+        "Functional_SubArea_1": null, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "LOW", 
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P1"
+        }, 
+        "Risk_Statement": "Computer connections and information flows breach access control policy as a result of inconsistencies with network routing configurations.", 
+        "Description": "The information system:\na. Monitors and controls communications at the external boundary of the system and at key internal boundaries within the system;\nb. Implements subnetworks for publicly accessible system components that are [Selection: physically; logically] separated from internal organizational networks; and\nc. Connects to external networks or information systems only through managed interfaces consisting of boundary protection devices arranged in accordance with an organizational security architecture.", 
+        "Example": "The system boundary is explicitly defined and protection by a combination of hardware mechanisms (i.e., defense in depth).", 
+        "First_Published": "2016-01-14T16:19:24.553Z", 
+        "Last_Updated": "2018-02-23T21:37:03.557Z", 
+        "State_Implementation": "The information system monitors and controls communications at the external boundary of the information system and at key internal boundaries within the system.", 
+        "State_Implementation_Date": "2016-02-01T00:00:00Z", 
+        "State_Implementation_Required": {
+            "Item": "Yes"
+        }, 
+        "Agency_Implementation": "<p>The Agency's network defense systems shall monitor and control inbound and outbound traffic to each segment of the Agency's network.  Information resources with any degree of sensitivity shall employ host-based firewalls to control inbound and outbound traffic to the specific resource.</p>", 
+        "Organization_Implementation_Date": "2016-05-20T00:00:00Z", 
+        "Testing_Procedures": "Obtain system and communications protection policy; procedures addressing boundary protection; list of key internal boundaries of the information system; information system design documentation; boundary protection hardware and software; information system configuration settings and associated documentation; information system hardware and software; information system architecture; list of mediation vehicles for allowing public access to the organization\u2019s internal networks; other relevant documents or records and ascertain if:\n(I)the organization defines key internal boundaries of the information system.\n(ii)the information system monitors and controls communications at the external boundary of the information system and at key internal boundaries within the system. \n(iii)the organization physically allocates publicly accessible information system components to separate sub networks with separate, physical network interfaces.\n(iv)the organization defines the mediation necessary for public access to the organization\u2019s internal networks.\n(v)the organization prevents public access into the organization\u2019s internal networks except as appropriately mediated.\n(vi)the organization limits the number of access points to the information system to allow for better monitoring of inbound and outbound network traffic.\n(vii)the organization implements a managed interface (boundary protection devices in an effective security architecture) with any external telecommunication service, implementing controls appropriate to the required protection of the confidentiality and integrity of the information being transmitted.\n(viii)the information system denies network traffic by default and allows network traffic by exception.\n(ix)the information system prevents remote devices that have established a non-remote connection with the system from communicating outside of that communications path with resources in external networks."
+    }
+}

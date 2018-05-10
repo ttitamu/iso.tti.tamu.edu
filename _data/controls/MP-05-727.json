@@ -1,0 +1,38 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "MP-05-727", 
+        "Category": {
+            "Item": "Media Protection"
+        }, 
+        "Procedure_Name": "Media Transport", 
+        "Functional_Areas": {
+            "Item": "Protect"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": "Media"
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P1"
+        }, 
+        "Risk_Statement": "Information stored in physical media may be disclosed to or altered by unauthorized parties while being physically transported.", 
+        "Description": "The organization:\na. Protects and controls [Assignment: organization-defined types of information system media] during transport outside of controlled areas using [Assignment: organization-defined security safeguards];\nb. Maintains accountability for information system media during transport outside of controlled areas;\nc. Documents activities associated with the transport of information system media; and\nd. Restricts the activities associated with the transport of information system media to authorized personnel.", 
+        "Example": "The agency employee protection mechanisms during the transportation of media, such locks, secured bins, etc.", 
+        "First_Published": "2016-01-14T16:20:44.13Z", 
+        "Last_Updated": "2017-01-19T13:56:46.74Z", 
+        "State_Implementation": "No statewide control", 
+        "State_Implementation_Date": null, 
+        "State_Implementation_Required": {
+            "Item": "No"
+        }, 
+        "Agency_Implementation": null, 
+        "Organization_Implementation_Date": null, 
+        "Testing_Procedures": "Obtain information system media protection policy; procedures addressing media transport; physical and environmental protection policy and procedures; audit records; access control policy and procedures; security plan; list of organization-defined personnel authorized to transport information system media outside of controlled areas; information system media; information system media transport records; information system audit records; other relevant documents or records and ascertain if :\n(I)the organization identifies personnel authorized to transport information system media outside of controlled areas.\n(ii)the organization documents, in policy and procedures, the media requiring protection during transport and the specific measures taken to protect such transported media.\n(iii)the organization protects and controls information system media during transport outside of controlled areas.\n(iv)the organization restricts the activities associated with transport of information system media to authorized personnel.\n(v)the organization defines in the security plan, explicitly or by reference, a system of records for documenting activities associated with the transport of information system media.\n(vi)the organization documents, where appropriate, activities associated with the transport of information system media using the organization-defined system of records.\n(vii)the organization employs cryptographic mechanisms to protect the confidentiality and integrity of information stored on digital media during transport outside of controlled areas."
+    }
+}

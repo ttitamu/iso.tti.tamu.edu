@@ -1,0 +1,35 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "PL-02-727", 
+        "Category": {
+            "Item": "Planning"
+        }, 
+        "Procedure_Name": "System Security Plan", 
+        "Functional_Areas": null, 
+        "Functional_SubArea_1": null, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "LOW", 
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P1"
+        }, 
+        "Risk_Statement": "Management does not have a documented security plan.", 
+        "Description": "The organization:\na. Develops a security plan for the information system that:\n1. Is consistent with the organization\u2019s enterprise architecture;\n2. Explicitly defines the authorization boundary for the system;\n3. Describes the operational context of the information system in terms of missions and business processes;\n4. Provides the security categorization of the information system including supporting rationale;\n5. Describes the operational environment for the information system and relationships with or connections to other information systems;\n6. Provides an overview of the security requirements for the system;\n7. Identifies any relevant overlays, if applicable;\n8. Describes the security controls in place or planned for meeting those requirements including a rationale for the tailoring and supplementation decisions; and\n9. Is reviewed and approved by the authorizing official or designated representative prior to plan implementation;\nb. Distributes copies of the security plan and communicates subsequent changes to the plan to [Assignment: organization-defined personnel or roles];\nc. Reviews the security plan for the information system [Assignment: organization-defined frequency];\nd. Updates the plan to address changes to the information system/environment of operation or problems identified during plan implementation or security control assessments; and\ne. Protects the security plan from unauthorized disclosure and modification.", 
+        "Example": "The organization has a broad system security plan in place and reviews it annually for appropriateness.", 
+        "First_Published": "2016-01-14T16:21:58.973Z", 
+        "Last_Updated": "2018-02-13T18:05:36.723Z", 
+        "State_Implementation": "The state organization develops and implements a security plan for the information system that provides an overview of the security requirements for the system and a description of the security controls in place or planned for meeting those requirements. Designated officials within the organization review and approve the plan.", 
+        "State_Implementation_Date": "2015-02-01T00:00:00Z", 
+        "State_Implementation_Required": {
+            "Item": "Yes"
+        }, 
+        "Agency_Implementation": "<p>Owners of Agency-owned mission-critical information resources shall develop and submit a system security plan in accordance with NIST SP 800-18 that: (a) defines the authorization boundary of the information resource; (b) describes the function, operational context and environment, and security categorization of the information resource; (c) identifies relationships and connections to other information resources; (d) describes the unique resource-specific security controls in place or planned for the information resource that exceed the common security controls applied to all Agency information resources.</p>\n<p>The system security plan shall be approved by the information security officer and maintained on file for the lifespan of the information resource.</p>", 
+        "Organization_Implementation_Date": "2018-02-13T00:00:00Z", 
+        "Testing_Procedures": "Obtain security planning policy; procedures addressing security plan development and implementation; NIST Special Publication 800-18; security plan for the information system; other relevant documents or records and ascertain if :\n(I)the organization develops and implements a security plan for the information system.\n(ii)the security plan provides an overview of the security requirements for the information system and a description of the security controls planned or in place for meeting the security requirements.\n(iii)the organization defines in the security plan, explicitly or by reference, the values for all organization-defined parameters (i.e., assignment and selection operations) in applicable security controls and control enhancements.\n(iv)the security plan development is consistent with NIST Special Publication 800-18.\n(v)the security plan is consistent with the organization\u2019s information system architecture and information security architecture.\n(vi)designated organizational officials review and approve the security plan."
+    }
+}

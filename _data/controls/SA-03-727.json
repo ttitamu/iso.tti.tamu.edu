@@ -1,0 +1,39 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "SA-03-727", 
+        "Category": {
+            "Item": "Security Assessment and Authorization"
+        }, 
+        "Procedure_Name": "System Development Life Cycle", 
+        "Functional_Areas": {
+            "Item": "Protect"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": "Secure System Services, Acquisition and Development"
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "LOW", 
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P1"
+        }, 
+        "Risk_Statement": "Developed and implemented systems do not consider the Design phase of the systems development lifecycle.", 
+        "Description": "The organization:\na. Manages the information system using [Assignment: organization-defined system development life cycle] that incorporates information security considerations;\nb. Defines and documents information security roles and responsibilities throughout the system development life cycle;\nc. Identifies individuals having information security roles and responsibilities; and\nd. Integrates the organizational information security risk management process into system development life cycle activities.", 
+        "Example": "a.  The existing system development lifecycle includes consideration for information security.\nb.  Test environments are kept either physically or logically separate from production environments. \nc.  Copies of production data are not used for testing unless the data has been authorized for public release or unless all custodians involved in testing are otherwise authorized access to the data.", 
+        "First_Published": "2016-01-14T16:21:53.193Z", 
+        "Last_Updated": "2018-02-23T19:51:09.847Z", 
+        "State_Implementation": "Information security, security testing, and audit controls shall be included in all phases of the system development lifecycle or acquisition process.", 
+        "State_Implementation_Date": "2015-02-01T00:00:00Z", 
+        "State_Implementation_Required": {
+            "Item": "Yes"
+        }, 
+        "Agency_Implementation": "<p>Information resource owners shall include information security, security testing, and audit controls in all phases of the system development lifecycle or acquisition process.  Where systems are designed for multi-tenancy, test environments may reside in a separate tenant from production environments or in a physically or logically separate environment.  In systems that are not designed for multi-tenancy, test environments must reside physically or logicailly separate from production environments.  Copies of production data are not used for testing unless the data has been authorized for public release or unless all custodians involved in testing are otherwise authorized access to the data.<br /><br /></p>", 
+        "Organization_Implementation_Date": "2016-05-20T00:00:00Z", 
+        "Testing_Procedures": "Obtain system and services acquisition policy; procedures addressing the integration of information security into the system development life cycle process; NIST Special Publication 800-64; information system development life cycle documentation; other relevant documents or records and ascertain if :\n(I)the organization manages the information system using a system development life cycle methodology that includes information security considerations.\n(ii)the organization uses a system development life cycle that is consistent with NIST Special Publication 800-64."
+    }
+}

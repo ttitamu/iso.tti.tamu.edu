@@ -1,0 +1,45 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "CM-10-727", 
+        "Category": {
+            "Item": "Configuration Management"
+        }, 
+        "Procedure_Name": "Software Usage Restrictions", 
+        "Functional_Areas": {
+            "Item": [
+                "Identify", 
+                "Protect"
+            ]
+        }, 
+        "Functional_SubArea_1": {
+            "Item": [
+                "Data Classification", 
+                "Secure Configuration Management"
+            ]
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "LOW", 
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P2"
+        }, 
+        "Risk_Statement": "Improper use of information or assets occurs inside an information processing facility.", 
+        "Description": "The organization:\na. Uses software and associated documentation in accordance with contract agreements and copyright laws;\nb. Tracks the use of software and associated documentation protected by quantity licenses to control copying and distribution; and\nc. Controls and documents the use of peer-to-peer file sharing technology to ensure that this capability is not used for the unauthorized distribution, display, performance, or reproduction of copyrighted work.", 
+        "Example": "The organization utilizes periodic monitoring sweeps to catch inappropriate peer-to-peer file sharing.", 
+        "First_Published": "2016-01-14T16:21:48.083Z", 
+        "Last_Updated": "2018-01-20T07:21:11.677Z", 
+        "State_Implementation": "The state organization:\n\u2022 uses software and associated documentation in accordance with contract agreements and copyright laws;\n\u2022 tracks the use of software and associated documentation protected by quantity licenses to control copying and distribution; and\n\u2022 controls and documents the use of peer-to-peer file sharing technology to ensure that this capability is not used for the unauthorized distribution, display, performance, or reproduction of copyrighted work.", 
+        "State_Implementation_Date": "2017-02-01T00:00:00Z", 
+        "State_Implementation_Required": {
+            "Item": "Yes"
+        }, 
+        "Agency_Implementation": "<p>The Agency utilizes configuration management tools to monitor the installation of software across all Agency-owned information resources.  Where possible, configuration management tools validate the count of installations against the count of licenses on record for a given software application. </p>", 
+        "Organization_Implementation_Date": "2018-01-20T00:00:00Z", 
+        "Testing_Procedures": "Obtain procedures relating to use of software and peer-to-peer file sharing technology and ascertain if:\n(i) the software is used in accordance with contract agreements and copyright laws;\n(ii) the use of software is tracked and protected by quantity licenses to control copying and distribution; and\n(iii) the use of peer to peer software is controlled and protected against unauthorized distribution, display, performance, or reproduction of copyrighted work."
+    }
+}

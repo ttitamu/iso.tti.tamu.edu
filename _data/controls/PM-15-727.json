@@ -1,0 +1,35 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "PM-15-727", 
+        "Category": {
+            "Item": "Program Management"
+        }, 
+        "Procedure_Name": "Contacts with Security Groups and Associations", 
+        "Functional_Areas": {
+            "Item": "Protect"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": "System Communications Protection"
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": "NOT SELECTED"
+        }, 
+        "NIST_Priority": {
+            "Item": "P3"
+        }, 
+        "Risk_Statement": "Inadequate contacts and communication protocols with relevant authorities and special interest groups may result in the lack of knowledge of latest security threats and industry trends, information security incidents going unreported or unsupported by leg", 
+        "Description": "The organization establishes and institutionalizes contact with selected groups and associations within the security community:\na. To facilitate ongoing security education and training for organizational personnel;\nb. To maintain currency with recommended security practices, techniques, and technologies; and\nc. To share current security-related information including threats, vulnerabilities, and incidents.", 
+        "Example": "Employee personnel are members of external information security organizations.", 
+        "First_Published": "2016-01-14T16:19:33.503Z", 
+        "Last_Updated": "2018-02-15T15:16:34.86Z", 
+        "State_Implementation": "State implementation of this standard is incorporated into TAC 202.", 
+        "State_Implementation_Date": null, 
+        "State_Implementation_Required": {
+            "Item": "No"
+        }, 
+        "Agency_Implementation": "<p>The Agency shall maintain an active participating relationship with: (a) the Texas A&M University System's Information Security Officers Working Group; (b) the Texas A&M University System Security Operations Center User Group; (c) the State of Texas Information Security Working Group, and (d) the Center for Internet Security's Multi-State Information Sharing & Analysis Center.  Information security employees are encouraged to maintain relationships with additional professional groups and associations, such as InfraGard, (ISC)2, CompTIA, etc. to maintain currency with recommended security practices, techniques, and technologies.</p>", 
+        "Organization_Implementation_Date": "2018-02-15T00:00:00Z", 
+        "Testing_Procedures": "Obtain documentation addressing the organization's contact with security groups and associations and ascertain if\n(i) contact with these groups is established and institutionalized\n(ii) security education and training for personnel is facilitated through this network\n(iii) security practices, techniques, and technologies is maintained up to date\n(iv) current security related information is shared"
+    }
+}

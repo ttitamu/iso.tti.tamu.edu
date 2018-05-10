@@ -1,0 +1,39 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "IR-08-727", 
+        "Category": {
+            "Item": "Incident Response"
+        }, 
+        "Procedure_Name": "Incident Response Plan", 
+        "Functional_Areas": {
+            "Item": "Respond"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": "Cyber-Security Incident Response"
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "LOW", 
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P1"
+        }, 
+        "Risk_Statement": "The organization is unable to manage the initial phase of an incident since the plan is not well designed and documented.", 
+        "Description": "The organization:\na. Develops an incident response plan that:\n1. Provides the organization with a roadmap for implementing its incident response capability;\n2. Describes the structure and organization of the incident response capability;\n3. Provides a high-level approach for how the incident response capability fits into the overall organization;\n4. Meets the unique requirements of the organization, which relate to mission, size, structure, and functions;\n5. Defines reportable incidents;\n6. Provides metrics for measuring the incident response capability within the organization;\n7. Defines the resources and management support needed to effectively maintain and mature an incident response capability; and\n8. Is reviewed and approved by [Assignment: organization-defined personnel or roles];\nb. Distributes copies of the incident response plan to [Assignment: organization-defined incident response personnel (identified by name and/or by role) and organizational elements];\nc. Reviews the incident response plan [Assignment: organization-defined frequency];\nd. Updates the incident response plan to address system/organizational changes or problems encountered during plan implementation, execution, or testing;\ne. Communicates incident response plan changes to [Assignment: organization-defined incident response personnel (identified by name and/or by role) and organizational elements]; and\nf. Protects the incident response plan from unauthorized disclosure and modification.", 
+        "Example": "The organization has a written, document incident response plan in place.", 
+        "First_Published": "2016-01-14T16:20:12.52Z", 
+        "Last_Updated": "2018-02-13T17:17:04.463Z", 
+        "State_Implementation": "The state organization has an incident management policy that describes the requirements for dealing with computer security incidents including prevention, detection, response, remediation, and reporting.", 
+        "State_Implementation_Date": "2016-02-01T00:00:00Z", 
+        "State_Implementation_Required": {
+            "Item": "Yes"
+        }, 
+        "Agency_Implementation": "<p>The information security officer shall implement an information security incident response plan which outlines the Agency's process to address the prevention, detection, response, remediation, and reporting of information security incidents. </p>", 
+        "Organization_Implementation_Date": "2018-02-13T00:00:00Z", 
+        "Testing_Procedures": "Obtain Incident response policy; procedures addressing incident response assistance; incident response plan; other relevant documents or records and ascertain if:\n(I)the organization develops an incident response plan that: \n-provides the organization with a roadmap for implementing its incident response capability; \n-describes the structure and organization of the incident response capability; \n-provides a high-level approach for how the incident response capability fits into the overall organization; \n-meets the unique requirements of the organization, which relate to mission, size, structure, and functions; \n-defines reportable incidents; \n-provides metrics for measuring the incident response capability within the organization; \n-defines the resources and management support needed to effectively maintain and -mature an incident response capability; and \n-is reviewed and approved by designated officials within the organization"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "SC-19-727", 
+        "Category": {
+            "Item": "System and Communications Protection"
+        }, 
+        "Procedure_Name": "Voice over Internet Protocol", 
+        "Functional_Areas": {
+            "Item": "Protect"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": "System Communications Protection"
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P1"
+        }, 
+        "Risk_Statement": "Users have access to networks that they are not authorized to use.", 
+        "Description": "The organization:\na. Establishes usage restrictions and implementation guidance for Voice over Internet Protocol (VoIP) technologies based on the potential to cause damage to the information system if used maliciously; and\nb. Authorizes, monitors, and controls the use of VoIP within the information system.", 
+        "Example": "Where in use, access to Voice over Internet Protocol (VoIP) technologies is limited to appropriate personnel.", 
+        "First_Published": "2016-01-14T16:22:15.287Z", 
+        "Last_Updated": "2017-03-21T20:11:36.873Z", 
+        "State_Implementation": "No statewide control", 
+        "State_Implementation_Date": null, 
+        "State_Implementation_Required": {
+            "Item": "No"
+        }, 
+        "Agency_Implementation": null, 
+        "Organization_Implementation_Date": null, 
+        "Testing_Procedures": "Obtain system and communications protection policy; procedures addressing VoIP; NIST Special Publication 800-58; VoIP usage restrictions; other relevant documents or records and ascertain if:\n(I)the organization establishes usage restrictions and implementation guidance for Voice over Internet Protocol technologies based on the potential to cause damage to the information system if used maliciously.\n(ii)the organization authorizes, monitors, and controls the use of VoIP within the information system."
+    }
+}

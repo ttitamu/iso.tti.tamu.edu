@@ -1,0 +1,31 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "SA-15-727", 
+        "Category": {
+            "Item": "Security Assessment and Authorization"
+        }, 
+        "Procedure_Name": "Development Process, Standards, and Tools", 
+        "Functional_Areas": null, 
+        "Functional_SubArea_1": null, 
+        "NIST_Baseline_Level": {
+            "Item": "HIGH"
+        }, 
+        "NIST_Priority": {
+            "Item": "P2"
+        }, 
+        "Risk_Statement": "NA", 
+        "Description": "The organization:\na. Requires the developer of the information system, system component, or information system service to follow a documented development process that:\n1.  Explicitly addresses security requirements;\n2.  Identifies the standards and tools used in the development process;\n3. Documents the specific tool options and tool configurations used in the development process; and\n4.  Documents, manages, and ensures the integrity of changes to the  process and/or tools used in development; and\nb.  Reviews the development process, standards, tools, and tool options/configurations [Assignment: organization-defined frequency] to determine if the process, standards, tools, and tool options/configurations selected and employed can satisfy [Assignment: organization-defined security requirements].", 
+        "Example": "NA", 
+        "First_Published": "2016-01-14T16:19:54.177Z", 
+        "Last_Updated": "2016-02-11T19:03:15.687Z", 
+        "State_Implementation": "No statewide control", 
+        "State_Implementation_Date": null, 
+        "State_Implementation_Required": {
+            "Item": "No"
+        }, 
+        "Agency_Implementation": null, 
+        "Organization_Implementation_Date": null, 
+        "Testing_Procedures": null
+    }
+}

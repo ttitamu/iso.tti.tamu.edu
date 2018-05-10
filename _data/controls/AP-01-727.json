@@ -1,0 +1,35 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "AP-01-727", 
+        "Category": {
+            "Item": "Authority and Purpose"
+        }, 
+        "Procedure_Name": "Authority to Collect", 
+        "Functional_Areas": {
+            "Item": "Identify"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": "Privacy and Confidentiality"
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": "NOT SELECTED"
+        }, 
+        "NIST_Priority": {
+            "Item": "NA"
+        }, 
+        "Risk_Statement": "Laws and regulations are violated due to inappropriate collection of personal information.", 
+        "Description": "The organization determines and documents the legal authority that permits the collection, use, maintenance, and sharing of personally identifiable information (PII), either generally or in support of a specific program or information system need.", 
+        "Example": "Legal authority is explicitly defined.", 
+        "First_Published": "2016-01-14T16:19:22.707Z", 
+        "Last_Updated": "2018-01-20T06:34:59Z", 
+        "State_Implementation": "No statewide control", 
+        "State_Implementation_Date": null, 
+        "State_Implementation_Required": {
+            "Item": "No"
+        }, 
+        "Agency_Implementation": "<p>The Agency's general authority to collect personal information is published at https://tti.tamu.edu/notices-policies/privacy-and-security-policy.  Specific programs or information resources with authority to collect that extends beyond the Agency's general authority shall be published on that specific information resource. </p>", 
+        "Organization_Implementation_Date": "2018-01-20T00:00:00Z", 
+        "Testing_Procedures": "Obtain data privacy policy and procedures; other relevant documents or records and ascertain if: \n(I) the organization determines whether the contemplated collection of PII is legally authorized before collecting PII in connection with an information system or program.\n(ii) the organization consults with Senior Agency Official for Privacy (SAOP) / Chief Privacy Officer (CPO) and legal counsel regarding the authority of any program or activity to collect PII.\n(iv) the organization documents the authority to collect PII in the System of Records Notice (SORN) and/or Privacy Impact Assessment (PIA)."
+    }
+}
