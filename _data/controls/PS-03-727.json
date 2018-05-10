@@ -32,7 +32,7 @@
         "State_Implementation_Required": {
             "Item": "Yes"
         }, 
-        "Agency_Implementation": "<p>The Agency's Human Resources department performs background checks for new employees.  The information security officer performs additional personnel screening for users with access to mission-critical information resources based on a risk determination of the proposed access.</p>", 
+        "Agency_Implementation": "<p>The Agency's Human Resources department performs background checks for new employees.  The chief information security officer performs additional personnel screening for users with access to mission-critical information resources based on a risk determination of the proposed access.</p>", 
         "Organization_Implementation_Date": "2018-02-15T00:00:00Z", 
         "Testing_Procedures": "Obtain personnel security policy; procedures addressing personnel screening; records of screened personnel; FIPS 201; NIST Special Publications 800-73, 800-76, and 800-78; other relevant documents or records and ascertain if :\n(I)the organization screens individuals requiring access to organizational information and information systems prior to authorizing access.\n(ii)the personnel screening is consistent with 5 CFR 731.106, OPM policy, regulations, and guidance, FIPS 201 and NIST Special Publications 800-73, 800-76, and 800-78, and the criteria established for the risk designation for the assigned position."
     }

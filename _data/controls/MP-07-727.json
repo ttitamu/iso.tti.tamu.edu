@@ -32,7 +32,7 @@
         "State_Implementation_Required": {
             "Item": "Yes"
         }, 
-        "Agency_Implementation": "<p>Mobile devices with information storage capability may only be used to store Agency information if the mobile device employs a password/PIN functionality that prevents unauthorized access to the device.  Confidential information may not be stored on mobile devices without the authorization of the information security officer.</p>", 
+        "Agency_Implementation": "<p>Mobile devices with information storage capability may only be used to store Agency information if the mobile device employs a password/PIN functionality that prevents unauthorized access to the device.  Confidential information may not be stored on mobile devices without the authorization of the chief information security officer.</p>", 
         "Organization_Implementation_Date": "2018-02-13T00:00:00Z", 
         "Testing_Procedures": "Obtain procedures relating to media use and ascertain if:\n(i) security safeguards ensure that prohibited or restricted media are not used on information systems; and\n(ii) portable storage devices with no identifiable owner are not used on information systems."
     }

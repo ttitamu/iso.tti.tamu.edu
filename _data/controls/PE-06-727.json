@@ -32,7 +32,7 @@
         "State_Implementation_Required": {
             "Item": "Yes"
         }, 
-        "Agency_Implementation": "<p>Information resource owners with responsibility over infrastructure equipment shall: a. Monitor physical access to the facility where the information resource resides to detect and respond to physical security incidents; b. Review physical access logs at least monthly and upon occurrence of an actual or potential indication of a security incident; and c. Coordinate results of reviews and investigations with the information security officer.</p>", 
+        "Agency_Implementation": "<p>Information resource owners with responsibility over infrastructure equipment shall: a. Monitor physical access to the facility where the information resource resides to detect and respond to physical security incidents; b. Review physical access logs at least monthly and upon occurrence of an actual or potential indication of a security incident; and c. Coordinate results of reviews and investigations with the chief information security officer.</p>", 
         "Organization_Implementation_Date": "2016-01-29T00:00:00Z", 
         "Testing_Procedures": "Obtain physical and environmental protection policy; procedures addressing physical access monitoring; physical access logs or records; intrusion alarm/surveillance equipment logs or records and ascertain if :\n(I)the organization monitors physical access to the information system to detect and respond to physical security incidents.\n(ii)the organization monitors real-time intrusion alarms and surveillance equipment."
     }

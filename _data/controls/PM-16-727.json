@@ -28,7 +28,7 @@
         "State_Implementation_Required": {
             "Item": "Yes"
         }, 
-        "Agency_Implementation": "<p>The information security officer is the focal point for distributing threat awareness information to the Agency.  Any threat awareness information that may impact the Agency should be disseminated as operational security permits.  The information security officer will determine the appropriate dissemination method, content, and timing of such information.</p>", 
+        "Agency_Implementation": "<p>The chief information security officer is the focal point for distributing threat awareness information to the Agency.  Any threat awareness information that may impact the Agency should be disseminated as operational security permits.  The chief information security officer will determine the appropriate dissemination method, content, and timing of such information.</p>", 
         "Organization_Implementation_Date": "2018-02-15T00:00:00Z", 
         "Testing_Procedures": "Obtain documentation of the threat awareness program and ascertain if the organization has established practices to communicate threat events (i.e., tactics, techniques, and procedures) that organizations have experienced, mitigations that organizations have found are effective against certain types of threats, threat intelligence (i.e., indications and warnings about threats that are likely to occur)"
     }

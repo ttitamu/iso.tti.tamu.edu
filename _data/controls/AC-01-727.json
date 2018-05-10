@@ -32,7 +32,7 @@
         "State_Implementation_Required": {
             "Item": "Yes"
         }, 
-        "Agency_Implementation": "<p>Information resource owners are responsible for ensuring that implemented access controls are consistent with the security controls outlined in this catalog.  The information security officer shall periodically audit implemented access controls of mission critical Agency information resources to validate an appropriate level of security consistent with the information resource\u2019s risk level.</p>", 
+        "Agency_Implementation": "<p>Information resource owners are responsible for ensuring that implemented access controls are consistent with the security controls outlined in this catalog.  The chief information security officer shall periodically audit implemented access controls of mission critical Agency information resources to validate an appropriate level of security consistent with the information resource\u2019s risk level.</p>", 
         "Organization_Implementation_Date": "2016-05-20T00:00:00Z", 
         "Testing_Procedures": "Obtain access control policy and procedures; other relevant documents or records and ascertain if \n(I) the organization develops and documents access control policy and procedures;\n(ii) the organization disseminates access control policy and procedures to appropriate elements within the organization;\n(iii) responsible parties within the organization periodically review access control policy and procedures; and\n(iv) the organization updates access control policy and procedures when organizational review indicates updates are required."
     }

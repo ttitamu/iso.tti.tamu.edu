@@ -28,7 +28,7 @@
         "State_Implementation_Required": {
             "Item": "Yes"
         }, 
-        "Agency_Implementation": "<p>The information security officer monitors and reports on information security key performance indicators to the chief information officer monthly and the agency director annually.</p>", 
+        "Agency_Implementation": "<p>The chief information security officer monitors and reports on information security key performance indicators to the chief information officer monthly and the agency director annually.</p>", 
         "Organization_Implementation_Date": "2018-02-15T00:00:00Z", 
         "Testing_Procedures": "Obtain Information security program policy; procedures addressing development, monitoring, and reporting of information security performance measures; information security performance metrics; information security performance measures; results of information security performance measures; other relevant documents or records and ascertain if:\n(I) the organization develops information security measures of performance; \n(ii) the organization monitors information security measures of performance; and \n(iii) the organization reports on the results of information security measures of performance."
     }

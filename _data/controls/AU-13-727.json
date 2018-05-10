@@ -24,7 +24,7 @@
         "State_Implementation_Required": {
             "Item": "No"
         }, 
-        "Agency_Implementation": "<p>The information security officer shall participate in information sharing and analysis center organizations and subscribe to services that provide monitoring for unauthorized disclosure of organizational information.</p>", 
+        "Agency_Implementation": "<p>The chief information security officer shall participate in information sharing and analysis center organizations and subscribe to services that provide monitoring for unauthorized disclosure of organizational information.</p>", 
         "Organization_Implementation_Date": "2018-01-20T00:00:00Z", 
         "Testing_Procedures": null
     }
