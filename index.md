@@ -5,7 +5,7 @@ title: Home
 
 # About the Information Security Office
 
-The information security office supports the Network & Information Systems Division, and the agency as a whole, by collaborating with agency leadership, and agency and university system audit, compliance, and legal units, to provide advice and policy and technical guidance for securely operating and maintaining the agency’s information resources.
+The information security office supports the Division of Network & Information Systems, and the agency as a whole, by collaborating with agency leadership, and agency and university system audit, compliance, and legal units, to provide advice and policy and technical guidance for securely operating and maintaining the agency's information resources.
 
 ## Policy and Standards
 
@@ -29,5 +29,5 @@ The ISO manages incident response, investigation, and reporting. This includes p
 
 ## Mission
 
-The mission of the Information Security Office (ISO), as required by state law, is to assure the security of the agency’s information resources and the existence of a safe computing environment in which the agency community may conduct research and teach in support of the Texas A&M University land-grant mission.
+The mission of the Information Security Office (ISO), as required by state law, is to assure the security of the agency's information resources and the existence of a safe computing environment in which the agency community may conduct research and teach in support of the Texas A&M University land-grant mission.
 
