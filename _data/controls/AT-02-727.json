@@ -26,7 +26,7 @@
         "Description": "The organization provides basic security awareness training to information system users (including managers, senior executives, and contractors):\na. As part of initial training for new users;\nb. When required by information system changes; and\nc. [Assignment: organization-defined frequency] thereafter.", 
         "Example": "a.  The organization has established a security training program to improve the awareness of the impact that a security breach can have on the organization as well as the individual users, employees, contractors and third parties.\nb.  The organization uses security awareness techniques such as displaying posters, offering supplies inscribed with security reminders, generating email advisories/notices from senior organizational officials, displaying logon screen messages, and conducting information security awareness events.", 
         "First_Published": "2016-01-14T16:21:36.363Z", 
-        "Last_Updated": "2017-01-19T13:56:40.77Z", 
+        "Last_Updated": "2018-05-11T20:05:24.893Z", 
         "State_Implementation": "State organizations shall: \n-  Provide an ongoing information security awareness education program for all users; and  \n-  Use new employee orientation to introduce information security awareness and inform new employees of information security policies and procedures.", 
         "State_Implementation_Date": "2015-02-01T00:00:00Z", 
         "State_Implementation_Required": {

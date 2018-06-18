@@ -32,7 +32,7 @@
         "State_Implementation_Required": {
             "Item": "Yes"
         }, 
-        "Agency_Implementation": "<p>The chief information security officer shall implement an information security incident response plan which outlines the Agency's process to address the prevention, detection, response, remediation, and reporting of information security incidents. </p>", 
+        "Agency_Implementation": "<p>The information security officer shall implement an information security incident response plan which outlines the Agency's process to address the prevention, detection, response, remediation, and reporting of information security incidents. </p>", 
         "Organization_Implementation_Date": "2018-02-13T00:00:00Z", 
         "Testing_Procedures": "Obtain Incident response policy; procedures addressing incident response assistance; incident response plan; other relevant documents or records and ascertain if:\n(I)the organization develops an incident response plan that: \n-provides the organization with a roadmap for implementing its incident response capability; \n-describes the structure and organization of the incident response capability; \n-provides a high-level approach for how the incident response capability fits into the overall organization; \n-meets the unique requirements of the organization, which relate to mission, size, structure, and functions; \n-defines reportable incidents; \n-provides metrics for measuring the incident response capability within the organization; \n-defines the resources and management support needed to effectively maintain and -mature an incident response capability; and \n-is reviewed and approved by designated officials within the organization"
     }

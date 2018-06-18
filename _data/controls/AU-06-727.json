@@ -29,7 +29,7 @@
         "Description": "The organization:\na. Reviews and analyzes information system audit records [Assignment: organization-defined frequency] for indications of [Assignment: organization-defined inappropriate or unusual activity]; and\nb. Reports findings to [Assignment: organization-defined personnel or roles].", 
         "Example": "A reporting structure is defined and records are periodically promoted to specific management personnel for review, as applicable.", 
         "First_Published": "2016-01-14T16:19:19.41Z", 
-        "Last_Updated": "2018-02-23T21:29:27.31Z", 
+        "Last_Updated": "2018-06-18T22:07:06.627Z", 
         "State_Implementation": "The state organization regularly reviews/analyzes information system audit records for indications of inappropriate or unusual activity, investigates suspicious activity or suspected violations, reports findings to appropriate officials, and takes necessary actions.", 
         "State_Implementation_Date": "2016-02-01T00:00:00Z", 
         "State_Implementation_Required": {

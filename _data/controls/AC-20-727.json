@@ -29,7 +29,7 @@
         "Description": "The organization establishes terms and conditions, consistent with any trust relationships established with other organizations owning, operating, and/or maintaining external information systems, allowing authorized individuals to:\na. Access the information system from external information systems; and\nb. Process, store, or transmit organization-controlled information using external information systems.", 
         "Example": "External information systems are not permitted to the internal network without appropriate monitoring and/or approval.", 
         "First_Published": "2016-01-14T16:22:12.677Z", 
-        "Last_Updated": "2018-01-20T06:19:25.96Z", 
+        "Last_Updated": "2018-05-11T20:04:37.387Z", 
         "State_Implementation": "1. State organizations shall develop policies governing the use of external information systems and resources including the type and classification of data that can be stored outside of the state organization. \n2. State organizations shall establish terms and conditions for contracting with external information resources providers.", 
         "State_Implementation_Date": "2016-02-01T00:00:00Z", 
         "State_Implementation_Required": {

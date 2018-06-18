@@ -24,7 +24,7 @@
         "State_Implementation_Required": {
             "Item": "No"
         }, 
-        "Agency_Implementation": "<p>The chief information security officer shall ensure penetration testing of mission-critical, sensitive, and public-facing Agency information resources are performed on a recurring basis.</p>", 
+        "Agency_Implementation": "<p>The information security officer shall ensure penetration testing of mission-critical, sensitive, and public-facing Agency information resources are performed on a recurring basis.</p>", 
         "Organization_Implementation_Date": "2018-01-20T00:00:00Z", 
         "Testing_Procedures": null
     }

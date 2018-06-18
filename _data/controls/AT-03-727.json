@@ -26,7 +26,7 @@
         "Description": "The organization provides role-based security training to personnel with assigned security roles and responsibilities:\na. Before authorizing access to the information system or performing assigned duties;\nb. When required by information system changes; and\nc. [Assignment: organization-defined frequency] thereafter.", 
         "Example": "Employees are trained in information security based on their role and job responsibilities.", 
         "First_Published": "2016-01-14T16:21:28.053Z", 
-        "Last_Updated": "2017-01-19T13:56:40.77Z", 
+        "Last_Updated": "2018-05-11T20:05:45.677Z", 
         "State_Implementation": "State organizations shall provide role-based information security training to staff with information security responsibilities.", 
         "State_Implementation_Date": "2016-02-01T00:00:00Z", 
         "State_Implementation_Required": {
