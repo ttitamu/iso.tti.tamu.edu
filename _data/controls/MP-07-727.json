@@ -26,13 +26,13 @@
         "Description": "The organization [Selection: restricts; prohibits] the use of [Assignment: organization-defined types of information system media] on [Assignment: organization-defined information systems or system components] using [Assignment: organization-defined security safeguards].", 
         "Example": "Policy or procedures prohibit use of certain types of media.", 
         "First_Published": "2016-01-14T16:20:44.693Z", 
-        "Last_Updated": "2018-02-13T17:53:21.083Z", 
+        "Last_Updated": "2018-06-19T00:28:01.903Z", 
         "State_Implementation": "The state organization restricts the use of mobile devices with information storage capability, based on documented risk management decisions.", 
         "State_Implementation_Date": "2016-02-01T00:00:00Z", 
         "State_Implementation_Required": {
             "Item": "Yes"
         }, 
-        "Agency_Implementation": "<p>Mobile devices with information storage capability may only be used to store Agency information if the mobile device employs a password/PIN functionality that prevents unauthorized access to the device.  Confidential information may not be stored on mobile devices without the authorization of the information security officer.</p>", 
+        "Agency_Implementation": "<p>Mobile devices with information storage capability may only be used to store Agency information if the mobile device employs a password/PIN functionality that prevents unauthorized access to the device.  Confidential information may not be stored on mobile devices without the authorization of the chief information security officer.</p>", 
         "Organization_Implementation_Date": "2018-02-13T00:00:00Z", 
         "Testing_Procedures": "Obtain procedures relating to media use and ascertain if:\n(i) security safeguards ensure that prohibited or restricted media are not used on information systems; and\n(ii) portable storage devices with no identifiable owner are not used on information systems."
     }
