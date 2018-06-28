@@ -3,9 +3,13 @@ layout: page
 title: Policies and Standards
 ---
 
+## Information Resources Rule
+
+The Texas A&M Transportation Institute [Information Resources Rule](https://tti.tamu.edu/rules/29-01-99-I1/) (Rule 29.01.99.I1, Information Resources, or "Member Rule") implements the Texas A&M University System Policy 29.01 and establishes the authority and responsibilities of the chief information officer (CIO) and chief information security officer (CISO), and authorizes procedures and standards governing the use and security of information resources within the agency.
+
 ## Security Control Standards Catalog
 
-The Texas A&M Transportation Institute Security Control Standards Catalog (“Controls Catalog”) establishes the minimum standards and controls for agency information security in accordance with the state’s Information Security Standards for Institutions of Higher Education found in Title 1, Chapter 202, Texas Administrative Code (TAC 202).
+The Texas A&M Transportation Institute [Security Control Standards Catalog](/catalog.html) (“Controls Catalog”) establishes the minimum standards and controls for agency information security in accordance with the state’s Information Security Standards for Institutions of Higher Education found in Title 1, Chapter 202, Texas Administrative Code (TAC 202).
 
 The purpose of the Controls Catalog is to provide Texas A&M Transportation Institute information owners and users with specific guidance for implementing security controls conforming to security control standards currently required in the Texas Department of Information Resources (DIR) Security Control Standards Catalog.
 
