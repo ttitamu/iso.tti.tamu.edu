@@ -1,6 +1,8 @@
 - title: Services
   url: /
   links:
+  - title: Identity Management Services
+    url: /identity.html
   - title: Policy and Standards
     url: /policies.html
 - title: Security Controls Catalog
