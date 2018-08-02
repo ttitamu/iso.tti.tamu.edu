@@ -30,7 +30,7 @@ for event, elem in context:
 		with open(filename, 'wb') as f:
 			f.write(jsonString)
 
-		filename = format("controls/" + procedure_ID.text + ".html")
+		filename = format("controls/" + procedure_ID.text) 
 		htmlString = "---\nlayout: control\ntitle: " + procedure_ID.text + " " + procedure_Name.text + "\n---"
 		with open(filename, 'wb') as f:
 			f.write(htmlString)
