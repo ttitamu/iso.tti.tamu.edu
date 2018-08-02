@@ -1,17 +1,17 @@
 audiences:
-- url: /catalog-cui.html
+- url: /catalog/cui
   title: CUI Programs 
-#- url: /catalog-itpro.html
+#- url: /catalog/itpro
 #  title: IT Professionals
-#- url: /catalog-researcher.html
+#- url: /catalog/researcher
 #  title: Researchers
-#- url: /catalog-custodian.html
+#- url: /catalog/custodian
 #  title: Resource Custodians
-#- url: /catalog-owner.html
+#- url: /catalog/owner
 #  title: Resource Owners
-#- url: /catalog-user.html
+#- url: /catalog/user
 #  title: Users
-- url: /catalog-required.html
+- url: /catalog/required
   title: Required Controls
 families:
 - url: "#AC"
