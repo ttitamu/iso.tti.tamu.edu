@@ -15,7 +15,7 @@ application separate from the authentication process.
 
 ![InCommon Participant](/images/inc_participant.png "InCommon Participant"){:style="float: left; margin: 0 10px 0 0;"}Texas A&M Transportation Institute's membership in InCommon provides TTI account holders with the ability to use 
 their TTI account credential to authenticate to participating higher education and federal government online services. 
-TTI adheres to the [InCommon Federation participant operational practices](/incommon-pop.html) to provide assurance for 
+TTI adheres to the [InCommon Federation participant operational practices](/incommon-pop) to provide assurance for 
 our users and partners that our identity attribute assertions are sufficiently robust and trustworthy to manage access 
 to important protected resources.
 

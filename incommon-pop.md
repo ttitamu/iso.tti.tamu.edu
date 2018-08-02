@@ -25,7 +25,7 @@ The information below is accurate as of this date: July 30, 2018
 
 Additional information about the Participant’s identity management practices and/or privacy policy regarding personal information can be found on-line at the following location(s).
 
-URL(s): https://iso.tti.tamu.edu/identity.html
+URL(s): https://iso.tti.tamu.edu/identity
 
 #### 1.3	Contact information
 
