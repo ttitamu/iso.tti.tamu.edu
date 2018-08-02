@@ -2,10 +2,10 @@
   url: /
   links:
   - title: Identity Management Services
-    url: /identity.html
+    url: /identity
   - title: Policy and Standards
-    url: /policies.html
+    url: /policies
 - title: Security Controls Catalog
-  url: /catalog.html
+  url: /catalog
 - title: Contact
-  url: /contact.html
+  url: /contact
