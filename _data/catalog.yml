@@ -5,14 +5,12 @@ audiences:
 #  title: IT Professionals
 #- url: /catalog/researcher
 #  title: Researchers
-#- url: /catalog/custodian
-#  title: Resource Custodians
-#- url: /catalog/owner
-#  title: Resource Owners
 #- url: /catalog/user
 #  title: Users
 - url: /catalog/required
   title: Required Controls
+- url: /catalog/unmanaged-resources
+title: Unmanaged Resource Owners
 families:
 - url: "#AC"
   title: Access Control
