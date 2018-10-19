@@ -10,7 +10,7 @@ audiences:
 - url: /catalog/required
   title: Required Controls
 - url: /catalog/unmanaged-resources
-title: Unmanaged Resource Owners
+  title: Unmanaged Resource Owners
 families:
 - url: "#AC"
   title: Access Control
