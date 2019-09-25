@@ -25,4 +25,4 @@ The ISO ensures compliance through the risk assessment review process.  Findings
 
 The information resource owner or designee (e.g., custodian, user) is responsible for ensuring that the protection measures in the Security Controls Catalog are implemented. Based on risk management considerations and business functions, the resource owner may request to exempt or exclude certain protection measures provided in a Control.
 
-To request an exemption or exclusion, please complete the Security Control Exception Request form.
+To request an exemption or exclusion, please complete the [Security Control Exception Request form](https://tamu.service-now.com/tti?id=sc_cat_item&sys_id=5785905edb5b0f804fbbf1041d96195a&sysparm_category=f0e25839db974b804fbbf1041d9619ec).
