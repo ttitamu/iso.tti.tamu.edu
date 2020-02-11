@@ -31,9 +31,9 @@ URL(s): https://iso.tti.tamu.edu/identity
 
 The following person or office can answer questions about the Participant’s identity management system or resource access management policy or practice.
 
-Name: Nicholas McLarty
+Name: David Sweeney
 
-Title or role: Chief Information Security Officer
+Title or role: Interim Chief Information Security Officer, Chief Information Offier
 
 Email address: ciso@tti.tamu.edu
 
