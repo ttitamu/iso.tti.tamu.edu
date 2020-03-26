@@ -1,0 +1,35 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "CM-07-727", 
+        "Category": {
+            "Item": "Configuration Management"
+        }, 
+        "Procedure_Name": "Least Functionality", 
+        "Functional_Areas": null, 
+        "Functional_SubArea_1": null, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "LOW", 
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P1"
+        }, 
+        "Risk_Statement": "Configuration standards do not exist for systems being implemented.", 
+        "Description": "The organization:\na. Configures the information system to provide only essential capabilities; and\nb. Prohibits or restricts the use of the following functions, ports, protocols, and/or services: [Assignment: organization-defined prohibited or restricted functions, ports, protocols, and/or services].", 
+        "Example": "The organization applies the concept of least privilege when providing access to application systems.", 
+        "First_Published": "2016-01-14T16:20:35.287Z", 
+        "Last_Updated": "2016-08-24T19:24:50.54Z", 
+        "State_Implementation": "The state organization configures information system to provide only essential capabilities.", 
+        "State_Implementation_Date": "2016-02-01T00:00:00Z", 
+        "State_Implementation_Required": {
+            "Item": "Yes"
+        }, 
+        "Agency_Implementation": "<p>Information resource owners shall ensure Agency-owned information resources under their control are configured to provide only the essential capabilities required for the resource, and that all exposed ports, protocols and services are flow-controlled for both inbound and outbound traffic to minimize exposure to the least number of sources/destinations necessary for the service to function.</p>", 
+        "Organization_Implementation_Date": "2016-08-24T00:00:00Z", 
+        "Testing_Procedures": "Obtain configuration management policy; procedures addressing least functionality in the information system; security plan; information system configuration settings and associated documentation and ascertain if:\n(I)the organization defines in the security plan, explicitly or by reference, prohibited or restricted functions, ports, protocols, and services for the information system.\n(ii)the organization configures the information system to provide only essential capabilities.\n(iii)the organization configures the information system to specifically prohibit and/or restrict the use of organization-defined functions, ports, protocols, and/or services.\n(iv)the organization defines in the security plan, explicitly or by reference, the frequency of the information system reviews to identify and eliminate unnecessary functions, ports, protocols, and services; and\n(v)the organization reviews the information system to identify and eliminate unnecessary functions, ports, protocols, and/or services in accordance with organization-defined frequency."
+    }
+}

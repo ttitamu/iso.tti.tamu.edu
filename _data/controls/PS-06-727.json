@@ -1,0 +1,39 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "PS-06-727", 
+        "Category": {
+            "Item": "Personnel Security"
+        }, 
+        "Procedure_Name": "Access Agreements", 
+        "Functional_Areas": {
+            "Item": "Protect"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": "Personnel Security"
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "LOW", 
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P3"
+        }, 
+        "Risk_Statement": "Employees or contractors do not agree or sign terms or conditions of employment.", 
+        "Description": "The organization:\na. Develops and documents access agreements for organizational information systems;\nb. Reviews and updates the access agreements [Assignment: organization-defined frequency]; and\nc. Ensures that individuals requiring access to organizational information and information systems:\n1. Sign appropriate access agreements prior to being granted access; and\n2. Re-sign access agreements to maintain access to organizational information systems when access agreements have been updated or [Assignment: organization-defined frequency].", 
+        "Example": "Employees sign access agreements.", 
+        "First_Published": "2016-01-14T16:19:00.99Z", 
+        "Last_Updated": "2018-02-15T16:01:12.463Z", 
+        "State_Implementation": "The state organization completes appropriate signed access agreements for individuals requiring access to organizational information and information systems before authorizing access.", 
+        "State_Implementation_Date": "2017-02-01T00:00:00Z", 
+        "State_Implementation_Required": {
+            "Item": "Yes"
+        }, 
+        "Agency_Implementation": "<p>Employees complete the Texas A&M System Member Data Use Agreement and acknowledge the TTI Rules of Behavior for Use of Agency Information Resources document before being authorized access to Agency information resources, and annually thereafter.</p>", 
+        "Organization_Implementation_Date": "2018-02-15T00:00:00Z", 
+        "Testing_Procedures": "Obtain personnel security policy; procedures addressing access agreements for organizational information and information systems; security plan; access agreements; records of access agreement reviews and updates; other relevant documents or records and ascertain if : \n(I)the organization requires appropriate access agreements for individuals requiring access to organizational information and information systems before authorizing access.\n(ii)organizational personnel sign appropriate access agreements prior to receiving access.\n(iii)the organization defines in the security plan, explicitly or by reference, the frequency of reviews/updates for access agreements.\n(iv)the organization reviews/updates the access agreements in accordance with the organization-defined frequency."
+    }
+}

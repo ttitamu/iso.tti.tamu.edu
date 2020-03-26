@@ -1,0 +1,34 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "CP-08-727", 
+        "Category": {
+            "Item": "Contingency Planning"
+        }, 
+        "Procedure_Name": "Telecommunications Services", 
+        "Functional_Areas": null, 
+        "Functional_SubArea_1": null, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P1"
+        }, 
+        "Risk_Statement": "The agreed service continuity and availability commitment to customers are not met in all circumstances.", 
+        "Description": "The organization establishes alternate telecommunications services including necessary agreements to permit the resumption of [Assignment: organization-defined information system operations] for essential missions and business functions within [Assignment: organization-defined time period] when the primary telecommunications capabilities are unavailable at either the primary or alternate processing or storage sites.", 
+        "Example": "An offsite, alternative telecommunication site is available. The alternative site should not be subject to the same natural disasters of the primary site (i.e. not in proximity).", 
+        "First_Published": "2016-01-14T16:22:02.753Z", 
+        "Last_Updated": "2016-02-11T19:03:07.58Z", 
+        "State_Implementation": "No statewide control", 
+        "State_Implementation_Date": null, 
+        "State_Implementation_Required": {
+            "Item": "No"
+        }, 
+        "Agency_Implementation": null, 
+        "Organization_Implementation_Date": null, 
+        "Testing_Procedures": "Obtain contingency planning policy; contingency plan; procedures addressing alternate telecommunications services; security plan; primary and alternate telecommunications service agreements; other relevant documents or records and ascertain if :\n(I)the organization identifies primary and alternate telecommunications services to support the information system.\n(ii)the organization defines in the security plan, explicitly or by reference, the time period within which resumption of information system operations must take place.\n(iii)the organization initiates necessary alternate telecommunications service agreements to permit the resumption of telecommunications services for critical mission/business functions within the organization-defined time period when the primary telecommunications capabilities are unavailable.\n(iv)the organization develops primary and alternate telecommunications service agreements that contain priority-of-service provisions in accordance with organizational availability requirements."
+    }
+}

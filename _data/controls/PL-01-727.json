@@ -1,0 +1,39 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "PL-01-727", 
+        "Category": {
+            "Item": "Planning"
+        }, 
+        "Procedure_Name": "Security Planning Policy and Procedures", 
+        "Functional_Areas": {
+            "Item": "Identify"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": "Enterprise Security Policy, Standards and Guidelines"
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "LOW", 
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P1"
+        }, 
+        "Risk_Statement": "Information security is not defined in a framework within the organizational environment.", 
+        "Description": "The organization:\na. Develops, documents, and disseminates to [Assignment: organization-defined personnel or roles]:\n1. A security planning policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and\n2. Procedures to facilitate the implementation of the security planning policy and associated security planning controls; and\nb. Reviews and updates the current:\n1. Security planning policy [Assignment: organization-defined frequency]; and\n2. Security planning procedures [Assignment: organization-defined frequency].", 
+        "Example": "The organization has written, documented security policies and procedure in place.", 
+        "First_Published": "2016-01-14T16:21:41.193Z", 
+        "Last_Updated": "2018-06-19T00:29:44.623Z", 
+        "State_Implementation": "As required by TAC 202.23/73(a), the state organization delivers, at least annually, to the organization head a report on state organization information security program.", 
+        "State_Implementation_Date": "2016-02-01T00:00:00Z", 
+        "State_Implementation_Required": {
+            "Item": "Yes"
+        }, 
+        "Agency_Implementation": "<p>During the first quarter of each fiscal year, the chief information security officer shall deliver to the agency director a report of the Agency information security program, which includes a: (a) summary of the most recent information risk assessment, (b) agency security plan on each even-numbered year, and (c) report of the information security program, including the plan of action and milestones for the upcoming year.</p>", 
+        "Organization_Implementation_Date": "2016-05-20T00:00:00Z", 
+        "Testing_Procedures": "Obtain security planning policy and procedures; other relevant documents or records and ascertain if :\n(I)the organization develops and documents security planning policy and procedures.\n(ii)the organization disseminates security planning policy and procedures to appropriate elements within the organization.\n(iii)responsible parties within the organization periodically review security planning policy and procedures.\n(iv)the organization updates security planning policy and procedures when organizational review indicates updates are required.\n(v)the security planning policy addresses purpose, scope, roles and responsibilities, management commitment, coordination among organizational entities, and compliance.\n(vi)the security planning policy is consistent with the organization\u2019s mission and functions and with applicable laws, directives, policies, regulations, standards, and guidance.\n(vii)the security planning procedures address all areas identified in the security planning policy and address achieving policy-compliant implementations of all associated security planning controls."
+    }
+}

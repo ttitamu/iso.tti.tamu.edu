@@ -1,0 +1,31 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "SC-38-727", 
+        "Category": {
+            "Item": "System and Communications Protection"
+        }, 
+        "Procedure_Name": "Operations Security", 
+        "Functional_Areas": null, 
+        "Functional_SubArea_1": null, 
+        "NIST_Baseline_Level": {
+            "Item": "NOT SELECTED"
+        }, 
+        "NIST_Priority": {
+            "Item": "P0"
+        }, 
+        "Risk_Statement": "NA", 
+        "Description": "The organization employs [Assignment: organization-defined operations security safeguards] to protect key organizational information throughout the system development life cycle.", 
+        "Example": "NA", 
+        "First_Published": "2016-01-14T16:20:55.707Z", 
+        "Last_Updated": "2016-02-11T19:03:18.907Z", 
+        "State_Implementation": "No statewide control", 
+        "State_Implementation_Date": null, 
+        "State_Implementation_Required": {
+            "Item": "No"
+        }, 
+        "Agency_Implementation": null, 
+        "Organization_Implementation_Date": null, 
+        "Testing_Procedures": null
+    }
+}

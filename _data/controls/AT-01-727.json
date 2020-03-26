@@ -1,0 +1,45 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "AT-01-727", 
+        "Category": {
+            "Item": "Awareness and Training"
+        }, 
+        "Procedure_Name": "Security Awareness and Training Policy and Procedures", 
+        "Functional_Areas": {
+            "Item": [
+                "Identify", 
+                "Protect"
+            ]
+        }, 
+        "Functional_SubArea_1": {
+            "Item": [
+                "Enterprise Security Policy, Standards and Guidelines", 
+                "Security Awareness and Training"
+            ]
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "LOW", 
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P1"
+        }, 
+        "Risk_Statement": "Applications and technology solutions are not effectively and efficiently used since a training curriculum for employees has not been established or regularly updated.", 
+        "Description": "The organization:\na. Develops, documents, and disseminates to [Assignment: organization-defined personnel or roles]:\n1. A security awareness and training policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and\n2. Procedures to facilitate the implementation of the security awareness and training policy and associated security awareness and training controls; and\nb. Reviews and updates the current:\n1. Security awareness and training policy [Assignment: organization-defined frequency]; and\n2. Security awareness and training procedures [Assignment: organization-defined frequency].", 
+        "Example": "The organization has written and documented policy and procedure supporting a training and awareness program.", 
+        "First_Published": "2016-01-14T16:21:35.473Z", 
+        "Last_Updated": "2018-05-11T20:04:58.74Z", 
+        "State_Implementation": "State organizations shall establish the requirements to ensure each user of information resources receives adequate training on computer security issues.", 
+        "State_Implementation_Date": "2015-02-01T00:00:00Z", 
+        "State_Implementation_Required": {
+            "Item": "Yes"
+        }, 
+        "Agency_Implementation": "<p>All users of Agency-owned information resources shall undergo Texas A&M University System (\"TAMUS\") approved information security awareness training at a schedule established by TAMUS.</p>\n<p>The chief information security officer shall prescribe any additional required training for users with access to confidential, sensitive, or mission-critical information resources, and users with privileged access to information resources.</p>", 
+        "Organization_Implementation_Date": "2016-05-20T00:00:00Z", 
+        "Testing_Procedures": "Obtain security awareness and training policy and procedures; other relevant documents or records and ascertain if: \nI)the organization develops and documents security awareness and training policy and procedures.\n(ii)the organization disseminates security awareness and training policy and procedures to appropriate elements within the organization.\n(iii)responsible parties within the organization periodically review security awareness and training policy and procedures.\n(iv)the organization updates security awareness and training policy and procedures when organizational review indicates updates are required.\n(v)the security awareness and training policy addresses purpose, scope, roles and responsibilities, management commitment, coordination among organizational entities, and compliance.\n(vi)the security awareness and training policy is consistent with the organization\u2019s mission and functions and with applicable laws, directives, policies, regulations, standards, and guidance.\n(vii)the security awareness and training procedures address all areas identified in the security awareness and training policy and address achieving policy-compliant implementations of all associated security awareness and training controls."
+    }
+}

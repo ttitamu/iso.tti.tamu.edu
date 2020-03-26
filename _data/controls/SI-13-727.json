@@ -1,0 +1,31 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "SI-13-727", 
+        "Category": {
+            "Item": "System and Information Integrity"
+        }, 
+        "Procedure_Name": "Predictable Failure Prevention", 
+        "Functional_Areas": null, 
+        "Functional_SubArea_1": null, 
+        "NIST_Baseline_Level": {
+            "Item": "NOT SELECTED"
+        }, 
+        "NIST_Priority": {
+            "Item": "P0"
+        }, 
+        "Risk_Statement": "NA", 
+        "Description": "The organization:\na.  Determines mean time to failure (MTTF) for [Assignment: organization-defined information system components] in specific environments of operation; and\nb.  Provides substitute information system components and a means to exchange active and standby components at [Assignment: organization-defined MTTF substitution criteria].", 
+        "Example": "NA", 
+        "First_Published": "2016-01-14T16:21:09.753Z", 
+        "Last_Updated": "2016-02-11T19:03:20.33Z", 
+        "State_Implementation": "No statewide control", 
+        "State_Implementation_Date": null, 
+        "State_Implementation_Required": {
+            "Item": "No"
+        }, 
+        "Agency_Implementation": null, 
+        "Organization_Implementation_Date": null, 
+        "Testing_Procedures": null
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "AT-02-727", 
+        "Category": {
+            "Item": "Awareness and Training"
+        }, 
+        "Procedure_Name": "Security Awareness Training", 
+        "Functional_Areas": {
+            "Item": "Protect"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": "Security Awareness and Training"
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "LOW", 
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P1"
+        }, 
+        "Risk_Statement": "Employees, contractors or third party users breach security because they are not aware or trained on information security requirements.", 
+        "Description": "The organization provides basic security awareness training to information system users (including managers, senior executives, and contractors):\na. As part of initial training for new users;\nb. When required by information system changes; and\nc. [Assignment: organization-defined frequency] thereafter.", 
+        "Example": "a.  The organization has established a security training program to improve the awareness of the impact that a security breach can have on the organization as well as the individual users, employees, contractors and third parties.\nb.  The organization uses security awareness techniques such as displaying posters, offering supplies inscribed with security reminders, generating email advisories/notices from senior organizational officials, displaying logon screen messages, and conducting information security awareness events.", 
+        "First_Published": "2016-01-14T16:21:36.363Z", 
+        "Last_Updated": "2018-05-11T20:05:24.893Z", 
+        "State_Implementation": "State organizations shall: \n-  Provide an ongoing information security awareness education program for all users; and  \n-  Use new employee orientation to introduce information security awareness and inform new employees of information security policies and procedures.", 
+        "State_Implementation_Date": "2015-02-01T00:00:00Z", 
+        "State_Implementation_Required": {
+            "Item": "Yes"
+        }, 
+        "Agency_Implementation": "<p>All users of Agency-owned information resources shall complete the TAMUS Information Security Awareness Course 3001 located in the TAMUS TrainTraq system or TAMU EOD External Gateway immediately upon hire and every year thereafter.  If the training material changes substantially, the chief information security officer may deem all users or a specific segment of users must reaccomplish the training out-of-cycle.</p>\n<p>Between training cycles, the chief information security officer shall employ other communications channels (such as email, Agency intranet, digital signage, and awareness campaigns such as National Cyber Security Awareness Month) to inform users of information security awareness topics.</p>", 
+        "Organization_Implementation_Date": "2016-08-17T00:00:00Z", 
+        "Testing_Procedures": "Obtain Security awareness and training policy; procedures addressing security awareness training implementation; NIST Special Publication 800-50; appropriate codes of federal regulations; security awareness training curriculum; security awareness training materials; security plan; other relevant documents or records and ascertain if \n(I)the organization provides basic security awareness training to all information system users (including managers and senior executives) before authorizing access to the system and when required by system changes;\n(ii)the security awareness training is consistent with applicable regulations and NIST Special Publication 800-50;\n(iii)the security awareness and training materials address the specific requirements of the organization and the information systems to which personnel have authorized access;\n(iv)the organization defines in the security plan, explicitly or by reference, the frequency of refresher security awareness training and the frequency is at least annually.\n(v)the organization provides refresher security awareness training in accordance with organization-defined frequency."
+    }
+}

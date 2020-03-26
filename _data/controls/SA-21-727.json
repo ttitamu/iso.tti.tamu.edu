@@ -1,0 +1,31 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "SA-21-727", 
+        "Category": {
+            "Item": "Security Assessment and Authorization"
+        }, 
+        "Procedure_Name": "Developer Screening", 
+        "Functional_Areas": null, 
+        "Functional_SubArea_1": null, 
+        "NIST_Baseline_Level": {
+            "Item": "NOT SELECTED"
+        }, 
+        "NIST_Priority": {
+            "Item": "P0"
+        }, 
+        "Risk_Statement": "NA", 
+        "Description": "The organization requires that the developer of [Assignment: organization-defined information system, system component, or information system service]:\na.  Have appropriate access authorizations as determined by assigned [Assignment: organization-defined official government duties]; and\nb.  Satisfy [Assignment: organization-defined additional personnel screening criteria].", 
+        "Example": "NA", 
+        "First_Published": "2016-01-14T16:19:50.397Z", 
+        "Last_Updated": "2016-02-11T19:03:16.157Z", 
+        "State_Implementation": "No statewide control", 
+        "State_Implementation_Date": null, 
+        "State_Implementation_Required": {
+            "Item": "No"
+        }, 
+        "Agency_Implementation": null, 
+        "Organization_Implementation_Date": null, 
+        "Testing_Procedures": null
+    }
+}

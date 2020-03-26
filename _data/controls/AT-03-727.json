@@ -1,0 +1,39 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "AT-03-727", 
+        "Category": {
+            "Item": "Awareness and Training"
+        }, 
+        "Procedure_Name": "Role-Based Security Training", 
+        "Functional_Areas": {
+            "Item": "Protect"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": "Security Awareness and Training"
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "LOW", 
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P1"
+        }, 
+        "Risk_Statement": "Failure to conduct suitable and relevant security training, and to publish notifications to enhance awareness of organizational policies and procedures may expose the operational environment to potential security breach by employees, contractors and third", 
+        "Description": "The organization provides role-based security training to personnel with assigned security roles and responsibilities:\na. Before authorizing access to the information system or performing assigned duties;\nb. When required by information system changes; and\nc. [Assignment: organization-defined frequency] thereafter.", 
+        "Example": "Employees are trained in information security based on their role and job responsibilities.", 
+        "First_Published": "2016-01-14T16:21:28.053Z", 
+        "Last_Updated": "2018-05-11T20:05:45.677Z", 
+        "State_Implementation": "State organizations shall provide role-based information security training to staff with information security responsibilities.", 
+        "State_Implementation_Date": "2016-02-01T00:00:00Z", 
+        "State_Implementation_Required": {
+            "Item": "Yes"
+        }, 
+        "Agency_Implementation": "<p>The chief information security officer may prescribe additional role-based security training on an as-needed basis, based on factors such as information resource risk or scope of assigned duties.</p>", 
+        "Organization_Implementation_Date": "2016-08-17T00:00:00Z", 
+        "Testing_Procedures": "Obtain Security awareness and training policy; procedures addressing security training implementation; NIST Special Publication 800-50; codes of federal regulations; security training curriculum; security training materials; security plan; other relevant documents or records and ascertain if\n(I)the organization identifies personnel with significant information system security responsibilities and roles and documents those roles and responsibilities.\n(ii)the organization provides security training to personnel with identified information system security roles and responsibilities before authorizing access to the system or performing assigned duties and when required by system changes.\n(iii)the security training materials address the procedures and activities necessary to fulfill the organization-defined roles and responsibilities for information system security.\n(iv)the security training is consistent with applicable regulations and NIST Special Publication 800-50;\n(v)the organization defines in the security plan, explicitly or by reference, the frequency of refresher security training; \n(vi)the organization provides refresher security training in accordance with organization-defined frequency, at least annually."
+    }
+}

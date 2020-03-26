@@ -1,0 +1,39 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "PE-01-727", 
+        "Category": {
+            "Item": "Physical and Environmental Protection"
+        }, 
+        "Procedure_Name": "Physical and Environmental Protection Policies and Procedures", 
+        "Functional_Areas": {
+            "Item": "Protect"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": "Physical and Environmental Protection"
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": [
+                "LOW", 
+                "MOD", 
+                "HIGH"
+            ]
+        }, 
+        "NIST_Priority": {
+            "Item": "P1"
+        }, 
+        "Risk_Statement": "Unauthorized parties have access to facilities due to security flaws in physical layout.", 
+        "Description": "The organization:\na. Develops, documents, and disseminates to [Assignment: organization-defined personnel or roles]:\n1. A physical and environmental protection policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and\n2. Procedures to facilitate the implementation of the physical and environmental protection policy and associated physical and environmental protection controls; and\nb. Reviews and updates the current:\n1. Physical and environmental protection policy [Assignment: organization-defined frequency]; and\n2. Physical and environmental protection procedures [Assignment: organization-defined frequency].", 
+        "Example": "The organization has documented policies and supporting procedures to protect organizational facilities based on their criticality, and has implemented physical access safeguards to appropriate granting, controlling, and monitoring of physical access to organizational facilities.", 
+        "First_Published": "2016-01-14T16:21:03.99Z", 
+        "Last_Updated": "2017-01-19T13:56:48.49Z", 
+        "State_Implementation": "The state organization head or his or her designated representative(s) shall document and manage physical access to mission critical information resources facilities to ensure the protection of information resources from unlawful or unauthorized access, use, modification or destruction.", 
+        "State_Implementation_Date": "2015-02-01T00:00:00Z", 
+        "State_Implementation_Required": {
+            "Item": "Yes"
+        }, 
+        "Agency_Implementation": "<p>Information resource owners are responsible for establishing a physical and environmental protection policy that covers all information resources under their control.  Information resource custodians are responsible for developing procedures to facilitate the implementation of the physical and environmental protection policy and associated physical and environmental controls.</p>\n<p>Information resource owners shall review their policies and procedures annually to ensure they remain appropriate to the resources under their control.</p>", 
+        "Organization_Implementation_Date": "2016-01-29T00:00:00Z", 
+        "Testing_Procedures": "Obtain physical and environmental protection policy and procedures and ascertain if : (I)the organization develops and documents physical and environmental protection policy and procedures. (ii)the organization disseminates physical and environmental protection policy and procedures to appropriate elements within the organization. (iii)responsible parties within the organization periodically review physical and environmental protection policy and procedures. (iv)the organization updates physical and environmental protection policy and procedures when organizational review indicates updates are required. (v)the physical and environmental protection policy addresses purpose, scope, roles and responsibilities, management commitment, coordination among organizational entities, and compliance (vi)the physical and environmental protection policy is consistent with the organization\u2019s mission and functions and with applicable laws, directives, policies, regulations, standards, and guidance. (vii)the physical and environmental protection procedures address all areas identified in the physical and environmental protection policy and address achieving policy-compliant implementations of all associated physical and environmental protection controls."
+    }
+}

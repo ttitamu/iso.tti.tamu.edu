@@ -1,0 +1,35 @@
+{
+    "Item": {
+        "@xmlns:ns0": "http://archertech.com/Print/Export", 
+        "Procedure_ID": "PM-16-727", 
+        "Category": {
+            "Item": "Program Management"
+        }, 
+        "Procedure_Name": "Threat Awareness Program", 
+        "Functional_Areas": {
+            "Item": "Identify"
+        }, 
+        "Functional_SubArea_1": {
+            "Item": "Information Security Risk Management"
+        }, 
+        "NIST_Baseline_Level": {
+            "Item": "NOT SELECTED"
+        }, 
+        "NIST_Priority": {
+            "Item": "P1"
+        }, 
+        "Risk_Statement": "Failure to conduct suitable and relevant threat awareness program and to publish notifications to enhance awareness of organizational policies and procedures may result in potential security breach of the operational environment.", 
+        "Description": "The organization implements a threat awareness program that includes a cross-organization information-sharing capability.", 
+        "Example": "A threat awareness program, such as email notification to alert of existing threats is in place.", 
+        "First_Published": "2016-01-14T16:22:05.91Z", 
+        "Last_Updated": "2018-06-19T00:44:58.393Z", 
+        "State_Implementation": "State implementation of this standard is incorporated into TAC 202.", 
+        "State_Implementation_Date": "2016-02-01T00:00:00Z", 
+        "State_Implementation_Required": {
+            "Item": "Yes"
+        }, 
+        "Agency_Implementation": "<p>The chief information security officer is the focal point for distributing threat awareness information to the Agency.  Any threat awareness information that may impact the Agency should be disseminated as operational security permits.  The chief information security officer will determine the appropriate dissemination method, content, and timing of such information.</p>", 
+        "Organization_Implementation_Date": "2018-02-15T00:00:00Z", 
+        "Testing_Procedures": "Obtain documentation of the threat awareness program and ascertain if the organization has established practices to communicate threat events (i.e., tactics, techniques, and procedures) that organizations have experienced, mitigations that organizations have found are effective against certain types of threats, threat intelligence (i.e., indications and warnings about threats that are likely to occur)"
+    }
+}

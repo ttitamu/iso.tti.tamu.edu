@@ -1,6 +1,6 @@
 audiences:
 - url: /catalog/cui
-  title: CUI Programs 
+  title: CUI Programs
 #- url: /catalog/itpro
 #  title: IT Professionals
 #- url: /catalog/researcher
@@ -11,6 +11,13 @@ audiences:
   title: Required Controls
 - url: /catalog/unmanaged-resources
   title: Unmanaged Resource Owners
+baselines:
+- url: /catalog/low
+  title: LOW
+- url: /catalog/mod
+  title: MODERATE
+- url: /catalog/high
+  title: HIGH
 families:
 - url: "#AC"
   title: Access Control
