@@ -52,6 +52,21 @@
 						</div> <!-- /block-inner /block -->
             {% endif %}
 
+            {% if site.data.catalog.baselines %}
+						<div class="clearfix">
+							<div class="block-inner">
+								<h2 class="block-title">Control Baselines</h2>
+								<div class="content" >
+									<ul class="menu">
+                    {% for item in site.data.catalog.baselines %}
+										<li class="leaf"><a href="{{ item.url }}">{{ item.title }}</a></li>
+                    {% endfor %}
+									</ul>
+								</div>
+							</div>
+						</div> <!-- /block-inner /block -->
+            {% endif %}
+
             {% if site.data.catalog.families %}
 						<div class="clearfix">
 							<div class="block-inner">
