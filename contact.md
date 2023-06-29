@@ -3,7 +3,7 @@ layout: page
 title: Contact
 ---
 
-**David Sweeney, Ph.D.**<br />
+**Anthony Schneider**<br />
 Chief Information Officer
 Interim Chief Information Security Officer<br />
 Texas A&M Transportation Institute<br />
